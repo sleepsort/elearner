@@ -17,22 +17,16 @@ except ImportError:
   import ConfigParser as configparser
 
 import random
+import re
 from Tkinter import *
 from tkMessageBox import *
 
 USAGE= '''
   usage:
-    ./dict.py [TEST_OPTION] [TEST_CORPUS]
-
-    TEST_OPTION:
-      -im  : Chinese->Kana using input method (default)
-      -bt  : Chinese->Kana using buttons
+    ./dict.py [TEST_CORPUS]
 
     TEST_CORPUS:
-      data files in data/dict (lesson05.dat as default)
-
-    SPECIAL_OPTION:
-      -m   : hide number of kanas (only available for -im mode)
+      data files in data/dict (lesson01.dat as default)
 
     If no options are supplied and config.ini exists, it loads
     configuration from config.ini.
@@ -43,7 +37,6 @@ FONT_BASE = "Fixsys"
 
 DEFAULT_FONT = "%s 15" % FONT_BASE
 SUCCESS_FONT = "%s 15 bold" % FONT_BASE
-FAIL_FONT    = "%s 15 bold" % FONT_BASE
 DEFAULT_FONT_MIDDLE = "%s 13" % FONT_BASE
 DEFAULT_FONT_LARGE  = "%s 15 bold" % FONT_BASE
 
@@ -53,32 +46,15 @@ FAIL_COLOR    = "red"
 
 COLUMNS = 11
 
-DEFAULT_KANA_PATH = r"data/kana/mixed.dat"
-
 class Util():
-  kanas = {}
   @staticmethod
-  def load_kana_dict(filepath):
-    try:
-      data = open(filepath, "rb").read().decode("utf-8")
-    except IOError, message:
-      print >> sys.stderr, "Kana file could not be opened:", message
-      sys.exit(1)
-    records = data.splitlines(0)
-    dic = {}
-    for record in records:                # format each line
-      fields = record.split()
-      if fields and fields[0][0] != '#':  # ignore lines with heading '#'
-        Util.kanas[fields[0]] = fields[1]
-
-  @staticmethod
-  def generate_problem(kana, hide_length):
+  def generate_problem(key, hide_length):
     problem = ""
-    for idx, ch in enumerate(kana):
+    for idx, ch in enumerate(key):
       if Util.ispunct(ch):
         problem += ch
       else:
-        problem += "__"
+        problem += "_"
       if (idx+1) % 10 == 0:
         problem += "\n"
       else:
@@ -97,93 +73,38 @@ class Util():
 
   @staticmethod
   def ispunct(ch):
-    return unicode(ch) in u'，。〜・'
-
-  @staticmethod
-  def istyoon(ch):
-    return unicode(ch) in u'ー'
-
-  @staticmethod
-  def issokuon(ch):
-    return unicode(ch) in u'っッ'
-
-  @staticmethod
-  def isyoon(ch):
-    return unicode(ch) in u'ゃゅょャュョ'
+    return unicode(ch) in u' .,!?¡¿'
 
   @staticmethod
   def add_solution_char(problem, kana):
-    text = problem.replace("__", kana, 1)
-    completed = (text.find("__") == -1)
+    text = problem.replace("_", kana, 1)
+    completed = (text.find("_") == -1)
     return (text, completed)
 
   @staticmethod
   def del_solution_char(problem):
     text = problem
-    pos = text.find("__")
+    pos = text.find("_")
     updated = (pos != 0)
     if pos == -1:
-      text = text[:-1] + "__"
+      text = text[:-1] + "_"
     elif pos != 0:
       if Util.ispunct(text[pos-2:pos-1]):
-        pos -= 2
-      text = text[:pos-2] + "__" + text[pos-1:]
+        pos -= 1 
+      text = text[:pos-2] + "_" + text[pos-1:]
     return (text, updated)
 
   @staticmethod
-  def kana_to_romaji(kana):
-    romaji = []
-    repeat = False
-    for i, ch in enumerate(kana):
-      if Util.ispunct(ch):
-        romaji.append(" ")
-      elif Util.istyoon(ch):
-        romaji.append("-")
-      elif Util.issokuon(ch):
-        repeat = True
-        romaji.append("z")
-      elif Util.isyoon(ch):
-        last = romaji[i - 1]
-        if last == 'chi':
-          romaji[i - 1] = 't'  # tya, tyu, tyo
-        elif last == 'ji':
-          romaji[i - 1] = 'z'  # zya, zyu, zyo
-        else:
-          romaji[i - 1] = last[:1]
-        romaji.append(Util.kanas[ch])
-      else:
-        cur = Util.kanas[ch]
-        if repeat:
-          if cur == 'chi':
-            romaji[i - 1] = 't'  # tya, tyu, tyo
-          elif cur == 'ji':
-            romaji[i - 1] = 'z'  # zya, zyu, zyo
-          else:
-            romaji[i - 1] = cur[:1]
-          repeat = False
-        romaji.append(cur)
-    return ''.join(romaji)
-
-  @staticmethod
-  def match_romaji(truth, test):
-    for noise in ',.~ \n\t':
+  def match_str(truth, test):
+    for noise in u'.,!?¡¿ \n\t':
       truth = truth.replace(noise, '')
       test = test.replace(noise, '')
     if len(truth) != len(test):
       return False
     for (x, y) in zip(truth, test):
-      if x == '-' and y in '-aiueo':
-        continue
       if x != y:
         return False
     return True
-
-  @staticmethod
-  def match_kana(truth, test):
-    for noise in u'　，。〜・ \n\t':
-      truth = truth.replace(noise, '')
-      test = test.replace(noise, '')
-    return truth == test
 
 class DictProcessor():
   def __init__(self, filepaths):
@@ -209,25 +130,19 @@ class DictProcessor():
           self.linenum = len(self.pending)
           continue
         self.linenum = 1
-      fields = self.pending[self.linenum].split()
-      if len(fields) <= 2:
-        #print >> sys.stderr, "Bogus line? %s" % fields
+      fields = re.split(r"[ ]{2,}", self.pending[self.linenum])
+      if len(fields) < 2:
+        print >> sys.stderr, "Bogus line? %s" % fields
         continue
       return fields
 
 class DictItem(object):
-  def __init__(self, kana=None, accent=None, kanji=None, romaji=None, chinese=None):
-    self.kana = kana
-    self.accent = accent
-    self.kanji = kanji
-    self.romaji = romaji
+  def __init__(self, spanish=None, chinese=None):
+    self.spanish = spanish
     self.chinese = chinese
 
   def copy(self, other):
-    self.kana = other.kana
-    self.accent = other.accent
-    self.kanji = other.kanji
-    self.romaji = other.romaji
+    self.spanish = other.spanish
     self.chinese = other.chinese
 
 class Dict():
@@ -238,44 +153,23 @@ class Dict():
     processor = DictProcessor(filepaths)
     line = processor.readline()
     while line:
-      accent, kana, kanji, romaji, chinese = [None] * 5
-      accent = line[0]
-      kana = line[1]
-      what = line[2]
-      offset = 2
-      if what[0] == '[' and what[-1] == ']':
-        kanji = what
-        offset += 1
-      elif what[0] == '<' and what[-1] == '>':
-        romaji = what
-        offset += 1
-      if len(line) > 3:
-        what = line[3]
-        if what[0] == '<' and what[-1] == '>':
-          romaji = what
-          offset += 1
-      chinese = line[offset:]
+      spanish, chinese = [None] * 2
+      spanish = line[0]
+      chinese = line[1:]
       chinese = ' '.join(list(chinese))
-      if accent == '?':
-        accent = None
-      if kanji:
-        kanji = kanji[1:-1]
-      if romaji:
-        romaji = romaji[1:-1]
-      Dict.dicts[kana] = DictItem(kana, accent, kanji, romaji, chinese)
+      Dict.dicts[spanish] = DictItem(spanish, chinese)
       line = processor.readline()
 
 class Logger(object):
-  def __init__(self, infix):
+  def __init__(self):
     self.id = os.getpid()
-    self.infix = infix
-    self.filename = 'log/dict.%s.%d.tmp' % (infix, self.id);
+    self.filename = 'log/dict.%d.tmp' % (self.id);
     self.file = open(self.filename, 'w', 0)
     print >> self.file, "#LOG <flag> <key>"
     self.done = self.cleanup(self.filename)
 
   def cleanup(self, exclude):
-    oldlogs = glob.glob("log/dict.%s.*.tmp" % self.infix)
+    oldlogs = glob.glob("log/dict.*.tmp")
     for i, item in enumerate(oldlogs):
       oldlogs[i] = item.replace('\\', '/')
     oldlogs = set(oldlogs)
@@ -305,7 +199,7 @@ class Logger(object):
       self.file.close()
     collect = {}
     try:
-      file = open('log/dict.%s.dat' % self.infix, 'rb')
+      file = open('log/dict.dat', 'rb')
       if file.readline().find('#LOG') == -1:
         print >> sys.stderr, "Previous log file invalid"
         file.close()
@@ -333,7 +227,7 @@ class Logger(object):
       else:
         collect[key][0] += 1
     newdata.close()
-    file = open('log/dict.%s.dat' % self.infix, 'w', 0)
+    file = open('log/dict.dat', 'w', 0)
     print >> file, "#LOG <pass> <fail> <key>"
 
     for key in sorted(collect.iterkeys()):
@@ -345,16 +239,14 @@ class Logger(object):
 
 
 class Runner(object):
-  def __init__(self, option_type, hide_length):
-    self.option_type = option_type
-    self.hide_length = hide_length and option_type == '-im'
+  def __init__(self):
+    self.hide_length = False
     self.pended = set(Dict.dicts.keys())
     self.failed = set()
     self.key  = None
     self.totalpass = 0
     self.totalfail = 0
-    infix = option_type[1:]
-    self.logger = Logger(infix)
+    self.logger = Logger()
     self.pended = self.pended - self.logger.done
 
   def next(self):
@@ -374,28 +266,15 @@ class Runner(object):
   def test(self, input):
     key, item = self.key, Dict.dicts[self.key]
     try:
-      print item.kana, 
+      print item.spanish, 
     except UnicodeEncodeError, message:
       print "----",
-    if item.accent:
-      print "(%s)" % item.accent,
-    if item.kanji:
-      try:
-        print item.kanji,
-      except UnicodeEncodeError, message:
-        print "----",
-    if self.option_type == '-im' and item.kanji:
-      solution = item.kanji
-    else:
-      solution = key
-    if item.romaji:
-      fake = item.romaji
-    else:
-      fake = Util.kana_to_romaji(key)
-    print fake,
+    try:
+      print item.chinese,
+    except UnicodeEncodeError, message:
+      print "----",
     print "{%s}" % input
-    success = Util.match_kana(solution, input)
-    success = success or Util.match_romaji(fake, input)
+    success = Util.match_str(key, input)
     if success:
       self.totalpass += 1
       self.logger.write(1, key)
@@ -406,35 +285,34 @@ class Runner(object):
     self.pended.remove(key)
     item = DictItem()
     item.copy(Dict.dicts[key])
-    item.kana = Util.reformat(item.kana)
-    item.kanji = Util.reformat(item.kanji)
+    item.spanish = Util.reformat(item.spanish)
+    item.chinese = Util.reformat(item.chinese)
     return item, success
 
   def stats(self):
     return self.totalpass, self.totalfail
 
-class JLearner(Frame):
-  def __init__(self, option1, option2, dict_files):
+class ELearner(Frame):
+  def __init__(self, dict_files):
     """Create and grid several components into the frame"""
     Frame.__init__(self)
 
-    Util.load_kana_dict(DEFAULT_KANA_PATH)
     Dict.load_problem_dict(dict_files)
 
-    self.option_type = option1
-    self.hide_length = option2
     self.dict_files = dict_files
 
-    self.runner = Runner(option1, option2)
+    self.runner = Runner()
 
     # text variables that might be updated in real time
-    self.active_text = {"kana" : StringVar(), "accent"  : StringVar(),
-                        "misc" : StringVar(), "chinese" : StringVar(),
-                       "input" : StringVar(), "counter" : StringVar()}
+    self.active_text = {"input" : StringVar(),
+                        "counter" : StringVar(),
+                        "spanish" : StringVar(),
+                        "chinese" : StringVar()}
 
     # widgets that might change style in real time
-    self.active_widgets = {"kana" : None, "misc"    : None,
-                          "input" : None, "chinese" : None }
+    self.active_widgets = {"input" : None,
+                           "spanish" : None,
+                           "chinese" : None }
    
     self.init_widgets()
 
@@ -446,38 +324,23 @@ class JLearner(Frame):
   def init_widgets(self):
     self.bind_all("<Escape>", self.del_kana)
     self.pack(expand = NO, fill = BOTH)
-    self.master.title("Japanese Learning")
-    if self.option_type == '-im':
-      self.master.geometry("350x200")
-    else:
-      self.master.geometry("350x800")
+    self.master.title("Español Learning")
+    self.master.geometry("350x180")
     self.master.rowconfigure(0, weight = 1)
     self.master.columnconfigure(0, weight = 1)
     self.grid(sticky = W+E+N+S)
 
     self.row = 0
-    kana_pane = Label(self)
-    kana_pane["textvariable"] = self.active_text["kana"]
-    kana_pane["height"] = 2
-    kana_pane["font"] = DEFAULT_FONT_LARGE
+    spanish_pane = Label(self)
+    spanish_pane["textvariable"] = self.active_text["spanish"]
+    spanish_pane["height"] = 2
+    spanish_pane["font"] = DEFAULT_FONT_LARGE
     pad_pane = Label(self)
     pad_pane["text"] = ""
     pad_pane["width"] = 2
     pad_pane.grid(row = self.row, rowspan = 2, column = 0, columnspan = 1)
-    kana_pane.grid(row = self.row, rowspan = 2, column = 1, columnspan = COLUMNS - 2, sticky = W+E+N+S)
-    accent_pane = Label(self)
-    accent_pane["textvariable"] = self.active_text["accent"]
-    accent_pane["width"] = 2
-    accent_pane.grid(row = self.row, rowspan = 2, column = COLUMNS - 1, columnspan = 1)
-    self.active_widgets["kana"] = kana_pane
-    self.row += 2;
-
-    misc_pane = Label(self)
-    misc_pane["textvariable"] = self.active_text["misc"]
-    misc_pane["height"] = 2
-    misc_pane["font"] = DEFAULT_FONT_MIDDLE
-    misc_pane.grid(row = self.row, rowspan = 2, columnspan = COLUMNS, sticky = W+E+N+S)
-    self.active_widgets["misc"] = misc_pane
+    spanish_pane.grid(row = self.row, rowspan = 2, column = 1, columnspan = COLUMNS - 2, sticky = W+E+N+S)
+    self.active_widgets["spanish"] = spanish_pane
     self.row += 2;
 
     chinese_pane = Label(self)
@@ -490,25 +353,20 @@ class JLearner(Frame):
 
     counter_pane = Label(self)
     counter_pane["textvariable"] = self.active_text["counter"]
-    if self.option_type == '-im':
-      input_pane = Entry(self)
-      input_pane["textvariable"] = self.active_text["input"]
-      input_pane.grid(row = self.row, column = 1, columnspan = COLUMNS - 2, sticky = W+E+N+S)
-      input_pane.focus_set()
-      input_pane.bind("<Return>", self.test)
-      confirm_button = Button(self)
-      confirm_button["text"] = "ok"
-      confirm_button["width"] = 1
-      confirm_button.bind("<ButtonRelease>", self.test)
-      confirm_button.grid(row = self.row + 1, column = COLUMNS - 2, columnspan = 1, sticky = W+E+N+S)
-      counter_pane.grid(row = self.row + 1, columnspan = 3, column = 1, sticky = W+E+N+S)
-      self.row = self.row + 2;
-    else:
-      input_pane = Label(self)
-      input_pane["textvariable"] = self.active_text["kana"]
-      input_pane.focus_set()
-      self.init_buttons()
-      counter_pane.grid(row = self.row, columnspan = 3, column = COLUMNS - 3)
+
+    input_pane = Entry(self)
+    input_pane["textvariable"] = self.active_text["input"]
+    input_pane.grid(row = self.row, column = 1, columnspan = COLUMNS - 2, sticky = W+E+N+S)
+    input_pane.focus_set()
+    input_pane.bind("<Return>", self.test)
+    confirm_button = Button(self)
+    confirm_button["text"] = "ok"
+    confirm_button["width"] = 1
+    confirm_button.bind("<ButtonRelease>", self.test)
+    confirm_button.grid(row = self.row + 1, column = COLUMNS - 2, columnspan = 1, sticky = W+E+N+S)
+    counter_pane.grid(row = self.row + 1, columnspan = 3, column = 1, sticky = W+E+N+S)
+    self.row = self.row + 2;
+
     self.active_widgets["input"] = input_pane
 
     self.rowconfigure(self.row, weight = 1)
@@ -520,35 +378,24 @@ class JLearner(Frame):
       return
     self.lock = True
     item, success = self.runner.test(self.active_text["input"].get())
-    kana = item.kana
-    misc = " [%s]" % item.kanji if item.kanji else ""
-    accent = "%s" % item.accent if item.accent else ""
-    self.active_text["kana"].set(kana)
-    self.active_text["misc"].set(misc)
-    self.active_text["accent"].set(accent)
+    spanish = item.spanish
+    self.active_text["spanish"].set(spanish)
     if success:
-      self.active_widgets["kana"]["foreground"] = SUCCESS_COLOR
-      self.active_widgets["kana"]["font"] = SUCCESS_FONT
-      self.active_widgets["misc"]["foreground"] = SUCCESS_COLOR
-      self.active_widgets["misc"]["font"] = SUCCESS_FONT
+      self.active_widgets["spanish"]["foreground"] = SUCCESS_COLOR
+      self.active_widgets["spanish"]["font"] = SUCCESS_FONT
       self.active_widgets["input"]["state"] = 'disabled'
       self.after(800, self.next)
     else:
-      if not item.kanji:
-        self.active_widgets["kana"]["foreground"] = FAIL_COLOR
-        self.active_widgets["kana"]["font"] = FAIL_FONT
-      else:
-        self.active_widgets["misc"]["foreground"] = FAIL_COLOR
-        self.active_widgets["misc"]["font"] = FAIL_FONT
+      self.active_widgets["spanish"]["foreground"] = FAIL_COLOR
       self.active_widgets["input"]["state"] = 'disabled'
       self.after(4000, self.next)
 
   def add_kana(self, event):
     if not self.lock:
       kana = event.widget["text"]
-      text = self.active_text["kana"].get()
+      text = self.active_text["spanish"].get()
       text, complete = Util.add_solution_char(text, kana)
-      self.active_text["kana"].set(text)
+      self.active_text["spanish"].set(text)
       if complete:
         newtext = text.replace(' ', '')
         self.active_text["input"].set(newtext)
@@ -556,24 +403,20 @@ class JLearner(Frame):
 
   def del_kana(self, event):
     if not self.lock:
-      text = self.active_text["kana"].get()
+      text = self.active_text["spanish"].get()
       text, update = Util.del_solution_char(text)
-      self.active_text["kana"].set(text)
+      self.active_text["spanish"].set(text)
 
   def next(self):
     self.lock = False
     passed, total, hint, problem = self.runner.next()
     if problem:
-      self.active_text["kana"].set(hint)
-      self.active_text["misc"].set("")
-      self.active_text["accent"].set("")
+      self.active_text["spanish"].set(hint)
       self.active_text["chinese"].set(problem)
       self.active_text["counter"].set("%d / %d" % (passed, total))
       self.active_text["input"].set("")
-      self.active_widgets["kana"]["foreground"] = DEFAULT_COLOR
-      self.active_widgets["kana"]["font"] = DEFAULT_FONT
-      self.active_widgets["misc"]["foreground"] = DEFAULT_COLOR
-      self.active_widgets["misc"]["font"] = DEFAULT_FONT
+      self.active_widgets["spanish"]["foreground"] = DEFAULT_COLOR
+      self.active_widgets["spanish"]["font"] = DEFAULT_FONT
       self.active_widgets["input"]["state"] = 'normal'
     else:
       passed, failed = self.runner.stats()
@@ -583,96 +426,43 @@ class JLearner(Frame):
       showinfo("Message", info)
       self.quit()
 
-  def init_buttons(self):
-    try:
-      data = open(DEFAULT_KANA_PATH, "rb").read().decode("utf-8")
-    except IOError, message:
-      print >> sys.stderr, "Kana file could not be opened:", message
-      sys.exit(1)
-    records = data.splitlines(0)
-    row = self.row
-    for i, record in enumerate(records):
-      fields = record.split()
-      button = Button(self, text = "  ")
-      button["font"] = DEFAULT_FONT_MIDDLE
-      row = self.row + i / COLUMNS
-      column = i % COLUMNS
-      button.grid(row = row, column = column, sticky = W+E+N+S)
-      if fields and fields[0][0] != '#':  # ignore lines with heading '#'
-        button["text"] = fields[0]
-        button.bind("<ButtonRelease>", self.add_kana)
-    del_button = Button(self)
-    del_button["text"] = "<- BackSpace(ESC)"
-    del_button.grid(row = row + 1, column = 0, columnspan = 5)
-    del_button.bind("<ButtonRelease>", self.del_kana);
-    self.row += (len(records) + COLUMNS - 1) / COLUMNS
-
-def main(option_type1, option_type2, dict_files):
-  JLearner(option_type1, option_type2, dict_files).mainloop()
+def main(dict_files):
+  ELearner(dict_files).mainloop()
 
 def load_config():
   config = configparser.ConfigParser()
   config.read('config.ini')
-  option_type1 = config.get('dict', 'testmode')
-  option_type2 = config.get('dict', 'hidelength')
   test_dir  = config.get('dict', 'testdir').split('|')
   test_file = config.get('dict', 'testfile').split('|')
-  if option_type1 in set(['im', 'bt']):
-    option_type1 = '-' + option_type1
-  else:
-    return None
-  if option_type2 == 'yes':
-    option_type2 = '-m'
-  else:
-    option_type2 = ''
   dict_files = []
   for dir in test_dir:
     dir = dir.strip()
     for file in test_file:
       file = file.strip()
       dict_files += glob.glob("%s/%s" % (dir, file))
-  return option_type1, option_type2, dict_files
+  return dict_files
 
 if __name__ == "__main__":
   os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
   argv = sys.argv[1:]
 
-  options = []
   files = []
   for x in argv:
-    if x.find('-') != -1:
-      options.append(x)
-    else:
-      files.append(x)
-
-  option1 = set(options) & set(['-im', '-bt'])
-  option1 = list(option1)
-  option2 = set(options) & set(['-m'])
-  option2 = list(option2)
-
-  if options and not option1 and not option2:
-    print USAGE
-    sys.exit(1)
+    files.append(x)
 
   config = False
   try:
-    option_type1, option_type2, dict_files = load_config()
+    dict_files = load_config()
     config = True
   except Exception, e:
     print >> sys.stderr, "load config error:", e 
 
-  if options or files or not config:
+  if files or not config:
     # default options 
     # (when no config file exists, and no arguments)
-    option_type1 = '-im'
-    option_type2 = ''
-    dict_files = ['data/dict/lesson05.dat']
-    if option1:
-      option_type1 = option1[0]
-    if option2:
-      option_type2 = option2[0]
+    dict_files = ['data/dict/lesson01.dat']
     if files:
       dict_files = files
 
-  main(option_type1, option_type2, dict_files)
+  main(dict_files)
