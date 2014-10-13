@@ -57,7 +57,7 @@ class Util():
         problem += ch
       else:
         problem += "_"
-      if (idx+1) % 10 == 0:
+      if (idx+1) % 15 == 0:
         problem += "\n"
       else:
         if hide_length:
@@ -70,7 +70,7 @@ class Util():
   def reformat(longstr):
     if not longstr:
       return longstr
-    slice = [longstr[i:i+10] for i in range(0, len(longstr), 10)]
+    slice = [longstr[i:i+15] for i in range(0, len(longstr), 15)]
     return "\n".join(slice)
 
   @staticmethod
