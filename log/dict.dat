@@ -1,29 +1,70 @@
 #LOG <pass> <fail> <key>
   9   0   Ana
  10   1   Buenos días.
+  4   0   Daniel
+  4   0   David
   9   0   Elena
   9   0   Ema
   9   0   Encantada.
   9   0   Encantado.
   9   0   Lola
   9   0   Manolo
+  4   0   Manuel
+  4   0   Me llamo...
   9   2   Mucho gusto.
   9   0   Paco
   9   0   Pepe
+  4   0   Rosa
+  4   0   Susana
+  4   1   alemán
+  4   2   alemána
   9   0   amiga
   9   3   amigo
+  4   1   aquel
+  4   1   aquella
+  4   0   aquellas
+  4   0   aquellos
+  4   1   camarera
+  4   0   camarero
+  4   2   de
   9   0   ella
   9   0   ellas
   9   0   ellos
+  4   1   empresaria
+  4   0   empresario
+  4   1   enfermera
+  4   2   enfermero
   9   0   eres
   9   0   es
+  4   2   escuela
+  4   0   español
+  4   0   española
+  4   1   esta
+  4   1   este
+  4   1   estudiante
+  4   2   idioma
+  4   1   joven
+  4   0   la
+  4   2   médica
+  4   1   médico
   9   0   no
+  4   1   profesor
  10   0   quién
+  4   1   qué
+  4   0   secretaria
+  4   1   secretario
+  4   0   señor
+  4   2   señora
+  4   1   señorita
   9   0   somos
   9   1   son
   9   0   soy
   9   1   sí
+  4   1   también
   9   2   tú
+  4   1   usted
   9   0   y
   9   0   ¡Hola!
+  4   1   ¿Cómo te llamas?
   9   0   él
+  4   1   ésta
