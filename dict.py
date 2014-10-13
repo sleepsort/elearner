@@ -108,7 +108,7 @@ class Util():
     return True
   @staticmethod
   def split(str):
-    fields = re.split(r"[ ]{2,}", str)
+    fields = re.split(r"[ ]{2,}", str.strip())
     return filter(None, fields)
 
 
@@ -211,7 +211,7 @@ class Logger(object):
         file.close()
       else:
         for line in file:
-          line = Util.split(line.strip())
+          line = Util.split(line)
           passed, failed, key = int(line[0]), int(line[1]), line[2]
           if key not in collect:
             collect[key] = [passed, failed]
