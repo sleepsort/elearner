@@ -38,6 +38,7 @@ FONT_BASE = "Fixsys"
 DEFAULT_FONT = "%s 15" % FONT_BASE
 SUCCESS_FONT = "%s 15 bold" % FONT_BASE
 FAIL_FONT = SUCCESS_FONT
+INPUT_FONT = "%s 10 bold" % FONT_BASE
 DEFAULT_FONT_MIDDLE = "%s 13" % FONT_BASE
 DEFAULT_FONT_LARGE  = "%s 15 bold" % FONT_BASE
 
@@ -360,7 +361,7 @@ class ELearner(Frame):
     counter_pane = Label(self)
     counter_pane["textvariable"] = self.active_text["counter"]
 
-    input_pane = Entry(self)
+    input_pane = Entry(self, font = INPUT_FONT)
     input_pane["textvariable"] = self.active_text["input"]
     input_pane.grid(row = self.row, column = 1, columnspan = COLUMNS - 2, sticky = W+E+N+S)
     input_pane.focus_set()
