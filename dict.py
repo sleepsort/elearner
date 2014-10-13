@@ -37,6 +37,7 @@ FONT_BASE = "Fixsys"
 
 DEFAULT_FONT = "%s 15" % FONT_BASE
 SUCCESS_FONT = "%s 15 bold" % FONT_BASE
+FAIL_FONT = SUCCESS_FONT
 DEFAULT_FONT_MIDDLE = "%s 13" % FONT_BASE
 DEFAULT_FONT_LARGE  = "%s 15 bold" % FONT_BASE
 
@@ -76,8 +77,8 @@ class Util():
     return unicode(ch) in u' .,!?¡¿'
 
   @staticmethod
-  def add_solution_char(problem, kana):
-    text = problem.replace("_", kana, 1)
+  def add_solution_char(problem, ch):
+    text = problem.replace("_", ch, 1)
     completed = (text.find("_") == -1)
     return (text, completed)
 
@@ -105,6 +106,11 @@ class Util():
       if x != y:
         return False
     return True
+  @staticmethod
+  def split(str):
+    fields = re.split(r"[ ]{2,}", str)
+    return filter(None, fields)
+
 
 class DictProcessor():
   def __init__(self, filepaths):
@@ -130,7 +136,7 @@ class DictProcessor():
           self.linenum = len(self.pending)
           continue
         self.linenum = 1
-      fields = re.split(r"[ ]{2,}", self.pending[self.linenum])
+      fields = Util.split(self.pending[self.linenum])
       if len(fields) < 2:
         print >> sys.stderr, "Bogus line? %s" % fields
         continue
@@ -184,14 +190,14 @@ class Logger(object):
         for line in records[1:]:
           line = line.strip()
           print >> self.file, line.encode('utf-8')
-          fields = line.split()
+          fields = Util.split(line)
           if fields[0] == '1':  # ignore passed items
             done.add(fields[1])
       os.remove(name)
     return done
 
   def write(self, flag, key):
-    info = "%s %s" % (flag, key)
+    info = "%s   %s" % (flag, key)
     print >> self.file, info.encode('utf-8')
 
   def merge(self):
@@ -205,7 +211,7 @@ class Logger(object):
         file.close()
       else:
         for line in file:
-          line = line.strip().split()
+          line = Util.split(line.strip())
           passed, failed, key = int(line[0]), int(line[1]), line[2]
           if key not in collect:
             collect[key] = [passed, failed]
@@ -218,7 +224,7 @@ class Logger(object):
     newdata = open(self.filename, 'r')
     newdata.readline()
     for record in newdata:
-      fields = record.split()
+      fields = Util.split(record)
       flag, key = int(fields[0]), fields[1]
       if key not in collect:
         collect[key] = [0, 0]
@@ -322,10 +328,10 @@ class ELearner(Frame):
     self.after(50, self.next)
 
   def init_widgets(self):
-    self.bind_all("<Escape>", self.del_kana)
+    self.bind_all("<Escape>", self.del_char)
     self.pack(expand = NO, fill = BOTH)
     self.master.title("Español Learning")
-    self.master.geometry("350x180")
+    self.master.geometry("350x160")
     self.master.rowconfigure(0, weight = 1)
     self.master.columnconfigure(0, weight = 1)
     self.grid(sticky = W+E+N+S)
@@ -387,21 +393,22 @@ class ELearner(Frame):
       self.after(800, self.next)
     else:
       self.active_widgets["spanish"]["foreground"] = FAIL_COLOR
+      self.active_widgets["spanish"]["font"] = FAIL_FONT
       self.active_widgets["input"]["state"] = 'disabled'
       self.after(4000, self.next)
 
-  def add_kana(self, event):
+  def add_char(self, event):
     if not self.lock:
-      kana = event.widget["text"]
+      ch = event.widget["text"]
       text = self.active_text["spanish"].get()
-      text, complete = Util.add_solution_char(text, kana)
+      text, complete = Util.add_solution_char(text, ch)
       self.active_text["spanish"].set(text)
       if complete:
         newtext = text.replace(' ', '')
         self.active_text["input"].set(newtext)
         self.test(event)
 
-  def del_kana(self, event):
+  def del_char(self, event):
     if not self.lock:
       text = self.active_text["spanish"].get()
       text, update = Util.del_solution_char(text)
