@@ -342,10 +342,6 @@ class ELearner(Frame):
     spanish_pane["textvariable"] = self.active_text["spanish"]
     spanish_pane["height"] = 2
     spanish_pane["font"] = DEFAULT_FONT_LARGE
-    pad_pane = Label(self)
-    pad_pane["text"] = ""
-    pad_pane["width"] = 2
-    pad_pane.grid(row = self.row, rowspan = 2, column = 0, columnspan = 1)
     spanish_pane.grid(row = self.row, rowspan = 2, column = 1, columnspan = COLUMNS - 2, sticky = W+E+N+S)
     self.active_widgets["spanish"] = spanish_pane
     self.row += 2;
