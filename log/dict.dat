@@ -1,71 +1,77 @@
 #LOG <pass> <fail> <key>
  14   0   Ana
  15   2   Buenos días.
-  9   0   Daniel
-  9   0   David
+ 11   0   Daniel
+ 11   0   David
  14   0   Elena
  14   0   Ema
  14   0   Encantada.
  14   0   Encantado.
  14   0   Lola
  14   0   Manolo
-  9   0   Manuel
-  9   1   Me llamo...
+ 11   0   Manuel
+ 11   1   Me llamo...
  14   2   Mucho gusto.
  14   0   Paco
  14   0   Pepe
-  9   0   Rosa
-  9   0   Susana
-  9   2   alemana
-  9   1   alemán
+ 11   0   Rosa
+ 11   0   Susana
+ 11   2   alemana
+ 11   1   alemán
  14   0   amiga
  14   3   amigo
-  9   1   aquel
-  9   2   aquella
-  9   2   aquellas
-  9   0   aquellos
-  9   1   camarera
-  9   0   camarero
-  9   2   de
+ 11   1   aquel
+ 11   2   aquella
+ 11   3   aquellas
+ 11   1   aquellos
+ 11   1   camarera
+ 11   0   camarero
+ 11   2   de
  14   0   ella
  14   0   ellas
  14   0   ellos
-  9   1   empresaria
-  9   0   empresario
-  9   1   enfermera
-  9   2   enfermero
+ 11   1   empresaria
+ 11   0   empresario
+ 11   1   enfermera
+ 11   2   enfermero
  14   0   eres
  14   0   es
-  9   3   escuela
-  9   0   español
-  9   0   española
-  9   1   esta
-  9   2   este
-  9   1   estudiante
-  9   2   idioma
-  9   1   joven
-  3   0   jóvenes
-  9   0   la
-  9   2   médica
-  9   1   médico
+  2   0   esa
+  2   1   esas
+ 11   3   escuela
+  2   2   ese
+  2   1   esos
+ 11   0   español
+ 11   0   española
+ 11   1   esta
+  2   0   estas
+ 11   2   este
+  2   1   estos
+ 11   1   estudiante
+ 11   2   idioma
+ 11   1   joven
+  5   0   jóvenes
+ 11   0   la
+ 11   2   médica
+ 11   3   médico
  14   0   no
-  9   1   profesor
+ 11   1   profesor
  15   0   quién
-  9   1   qué
-  9   0   secretaria
-  9   2   secretario
-  9   0   señor
-  9   4   señora
-  9   1   señorita
+ 11   1   qué
+ 11   0   secretaria
+ 11   2   secretario
+ 11   0   señor
+ 11   4   señora
+ 11   1   señorita
  14   0   somos
  14   1   son
  14   0   soy
  14   1   sí
-  9   1   también
+ 11   1   también
  14   3   tú
-  9   1   usted
+ 11   2   usted
  14   0   y
  14   0   ¡Hola!
-  9   1   ¿Cómo te llamas?
+ 11   1   ¿Cómo te llamas?
  14   0   él
-  9   1   ésta
+ 11   1   ésta
