@@ -1,42 +1,42 @@
 #LOG <pass> <fail> <key>
  16   0   Ana
-  5   3   Argentina
-  5   1   Berlín
-  5   1   Bolivia
-  5   0   Buenos Aires
+  6   3   Argentina
+  6   1   Berlín
+  6   1   Bolivia
+  6   0   Buenos Aires
  17   2   Buenos días.
-  5   1   Caracas
-  5   0   Cecilia
-  5   0   China
+  6   1   Caracas
+  6   0   Cecilia
+  6   0   China
  15   0   Daniel
  15   0   David
  16   0   Elena
  16   0   Ema
  16   0   Encantada.
  16   0   Encantado.
-  5   0   Juan
-  5   0   Julio
-  5   1   La Paz
-  5   0   Linda
+  6   0   Juan
+  6   0   Julio
+  6   1   La Paz
+  6   0   Linda
  16   0   Lola
-  5   1   Londres
-  5   0   Lucia
-  5   0   Madrid
+  6   1   Londres
+  6   0   Lucia
+  6   0   Madrid
  16   0   Manolo
  15   0   Manuel
-  5   0   Marcos
-  5   0   Mario
+  6   0   Marcos
+  6   0   Mario
  15   1   Me llamo...
  16   2   Mucho gusto.
  16   0   Paco
-  5   1   París
+  6   1   París
  16   0   Pepe
-  5   0   Roma
+  6   0   Roma
  15   0   Rosa
  15   0   Susana
-  5   2   Venezuela
-  5   4   abogada
-  5   3   abogado
+  6   2   Venezuela
+  6   4   abogada
+  6   4   abogado
  15   2   alemana
   3   0   alemanes
  15   1   alemán
@@ -46,11 +46,11 @@
  15   2   aquella
  15   3   aquellas
  15   1   aquellos
-  5   0   bien
+  6   0   bien
  15   1   camarera
  15   1   camarero
  15   2   de
-  5   2   dónde
+  6   2   dónde
  16   0   ella
  16   0   ellas
  16   0   ellos
@@ -72,23 +72,23 @@
  15   2   este
   6   3   estos
  15   1   estudiante
-  5   1   francés
-  5   0   francésa
-  5   1   funcionaria
-  5   0   funcionario
-  5   3   gerente
-  5   2   gracias
+  6   1   francés
+  6   0   francésa
+  6   1   funcionaria
+  6   0   funcionario
+  6   3   gerente
+  6   2   gracias
  15   2   idioma
-  5   1   inglés
-  5   1   inglésa
-  5   0   italiana
-  5   1   italiano
+  6   1   inglés
+  6   1   inglésa
+  6   0   italiana
+  6   2   italiano
  15   1   joven
   9   0   jóvenes
  15   0   la
   1   0   me
   1   0   mi
-  5   1   muy
+  6   1   muy
  15   2   médica
  15   4   médico
  16   0   no
@@ -109,10 +109,10 @@
  16   3   tú
  15   2   usted
  16   0   y
-  5   0   yo
+  6   0   yo
  16   0   ¡Hola!
  15   1   ¿Cómo te llamas?
-  5   1   ¿Qué tal?
+  6   1   ¿Qué tal?
  16   0   él
  15   1   ésta
-  5   0   éste
+  6   0   éste
