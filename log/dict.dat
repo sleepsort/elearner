@@ -1,42 +1,45 @@
 #LOG <pass> <fail> <key>
  18   0   Ana
-  6   3   Argentina
-  6   1   Berlín
-  6   1   Bolivia
-  6   0   Buenos Aires
+  7   3   Argentina
+  7   1   Berlín
+  7   1   Bolivia
+  7   0   Buenos Aires
  19   2   Buenos días.
-  6   1   Caracas
-  6   0   Cecilia
-  6   0   China
+  7   2   Caracas
+  7   0   Cecilia
+  7   0   China
  17   0   Daniel
  17   0   David
  18   0   Elena
  18   0   Ema
  18   0   Encantada.
  18   0   Encantado.
-  6   0   Juan
-  6   0   Julio
-  6   1   La Paz
-  6   0   Linda
+  1   1   España
+  7   0   Juan
+  7   0   Julio
+  7   1   La Paz
+  7   0   Linda
  18   0   Lola
-  6   1   Londres
-  6   0   Lucía
-  6   0   Madrid
+  7   1   Londres
+  7   1   Lucía
+  7   0   Madrid
  18   0   Manolo
  17   0   Manuel
-  6   0   Marcos
-  6   0   Mario
+  7   0   Marcos
+  7   0   Mario
  17   1   Me llamo...
  18   2   Mucho gusto.
+  1   0   México
  18   0   Paco
-  6   1   París
+  7   1   París
  18   0   Pepe
-  6   0   Roma
+  7   0   Roma
  17   0   Rosa
+  1   0   Soy de España.
  17   0   Susana
-  6   2   Venezuela
-  6   4   abogada
-  6   4   abogado
+  7   2   Venezuela
+  7   4   abogada
+  7   4   abogado
   6   3   agradable
   6   3   ahora
   6   6   alegre
@@ -53,7 +56,7 @@
  17   1   aquellos
   6   3   así
   6   6   bastante
-  6   0   bien
+  7   0   bien
   6   4   bonita
   6   2   bonito
   6   1   cama
@@ -67,7 +70,7 @@
   6   3   desordenada
   6   0   desordenado
   6   0   dos
-  6   2   dónde
+  7   2   dónde
   6   0   el
  18   0   ella
  18   0   ellas
@@ -94,12 +97,12 @@
  17   2   este
   8   4   estos
  17   1   estudiante
-  6   0   francesa
-  6   1   francés
-  6   1   funcionaria
-  6   0   funcionario
-  6   3   gerente
-  6   2   gracias
+  7   1   francesa
+  7   1   francés
+  7   1   funcionaria
+  7   0   funcionario
+  7   3   gerente
+  7   2   gracias
   6   3   grande
   6   1   guapa
   6   2   guapo
@@ -108,10 +111,10 @@
   6   2   hermano
   6   2   hoy
  17   2   idioma
-  6   1   inglesa
-  6   1   inglés
-  6   0   italiana
-  6   2   italiano
+  7   1   inglesa
+  7   1   inglés
+  7   0   italiana
+  7   2   italiano
  17   1   joven
  11   0   jóvenes
  17   0   la
@@ -120,7 +123,7 @@
   3   0   me
   6   4   mejor
   3   0   mi
-  6   1   muy
+  7   1   muy
  17   2   médica
  17   4   médico
  18   0   no
@@ -151,14 +154,17 @@
   2   0   tu
  18   3   tú
  17   2   usted
+  1   1   venezolana
+  1   0   venezolano
  18   0   y
-  6   0   yo
+  7   1   yo
  18   0   ¡Hola!
  17   1   ¿Cómo te llamas?
+  1   0   ¿De dónde eres?
   2   0   ¿Quién eres?
   2   0   ¿Quién es usted?
   2   0   ¿Qué es él?
-  6   1   ¿Qué tal?
+  7   1   ¿Qué tal?
  18   0   él
  17   1   ésta
-  6   0   éste
+  7   0   éste
