@@ -8,8 +8,8 @@
   6   1   Caracas
   6   0   Cecilia
   6   0   China
- 15   0   Daniel
- 15   0   David
+ 17   0   Daniel
+ 17   0   David
  18   0   Elena
  18   0   Ema
  18   0   Encantada.
@@ -23,47 +23,47 @@
   6   0   Lucía
   6   0   Madrid
  18   0   Manolo
- 15   0   Manuel
+ 17   0   Manuel
   6   0   Marcos
   6   0   Mario
- 15   1   Me llamo...
+ 17   1   Me llamo...
  18   2   Mucho gusto.
  18   0   Paco
   6   1   París
  18   0   Pepe
   6   0   Roma
- 15   0   Rosa
- 15   0   Susana
+ 17   0   Rosa
+ 17   0   Susana
   6   2   Venezuela
   6   4   abogada
   6   4   abogado
   6   3   agradable
   6   3   ahora
   6   6   alegre
- 15   2   alemana
-  3   0   alemanes
- 15   1   alemán
+ 17   2   alemana
+  5   0   alemanes
+ 17   1   alemán
   6   0   alta
   6   1   alto
  18   0   amiga
  18   3   amigo
- 15   1   aquel
- 15   2   aquella
- 15   3   aquellas
- 15   1   aquellos
+ 17   1   aquel
+ 17   2   aquella
+ 17   3   aquellas
+ 17   1   aquellos
   6   3   así
   6   6   bastante
   6   0   bien
   6   4   bonita
   6   2   bonito
   6   1   cama
- 15   1   camarera
- 15   1   camarero
+ 17   1   camarera
+ 17   1   camarero
   6   2   casa
   6   2   centro
   6   3   ciudad
   6   2   cómo
- 15   2   de
+ 17   2   de
   6   3   desordenada
   6   0   desordenado
   6   0   dos
@@ -72,28 +72,28 @@
  18   0   ella
  18   0   ellas
  18   0   ellos
- 15   2   empresaria
- 15   1   empresario
+ 17   2   empresaria
+ 17   1   empresario
   6   0   en
   6   1   enferma
- 15   1   enfermera
- 15   2   enfermero
+ 17   1   enfermera
+ 17   2   enfermero
   6   3   enfermo
  18   1   eres
  18   0   es
-  6   0   esa
-  6   1   esas
- 15   3   escuela
-  6   3   ese
-  6   1   esos
- 15   0   español
- 15   0   española
- 15   1   esta
+  8   0   esa
+  8   2   esas
+ 17   3   escuela
+  8   4   ese
+  8   1   esos
+ 17   0   español
+ 17   0   española
+ 17   1   esta
   6   3   estar
-  6   1   estas
- 15   2   este
-  6   3   estos
- 15   1   estudiante
+  8   1   estas
+ 17   2   este
+  8   4   estos
+ 17   1   estudiante
   6   0   francesa
   6   1   francés
   6   1   funcionaria
@@ -107,39 +107,39 @@
   6   2   hermana
   6   2   hermano
   6   2   hoy
- 15   2   idioma
+ 17   2   idioma
   6   1   inglesa
   6   1   inglés
   6   0   italiana
   6   2   italiano
- 15   1   joven
-  9   0   jóvenes
- 15   0   la
+ 17   1   joven
+ 11   0   jóvenes
+ 17   0   la
   6   2   mal
   6   3   marido
   3   0   me
   6   4   mejor
   3   0   mi
   6   1   muy
- 15   2   médica
- 15   4   médico
+ 17   2   médica
+ 17   4   médico
  18   0   no
   6   1   novia
   6   1   novio
   6   2   pero
   6   7   planta
- 15   1   profesor
+ 17   1   profesor
  19   0   quién
- 15   1   qué
+ 17   1   qué
   6   4   resfriada
   6   1   resfriado
   6   0   rubia
   6   1   rubio
- 15   0   secretaria
- 15   2   secretario
- 15   0   señor
- 15   4   señora
- 15   1   señorita
+ 17   0   secretaria
+ 17   2   secretario
+ 17   0   señor
+ 17   4   señora
+ 17   1   señorita
   6   4   siempre
   3   1   sois
  18   0   somos
@@ -147,16 +147,18 @@
  18   0   soy
  18   1   sí
   6   3   sólo
- 15   1   también
+ 17   1   también
   2   0   tu
  18   3   tú
- 15   2   usted
+ 17   2   usted
  18   0   y
   6   0   yo
  18   0   ¡Hola!
- 15   1   ¿Cómo te llamas?
+ 17   1   ¿Cómo te llamas?
   2   0   ¿Quién eres?
+  2   0   ¿Quién es usted?
+  2   0   ¿Qué es él?
   6   1   ¿Qué tal?
  18   0   él
- 15   1   ésta
+ 17   1   ésta
   6   0   éste
