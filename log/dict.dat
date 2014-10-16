@@ -30,6 +30,7 @@
  17   1   Me llamo...
  18   2   Mucho gusto.
   1   0   México
+  2   0   No sólo ahora. ¡Siempre es así!
  18   0   Paco
   7   1   París
  18   0   Pepe
@@ -40,48 +41,51 @@
   7   2   Venezuela
   7   4   abogada
   7   4   abogado
-  6   3   agradable
-  6   3   ahora
-  6   6   alegre
+  8   3   agradable
+  8   3   ahora
+  8   6   alegre
  17   2   alemana
   5   0   alemanes
  17   1   alemán
-  6   0   alta
-  6   1   alto
+  8   0   alta
+  8   1   alto
  18   0   amiga
  18   3   amigo
  17   1   aquel
  17   2   aquella
  17   3   aquellas
  17   1   aquellos
-  6   3   así
-  6   6   bastante
+  8   3   así
+  8   6   bastante
   7   0   bien
-  6   4   bonita
-  6   2   bonito
-  6   1   cama
+  8   4   bonita
+  8   2   bonito
+  8   1   cama
  17   1   camarera
  17   1   camarero
-  6   2   casa
-  6   2   centro
-  6   3   ciudad
-  6   2   cómo
+  8   2   casa
+  8   2   centro
+  2   1   cinco
+  8   3   ciudad
+  2   2   cuatro
+  8   2   cómo
  17   2   de
-  6   3   desordenada
-  6   0   desordenado
-  6   0   dos
+  8   3   desordenada
+  8   0   desordenado
+  2   0   diez
+  8   0   dos
   7   2   dónde
-  6   0   el
+  8   0   el
  18   0   ella
  18   0   ellas
  18   0   ellos
  17   2   empresaria
  17   1   empresario
-  6   0   en
-  6   1   enferma
+  8   0   en
+  8   1   enferma
  17   1   enfermera
  17   2   enfermero
-  6   3   enfermo
+  8   3   enfermo
  18   1   eres
  18   0   es
   8   0   esa
@@ -92,24 +96,30 @@
  17   0   español
  17   0   española
  17   1   esta
-  6   3   estar
+  2   2   estamos
+  8   3   estar
   8   1   estas
  17   2   este
   8   4   estos
+  2   0   estoy
  17   1   estudiante
+  2   0   está
+  2   2   estáis
+  2   0   están
+  2   0   estás
   7   1   francesa
   7   1   francés
   7   1   funcionaria
   7   0   funcionario
   7   3   gerente
   7   2   gracias
-  6   3   grande
-  6   1   guapa
-  6   2   guapo
-  6   3   habitación
-  6   2   hermana
-  6   2   hermano
-  6   2   hoy
+  8   3   grande
+  8   1   guapa
+  8   2   guapo
+  8   4   habitación
+  8   2   hermana
+  8   2   hermano
+  8   2   hoy
  17   2   idioma
   7   1   inglesa
   7   1   inglés
@@ -118,47 +128,58 @@
  17   1   joven
  11   0   jóvenes
  17   0   la
-  6   2   mal
-  6   3   marido
+  8   2   mal
+  8   3   marido
   3   0   me
-  6   4   mejor
+  8   4   mejor
   3   0   mi
   7   1   muy
  17   2   médica
  17   4   médico
  18   0   no
-  6   1   novia
-  6   1   novio
-  6   2   pero
-  6   7   planta
+  8   2   novia
+  8   1   novio
+  2   1   nueve
+  2   0   ocho
+  8   2   pero
+  8   8   planta
  17   1   profesor
  19   0   quién
  17   1   qué
-  6   4   resfriada
-  6   1   resfriado
-  6   0   rubia
-  6   1   rubio
+  8   4   resfriada
+  8   1   resfriado
+  8   0   rubia
+  8   1   rubio
  17   0   secretaria
  17   2   secretario
+  2   2   seis
  17   0   señor
  17   4   señora
  17   1   señorita
-  6   4   siempre
+  8   4   siempre
+  2   2   siete
   3   1   sois
  18   0   somos
  18   1   son
  18   0   soy
  18   1   sí
-  6   3   sólo
+  8   3   sólo
  17   1   también
+  2   0   tres
   2   0   tu
  18   3   tú
+  2   0   uno
  17   2   usted
   1   1   venezolana
   1   0   venezolano
  18   0   y
   7   1   yo
  18   0   ¡Hola!
+  2   0   ¿Cómo es Linda?
+  2   1   ¿Cómo es el novio de Linda?
+  2   0   ¿Cómo está Linda hoy?
+  2   1   ¿Cómo está usted?
+  2   1   ¿Cómo estás?
  17   1   ¿Cómo te llamas?
   1   0   ¿De dónde eres?
   2   0   ¿Quién eres?
