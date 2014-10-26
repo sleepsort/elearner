@@ -3,7 +3,7 @@
  13   3   Argentina
  13   1   Berlín
  13   1   Bolivia
- 13   0   Buenos Aires
+ 14   0   Buenos Aires
  25   2   Buenos días.
  13   2   Caracas
  13   0   Cecilia
@@ -14,13 +14,13 @@
  24   1   Ema
  24   0   Encantada.
  24   2   Encantado.
-  7   1   España
+  8   1   España
  13   0   Juan
  13   0   Julio
- 13   1   La Paz
+ 14   1   La Paz
  13   0   Linda
  24   0   Lola
- 13   1   Londres
+ 14   1   Londres
  13   2   Lucía
  13   0   Madrid
  24   0   Manolo
@@ -28,9 +28,9 @@
  13   0   Marcos
  13   0   Mario
  23   1   Me llamo...
- 24   2   Mucho gusto.
+ 25   2   Mucho gusto.
   7   0   México
-  8   0   No sólo ahora. ¡Siempre es así!
+  9   0   No sólo ahora. ¡Siempre es así!
  24   0   Paco
  13   1   París
  24   0   Pepe
@@ -42,7 +42,7 @@
  13   4   abogada
  13   4   abogado
  14   3   agradable
- 14   3   ahora
+ 15   3   ahora
  14   6   alegre
  23   2   alemana
  11   0   alemanes
@@ -55,10 +55,10 @@
  23   4   aquella
  23   3   aquellas
  23   2   aquellos
-  4   0   aquél
-  4   3   armario
+  6   1   aquél
+  6   3   armario
  14   4   así
- 14   6   bastante
+ 15   6   bastante
  13   0   bien
  14   4   bonita
  14   2   bonito
@@ -69,20 +69,20 @@
  14   2   centro
   8   2   cinco
  14   3   ciudad
-  4   5   cocina
-  4   3   cuarto de baño
+  6   8   cocina
+  6   5   cuarto de baño
   8   4   cuatro
  14   2   cómo
  23   2   de
  14   4   desordenada
  14   0   desordenado
   8   0   diez
-  4   1   dormitorio
+  6   2   dormitorio
  14   0   dos
  13   2   dónde
  14   0   el
  24   0   ella
- 24   0   ellas
+ 25   0   ellas
  24   0   ellos
  23   2   empresaria
  23   1   empresario
@@ -97,29 +97,29 @@
  14   2   esas
  23   4   escuela
  14   4   ese
- 14   3   esos
- 23   0   español
+ 15   3   esos
+ 24   0   español
  23   0   española
-  4   2   esposa
-  4   3   esposo
+  6   2   esposa
+  6   4   esposo
  23   3   esta
   8   3   estamos
-  4   3   estantería
+  6   4   estantería
  14   3   estar
  14   1   estas
  23   2   este
-  4   2   esto
+  6   3   esto
  14   6   estos
-  8   0   estoy
+  9   0   estoy
  23   1   estudiante
-  4   0   estudio
+  6   0   estudio
   8   2   está
   8   2   estáis
   8   0   están
   8   0   estás
-  4   0   flor
+  6   0   flor
  13   2   francesa
- 13   1   francés
+ 14   1   francés
  13   1   funcionaria
  13   2   funcionario
  13   3   gerente
@@ -127,63 +127,63 @@
  14   3   grande
  14   1   guapa
  14   2   guapo
-  4   2   haber
- 14   4   habitación
+  6   2   haber
+ 15   4   habitación
  14   2   hermana
  14   2   hermano
-  4   0   hija
-  4   0   hijo
+  6   0   hija
+  6   0   hijo
  14   2   hoy
  23   2   idioma
  13   1   inglesa
  13   3   inglés
-  4   3   interesante
+  6   3   interesante
  13   1   italiana
  13   2   italiano
-  4   2   jardín
+  6   3   jardín
  23   1   joven
  17   0   jóvenes
  23   0   la
-  4   1   libro
-  4   1   limpia
-  4   1   limpio
-  4   2   lámpara
+  6   1   libro
+  6   2   limpia
+  6   1   limpio
+  6   3   lámpara
  14   2   mal
- 14   3   marido
+ 15   3   marido
   9   2   me
  14   4   mejor
-  4   2   mesa
- 13   0   mi
-  4   5   mucha
-  4   1   mucho
+  6   2   mesa
+ 15   0   mi
+  6   5   mucha
+  6   1   mucho
  13   1   muy
  23   6   médica
- 23   4   médico
+ 24   4   médico
  24   0   no
- 14   3   novia
+ 15   3   novia
  14   1   novio
-  4   0   nudo chino
-  4   2   nuestra
-  4   1   nuestro
-  4   0   nueva
+  6   1   nudo chino
+  6   2   nuestra
+  6   1   nuestro
+  6   0   nueva
   8   1   nueve
-  4   1   nuevo
+  6   1   nuevo
   8   0   ocho
-  4   0   ordenada
-  4   0   ordenado
-  4   2   pequeña
-  4   1   pequeño
+  6   0   ordenada
+  6   1   ordenado
+  6   3   pequeña
+  6   1   pequeño
  14   2   pero
  14   8   planta
- 23   1   profesor
- 25   0   quién
+ 24   1   profesor
+ 26   0   quién
  23   1   qué
  14   5   resfriada
  14   1   resfriado
-  4   2   revista
+  6   3   revista
  14   0   rubia
  14   1   rubio
-  4   1   sala
+  6   1   sala
  23   0   secretaria
  23   2   secretario
   8   2   seis
@@ -192,31 +192,31 @@
  23   1   señorita
  14   5   siempre
   8   3   siete
-  4   4   silla
-  4   0   sofá
+  6   4   silla
+  6   1   sofá
   9   2   sois
  24   0   somos
  24   1   son
- 24   0   soy
+ 25   0   soy
  24   1   sí
  14   4   sólo
  23   1   también
-  4   1   televisor
-  4   2   tiene
-  4   0   todo
-  8   0   tres
+  6   1   televisor
+  6   4   tiene
+  6   1   todo
+  9   0   tres
   8   0   tu
  24   3   tú
-  4   2   un poco
+  6   2   un poco
   8   0   uno
  23   2   usted
   7   2   venezolana
-  7   0   venezolano
+  7   1   venezolano
  24   0   y
-  4   1   ya
+  6   2   ya
  13   1   yo
  24   0   ¡Hola!
-  4   0   ¡Qué bonita es la casa!
+  6   0   ¡Qué bonita es la casa!
   8   0   ¿Cómo es Linda?
   8   1   ¿Cómo es el novio de Linda?
   8   0   ¿Cómo está Linda hoy?
@@ -229,6 +229,6 @@
   8   0   ¿Qué es él?
  13   1   ¿Qué tal?
  24   0   él
-  4   1   ése
+  6   2   ése
  23   1   ésta
  13   0   éste
