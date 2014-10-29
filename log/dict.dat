@@ -55,8 +55,8 @@
  23   4   aquella
  23   3   aquellas
  23   2   aquellos
-  6   1   aquél
-  6   3   armario
+  7   1   aquél
+  7   3   armario
  14   4   así
  15   6   bastante
  13   0   bien
@@ -69,15 +69,15 @@
  14   2   centro
   8   2   cinco
  14   3   ciudad
-  6   8   cocina
-  6   5   cuarto de baño
+  7   9   cocina
+  7   6   cuarto de baño
   8   4   cuatro
  14   2   cómo
  23   2   de
  14   4   desordenada
  14   0   desordenado
   8   0   diez
-  6   2   dormitorio
+  7   2   dormitorio
  14   0   dos
  13   2   dónde
  14   0   el
@@ -100,24 +100,24 @@
  15   3   esos
  24   0   español
  23   0   española
-  6   2   esposa
-  6   4   esposo
+  7   2   esposa
+  7   4   esposo
  23   3   esta
   8   3   estamos
-  6   4   estantería
+  7   4   estantería
  14   3   estar
  14   1   estas
  23   2   este
-  6   3   esto
+  7   3   esto
  14   6   estos
   9   0   estoy
  23   1   estudiante
-  6   0   estudio
+  7   0   estudio
   8   2   está
   8   2   estáis
   8   0   están
   8   0   estás
-  6   0   flor
+  7   0   flor
  13   2   francesa
  14   1   francés
  13   1   funcionaria
@@ -127,52 +127,52 @@
  14   3   grande
  14   1   guapa
  14   2   guapo
-  6   2   haber
+  7   2   haber
  15   4   habitación
  14   2   hermana
  14   2   hermano
-  6   0   hija
-  6   0   hijo
+  7   0   hija
+  7   0   hijo
  14   2   hoy
  23   2   idioma
  13   1   inglesa
  13   3   inglés
-  6   3   interesante
+  7   3   interesante
  13   1   italiana
  13   2   italiano
-  6   3   jardín
+  7   3   jardín
  23   1   joven
  17   0   jóvenes
  23   0   la
-  6   1   libro
-  6   2   limpia
-  6   1   limpio
-  6   3   lámpara
+  7   1   libro
+  7   2   limpia
+  7   1   limpio
+  7   3   lámpara
  14   2   mal
  15   3   marido
   9   2   me
  14   4   mejor
-  6   2   mesa
- 15   0   mi
-  6   5   mucha
-  6   1   mucho
+  7   2   mesa
+ 16   0   mi
+  7   5   mucha
+  7   1   mucho
  13   1   muy
  23   6   médica
  24   4   médico
  24   0   no
  15   3   novia
  14   1   novio
-  6   1   nudo chino
-  6   2   nuestra
-  6   1   nuestro
-  6   0   nueva
+  7   2   nudo chino
+  7   3   nuestra
+  7   1   nuestro
+  7   0   nueva
   8   1   nueve
-  6   1   nuevo
+  7   1   nuevo
   8   0   ocho
-  6   0   ordenada
-  6   1   ordenado
-  6   3   pequeña
-  6   1   pequeño
+  7   0   ordenada
+  7   1   ordenado
+  7   3   pequeña
+  7   1   pequeño
  14   2   pero
  14   8   planta
  24   1   profesor
@@ -180,10 +180,10 @@
  23   1   qué
  14   5   resfriada
  14   1   resfriado
-  6   3   revista
+  7   3   revista
  14   0   rubia
  14   1   rubio
-  6   1   sala
+  7   1   sala
  23   0   secretaria
  23   2   secretario
   8   2   seis
@@ -192,8 +192,8 @@
  23   1   señorita
  14   5   siempre
   8   3   siete
-  6   4   silla
-  6   1   sofá
+  7   4   silla
+  7   1   sofá
   9   2   sois
  24   0   somos
  24   1   son
@@ -201,22 +201,22 @@
  24   1   sí
  14   4   sólo
  23   1   también
-  6   1   televisor
-  6   4   tiene
-  6   1   todo
+  7   2   televisor
+  7   4   tiene
+  7   1   todo
   9   0   tres
   8   0   tu
  24   3   tú
-  6   2   un poco
+  7   2   un poco
   8   0   uno
  23   2   usted
   7   2   venezolana
   7   1   venezolano
  24   0   y
-  6   2   ya
+  7   2   ya
  13   1   yo
  24   0   ¡Hola!
-  6   0   ¡Qué bonita es la casa!
+  7   0   ¡Qué bonita es la casa!
   8   0   ¿Cómo es Linda?
   8   1   ¿Cómo es el novio de Linda?
   8   0   ¿Cómo está Linda hoy?
@@ -229,6 +229,6 @@
   8   0   ¿Qué es él?
  13   1   ¿Qué tal?
  24   0   él
-  6   2   ése
+  7   2   ése
  23   1   ésta
  13   0   éste
