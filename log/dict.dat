@@ -1,318 +1,321 @@
 #LOG <pass> <fail> <key>
- 24   0   Ana
- 13   3   Argentina
- 13   1   Berlín
- 13   1   Bolivia
- 14   0   Buenos Aires
- 25   2   Buenos días.
- 13   2   Caracas
- 13   0   Cecilia
- 13   0   China
- 23   0   Daniel
- 23   1   David
- 24   0   Elena
- 24   1   Ema
- 24   0   Encantada.
- 24   2   Encantado.
-  5   1   Es la una y media.
-  8   1   España
-  1   0   Hay una lámpara en la mesa.
- 13   0   Juan
- 13   0   Julio
- 14   1   La Paz
- 13   0   Linda
- 24   0   Lola
- 14   1   Londres
- 13   2   Lucía
- 13   0   Madrid
- 24   0   Manolo
- 23   0   Manuel
- 13   0   Marcos
- 13   0   Mario
- 23   1   Me llamo...
- 25   2   Mucho gusto.
-  7   0   México
-  9   0   No sólo ahora. ¡Siempre es así!
- 25   0   Paco
- 13   1   París
- 24   0   Pepe
- 13   0   Roma
- 23   0   Rosa
-  5   3   Son las dos menos veinte.
-  7   1   Soy de España.
- 23   0   Susana
- 13   2   Venezuela
-  5   0   a
- 13   4   abogada
- 13   4   abogado
-  5   0   abril
-  5   3   agosto
- 14   3   agradable
- 15   3   ahora
- 14   6   alegre
- 23   2   alemana
- 11   0   alemanes
- 23   1   alemán
- 14   0   alta
- 14   1   alto
- 24   0   amiga
- 24   3   amigo
- 23   1   aquel
- 23   4   aquella
- 23   3   aquellas
- 23   2   aquellos
-  8   1   aquél
-  8   3   armario
- 14   4   así
- 15   6   bastante
- 13   0   bien
- 14   4   bonita
- 14   2   bonito
-  5   0   buena
-  5   0   bueno
-  5   0   café
- 14   1   cama
- 23   1   camarera
- 23   1   camarero
- 14   2   casa
-  5   4   catorce
- 14   2   centro
-  8   2   cinco
-  5   5   cincuenta
- 14   3   ciudad
-  5   1   clase
-  8   9   cocina
-  5   0   conversación
-  5   1   cuarenta
-  5   1   cuarenta y uno
-  5   1   cuarto
-  8   6   cuarto de baño
-  8   4   cuatro
- 14   2   cómo
- 23   2   de
-  5   2   deprisa
- 14   4   desordenada
- 14   0   desordenado
-  5   2   diciembre
-  5   0   diecinueve
-  5   2   dieciocho
-  5   1   diecisiete
-  5   3   dieciséis
-  8   0   diez
-  5   2   doce
-  5   3   domingo
-  8   2   dormitorio
- 14   0   dos
-  5   1   día
- 13   2   dónde
- 15   0   el
- 24   0   ella
- 25   0   ellas
- 24   0   ellos
- 23   2   empresaria
- 23   1   empresario
- 14   0   en
-  5   1   en punto
-  5   4   enero
- 14   2   enferma
- 23   2   enfermera
- 23   5   enfermero
- 14   4   enfermo
-  5   6   entonces
- 24   1   eres
- 24   0   es
- 14   0   esa
- 14   2   esas
- 23   4   escuela
- 14   4   ese
- 15   3   esos
- 24   0   español
- 23   0   española
-  8   2   esposa
-  8   4   esposo
- 23   3   esta
-  8   3   estamos
-  8   4   estantería
- 14   3   estar
- 14   1   estas
- 23   2   este
-  8   3   esto
- 14   6   estos
- 10   0   estoy
- 23   1   estudiante
-  8   0   estudio
-  8   2   está
-  8   2   estáis
-  8   0   están
-  8   0   estás
-  5   4   febrero
-  8   0   flor
- 14   2   francesa
- 14   1   francés
- 13   1   funcionaria
- 13   2   funcionario
- 13   3   gerente
- 13   2   gracias
- 14   3   grande
- 14   1   guapa
- 14   2   guapo
-  8   2   haber
- 15   4   habitación
- 14   2   hermana
- 14   2   hermano
-  8   0   hija
-  8   0   hijo
-  5   1   hora
- 14   2   hoy
- 23   2   idioma
- 13   1   inglesa
- 13   3   inglés
-  8   3   interesante
- 13   1   italiana
- 13   2   italiano
-  8   3   jardín
- 23   1   joven
-  5   3   jueves
-  5   0   julio
-  5   0   junio
- 17   0   jóvenes
- 23   0   la
-  5   1   leche
-  8   1   libro
-  8   2   limpia
-  8   1   limpio
-  5   1   lunes
-  8   3   lámpara
- 14   2   mal
- 15   3   marido
-  5   3   martes
-  5   1   marzo
-  5   0   mayo
-  5   1   mañana
-  9   2   me
-  5   0   media
- 14   4   mejor
-  8   2   mesa
- 17   0   mi
-  5   2   miércoles
-  8   5   mucha
-  8   1   mucho
- 13   1   muy
- 23   6   médica
- 25   4   médico
- 24   0   no
-  5   3   noventa
- 15   3   novia
-  5   2   noviembre
- 14   1   novio
-  8   2   nudo chino
-  8   4   nuestra
-  8   1   nuestro
-  8   0   nueva
-  8   1   nueve
-  8   1   nuevo
-  5   1   ochenta
-  8   0   ocho
-  5   1   octubre
-  5   1   once
-  8   0   ordenada
-  8   1   ordenado
-  5   1   para
-  8   3   pequeña
-  8   2   pequeño
- 14   2   pero
- 14   8   planta
- 24   1   profesor
-  5   2   puntual
-  5   2   quince
- 26   0   quién
- 23   1   qué
-  5   0   reloj
- 14   5   resfriada
- 14   1   resfriado
-  8   3   revista
- 14   0   rubia
- 14   1   rubio
-  8   1   sala
- 23   0   secretaria
- 23   2   secretario
-  8   2   seis
-  5   4   septiembre
-  5   2   sesenta
-  5   0   setenta
- 23   0   señor
- 23   5   señora
- 23   1   señorita
- 14   5   siempre
-  8   3   siete
-  8   4   silla
-  8   1   sofá
-  9   2   sois
- 25   0   somos
- 24   1   son
- 25   0   soy
-  5   4   sábado
- 24   1   sí
- 14   4   sólo
- 23   1   también
-  8   2   televisor
-  1   1   tenemos
-  5   5   tener
-  1   0   tengo
-  1   1   tenéis
-  5   5   tiempo
-  9   5   tiene
-  1   0   tienen
-  1   1   tienes
-  5   7   todavía
-  8   1   todo
-  5   3   tomar
-  5   1   trece
-  5   1   treinta
-  5   3   treinta y dos
-  1   0   treinta y un días
-  5   2   treinta y uno
-  9   0   tres
-  8   0   tu
- 24   3   tú
-  8   3   un poco
-  8   0   uno
- 23   2   usted
-  5   1   veinte
-  5   0   veinticinco
-  5   2   veinticuatro
-  5   2   veintidós
-  5   1   veintinueve
-  5   1   veintiocho
-  5   0   veintisiete
-  5   0   veintiséis
-  5   3   veintitrés
-  1   0   veintiuna mesas
-  5   1   veintiuno
-  1   0   veintiún sofás
-  7   2   venezolana
-  7   1   venezolano
-  5   3   viernes
- 24   0   y
-  8   2   ya
- 13   1   yo
- 24   0   ¡Hola!
-  8   0   ¡Qué bonita es la casa!
-  1   1   ¿A cuántos estamos hoy?
-  8   0   ¿Cómo es Linda?
-  8   1   ¿Cómo es el novio de Linda?
-  8   0   ¿Cómo está Linda hoy?
-  8   1   ¿Cómo está usted?
-  8   1   ¿Cómo estás?
- 23   5   ¿Cómo te llamas?
-  7   0   ¿De dónde eres?
-  8   0   ¿Quién eres?
-  8   0   ¿Quién es usted?
-  1   0   ¿Qué día es hoy?
-  8   0   ¿Qué es él?
-  1   1   ¿Qué hora es?
- 13   1   ¿Qué tal?
- 24   0   él
-  8   2   ése
- 23   1   ésta
- 13   0   éste
+ 25   0   Ana
+ 14   4   Argentina
+ 14   1   Berlín
+ 14   1   Bolivia
+ 15   0   Buenos Aires
+ 26   2   Buenos días.
+ 14   2   Caracas
+ 14   0   Cecilia
+ 14   1   China
+ 24   0   Daniel
+ 24   1   David
+ 25   0   Elena
+ 25   1   Ema
+ 25   0   Encantada.
+ 25   2   Encantado.
+  6   1   Es la una y media.
+  9   1   España
+  2   0   Hay una lámpara en la mesa.
+ 14   0   Juan
+ 14   0   Julio
+ 15   1   La Paz
+ 14   0   Linda
+ 25   0   Lola
+ 15   1   Londres
+ 14   2   Lucía
+ 14   0   Madrid
+ 25   0   Manolo
+ 24   0   Manuel
+ 14   0   Marcos
+ 14   0   Mario
+ 24   1   Me llamo...
+ 26   2   Mucho gusto.
+  8   1   México
+ 10   0   No sólo ahora. ¡Siempre es así!
+ 26   0   Paco
+ 14   1   París
+ 25   0   Pepe
+ 14   0   Roma
+ 24   0   Rosa
+  6   4   Son las dos menos veinte.
+  8   2   Soy de España.
+ 24   0   Susana
+ 14   2   Venezuela
+  6   0   a
+ 14   5   abogada
+ 14   4   abogado
+  6   0   abril
+  6   3   agosto
+ 15   3   agradable
+ 16   3   ahora
+ 15   6   alegre
+ 24   2   alemana
+ 12   0   alemanes
+ 24   1   alemán
+ 15   0   alta
+ 15   1   alto
+ 25   0   amiga
+ 25   3   amigo
+ 24   1   aquel
+ 24   5   aquella
+ 24   3   aquellas
+ 24   2   aquellos
+  9   1   aquél
+  9   3   armario
+ 15   4   así
+ 16   6   bastante
+ 14   1   bien
+ 15   4   bonita
+ 15   2   bonito
+  6   0   buena
+  6   0   bueno
+  6   0   café
+ 15   1   cama
+ 24   1   camarera
+ 24   1   camarero
+ 15   2   casa
+  6   4   catorce
+ 15   2   centro
+  9   2   cinco
+  6   5   cincuenta
+ 15   3   ciudad
+  6   1   clase
+  9   9   cocina
+  6   0   conversación
+  6   1   cuarenta
+  6   1   cuarenta y uno
+  6   1   cuarto
+  9   6   cuarto de baño
+  9   4   cuatro
+ 15   2   cómo
+ 24   2   de
+  6   2   deprisa
+ 15   4   desordenada
+ 15   0   desordenado
+  6   2   diciembre
+  6   1   diecinueve
+  6   2   dieciocho
+  6   1   diecisiete
+  6   3   dieciséis
+  9   0   diez
+  6   2   doce
+  6   3   domingo
+  9   2   dormitorio
+ 15   0   dos
+  6   1   día
+ 14   2   dónde
+ 16   0   el
+ 25   0   ella
+ 26   0   ellas
+ 25   0   ellos
+ 24   2   empresaria
+ 24   2   empresario
+ 15   0   en
+  6   1   en punto
+  6   4   enero
+ 15   2   enferma
+ 24   2   enfermera
+ 24   5   enfermero
+ 15   4   enfermo
+  6   6   entonces
+ 25   1   eres
+ 25   0   es
+ 15   0   esa
+ 15   2   esas
+ 24   4   escuela
+ 15   4   ese
+ 16   3   esos
+ 25   0   español
+ 24   0   española
+  9   2   esposa
+  9   4   esposo
+ 24   3   esta
+  9   5   estamos
+  9   4   estantería
+ 15   4   estar
+ 15   1   estas
+ 24   3   este
+  9   6   esto
+ 15   6   estos
+ 11   0   estoy
+ 24   1   estudiante
+  9   0   estudio
+  9   3   está
+  9   2   estáis
+  9   1   están
+  9   2   estás
+  6   4   febrero
+  9   0   flor
+ 15   2   francesa
+ 15   1   francés
+ 14   1   funcionaria
+ 14   2   funcionario
+ 14   3   gerente
+ 14   2   gracias
+ 15   3   grande
+ 15   1   guapa
+ 15   2   guapo
+  9   2   haber
+ 16   4   habitación
+ 15   2   hermana
+ 15   2   hermano
+  9   0   hija
+  9   0   hijo
+  6   1   hora
+ 15   2   hoy
+ 24   2   idioma
+ 14   1   inglesa
+ 14   3   inglés
+  9   3   interesante
+ 14   1   italiana
+ 14   2   italiano
+  9   3   jardín
+ 24   1   joven
+  6   3   jueves
+  6   0   julio
+  6   0   junio
+ 18   0   jóvenes
+ 24   0   la
+  6   1   leche
+  9   1   libro
+  9   2   limpia
+  9   1   limpio
+  6   1   lunes
+  9   3   lámpara
+ 15   2   mal
+ 16   3   marido
+  6   3   martes
+  6   1   marzo
+  6   0   mayo
+  6   1   mañana
+ 10   2   me
+  6   0   media
+ 15   4   mejor
+  9   2   mesa
+ 18   0   mi
+  6   2   miércoles
+  9   5   mucha
+  9   1   mucho
+ 14   1   muy
+ 24   6   médica
+ 26   5   médico
+ 25   0   no
+  6   3   noventa
+ 16   3   novia
+  6   2   noviembre
+ 15   2   novio
+  9   2   nudo chino
+  9   4   nuestra
+  9   1   nuestro
+  9   1   nueva
+  9   1   nueve
+  9   1   nuevo
+  6   1   ochenta
+  9   0   ocho
+  6   1   octubre
+  6   1   once
+  9   0   ordenada
+  9   1   ordenado
+  6   1   para
+  9   3   pequeña
+  9   2   pequeño
+ 15   2   pero
+ 15   9   planta
+ 25   1   profesor
+  6   2   puntual
+  6   2   quince
+ 27   0   quién
+ 24   1   qué
+  6   0   reloj
+ 15   5   resfriada
+ 15   1   resfriado
+  9   3   revista
+ 15   0   rubia
+ 15   1   rubio
+  9   1   sala
+ 24   0   secretaria
+ 24   2   secretario
+  9   2   seis
+  6   4   septiembre
+  6   2   sesenta
+  6   0   setenta
+ 24   0   señor
+ 24   5   señora
+ 24   1   señorita
+ 15   5   siempre
+  9   3   siete
+  9   4   silla
+  9   1   sofá
+ 10   2   sois
+ 26   0   somos
+ 25   1   son
+ 26   0   soy
+  1   0   su
+  6   4   sábado
+ 25   1   sí
+ 15   4   sólo
+ 24   2   también
+  9   2   televisor
+  2   1   tenemos
+  6   6   tener
+  2   0   tengo
+  2   1   tenéis
+  6   5   tiempo
+ 10   5   tiene
+  2   2   tienen
+  2   1   tienes
+  6   7   todavía
+  9   1   todo
+  6   3   tomar
+  6   1   trece
+  6   1   treinta
+  6   3   treinta y dos
+  2   0   treinta y un días
+  6   2   treinta y uno
+ 10   0   tres
+  9   0   tu
+ 25   3   tú
+  9   3   un poco
+  9   0   uno
+ 24   2   usted
+  6   1   veinte
+  6   0   veinticinco
+  6   2   veinticuatro
+  6   2   veintidós
+  6   1   veintinueve
+  6   1   veintiocho
+  6   0   veintisiete
+  6   0   veintiséis
+  6   3   veintitrés
+  2   0   veintiuna mesas
+  6   1   veintiuno
+  2   1   veintiún sofás
+  8   2   venezolana
+  8   1   venezolano
+  6   3   viernes
+  1   0   vuestra
+  1   0   vuestro
+ 25   0   y
+  9   2   ya
+ 14   1   yo
+ 25   0   ¡Hola!
+  9   0   ¡Qué bonita es la casa!
+  2   2   ¿A cuántos estamos hoy?
+  9   0   ¿Cómo es Linda?
+  9   1   ¿Cómo es el novio de Linda?
+  9   0   ¿Cómo está Linda hoy?
+  9   2   ¿Cómo está usted?
+  9   1   ¿Cómo estás?
+ 24   6   ¿Cómo te llamas?
+  8   0   ¿De dónde eres?
+  9   0   ¿Quién eres?
+  9   0   ¿Quién es usted?
+  2   0   ¿Qué día es hoy?
+  9   0   ¿Qué es él?
+  2   1   ¿Qué hora es?
+ 14   1   ¿Qué tal?
+ 25   0   él
+  9   2   ése
+ 24   1   ésta
+ 14   1   éste
