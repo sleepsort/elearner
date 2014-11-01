@@ -1,50 +1,50 @@
 #LOG <pass> <fail> <key>
- 26   0   Ana
- 15   4   Argentina
- 15   1   Berlín
- 15   1   Bolivia
- 16   0   Buenos Aires
- 27   2   Buenos días.
- 15   2   Caracas
- 15   0   Cecilia
- 15   1   China
+ 27   0   Ana
+ 16   4   Argentina
+ 16   1   Berlín
+ 16   1   Bolivia
+ 17   0   Buenos Aires
+ 28   2   Buenos días.
+ 16   2   Caracas
+ 16   0   Cecilia
+ 16   1   China
  25   0   Daniel
  25   1   David
- 26   0   Elena
- 26   1   Ema
- 26   0   Encantada.
- 26   2   Encantado.
+ 27   0   Elena
+ 27   1   Ema
+ 27   0   Encantada.
+ 27   2   Encantado.
   7   1   Es la una y media.
- 10   1   España
+ 11   1   España
   3   0   Hay una lámpara en la mesa.
- 15   0   Juan
- 15   0   Julio
- 16   1   La Paz
- 15   0   Linda
- 26   0   Lola
- 16   1   Londres
- 15   2   Lucía
- 15   0   Madrid
- 26   0   Manolo
+ 16   0   Juan
+ 16   0   Julio
+ 17   1   La Paz
+ 16   0   Linda
+ 27   0   Lola
+ 17   1   Londres
+ 16   2   Lucía
+ 16   0   Madrid
+ 27   0   Manolo
  25   0   Manuel
- 15   0   Marcos
- 15   0   Mario
+ 16   0   Marcos
+ 16   0   Mario
  25   1   Me llamo...
- 27   2   Mucho gusto.
-  9   1   México
+ 28   2   Mucho gusto.
+ 10   1   México
  11   0   No sólo ahora. ¡Siempre es así!
- 27   0   Paco
- 15   1   París
- 26   0   Pepe
- 15   0   Roma
+ 28   0   Paco
+ 16   1   París
+ 27   0   Pepe
+ 16   0   Roma
  25   0   Rosa
   7   4   Son las dos menos veinte.
-  9   2   Soy de España.
+ 10   2   Soy de España.
  25   0   Susana
- 15   2   Venezuela
+ 16   2   Venezuela
   7   0   a
- 15   5   abogada
- 15   4   abogado
+ 16   5   abogada
+ 16   4   abogado
   7   0   abril
   7   3   agosto
  16   3   agradable
@@ -55,8 +55,8 @@
  25   1   alemán
  16   0   alta
  16   1   alto
- 26   0   amiga
- 26   3   amigo
+ 27   0   amiga
+ 27   3   amigo
  25   1   aquel
  25   5   aquella
  25   3   aquellas
@@ -65,7 +65,7 @@
  10   3   armario
  16   4   así
  17   6   bastante
- 15   1   bien
+ 16   1   bien
  16   4   bonita
  16   2   bonito
   7   0   buena
@@ -104,11 +104,11 @@
  10   2   dormitorio
  16   0   dos
   7   1   día
- 15   2   dónde
+ 16   2   dónde
  17   0   el
- 26   0   ella
- 27   0   ellas
- 26   0   ellos
+ 27   0   ella
+ 28   0   ellas
+ 27   0   ellos
  25   3   empresaria
  25   2   empresario
  16   0   en
@@ -119,8 +119,8 @@
  25   5   enfermero
  16   5   enfermo
   7   6   entonces
- 26   1   eres
- 26   0   es
+ 27   1   eres
+ 27   0   es
  16   0   esa
  16   2   esas
  25   4   escuela
@@ -147,12 +147,12 @@
  10   2   estás
   7   4   febrero
  10   0   flor
- 16   3   francesa
- 16   1   francés
- 15   1   funcionaria
- 15   2   funcionario
- 15   3   gerente
- 15   3   gracias
+ 17   3   francesa
+ 17   1   francés
+ 16   1   funcionaria
+ 16   2   funcionario
+ 16   3   gerente
+ 16   3   gracias
  16   3   grande
  16   1   guapa
  16   2   guapo
@@ -165,11 +165,11 @@
   7   1   hora
  16   2   hoy
  25   2   idioma
- 15   1   inglesa
- 15   3   inglés
+ 16   1   inglesa
+ 16   3   inglés
  10   3   interesante
- 15   1   italiana
- 15   2   italiano
+ 16   1   italiana
+ 16   2   italiano
  10   3   jardín
  25   1   joven
   7   3   jueves
@@ -189,18 +189,20 @@
   7   1   marzo
   7   0   mayo
   7   1   mañana
- 11   2   me
+ 12   2   me
   7   0   media
  16   4   mejor
  10   2   mesa
- 19   0   mi
+ 20   0   mi
   7   2   miércoles
  10   5   mucha
  10   1   mucho
- 15   1   muy
+ 16   1   muy
  25   7   médica
  27   5   médico
- 26   0   no
+ 27   0   no
+  1   0   nosotras
+  1   0   nosotros
   7   3   noventa
  17   3   novia
   7   2   noviembre
@@ -225,7 +227,7 @@
  26   1   profesor
   7   2   puntual
   7   2   quince
- 28   0   quién
+ 29   0   quién
  25   1   qué
   7   0   reloj
  16   5   resfriada
@@ -247,13 +249,13 @@
  10   3   siete
  10   4   silla
  10   1   sofá
- 11   2   sois
- 27   0   somos
- 26   1   son
- 27   0   soy
+ 12   2   sois
+ 28   0   somos
+ 27   1   son
+ 28   0   soy
   2   0   su
   7   4   sábado
- 26   1   sí
+ 27   1   sí
  16   4   sólo
  25   2   también
  10   2   televisor
@@ -274,11 +276,12 @@
   3   0   treinta y un días
   7   3   treinta y uno
  11   0   tres
- 10   0   tu
- 26   3   tú
+ 11   0   tu
+ 27   3   tú
  10   3   un poco
  10   0   uno
  25   2   usted
+  1   1   ustedes
   7   1   veinte
   7   0   veinticinco
   7   2   veinticuatro
@@ -291,15 +294,17 @@
   3   0   veintiuna mesas
   7   2   veintiuno
   3   1   veintiún sofás
-  9   2   venezolana
-  9   1   venezolano
+ 10   2   venezolana
+ 10   1   venezolano
   7   3   viernes
+  1   0   vosotras
+  1   2   vosotros
   2   0   vuestra
   2   0   vuestro
- 26   0   y
+ 27   0   y
  10   2   ya
- 15   2   yo
- 26   0   ¡Hola!
+ 16   2   yo
+ 27   0   ¡Hola!
  10   0   ¡Qué bonita es la casa!
   3   2   ¿A cuántos estamos hoy?
  10   0   ¿Cómo es Linda?
@@ -308,14 +313,14 @@
  10   2   ¿Cómo está usted?
  10   2   ¿Cómo estás?
  25   6   ¿Cómo te llamas?
-  9   0   ¿De dónde eres?
- 10   0   ¿Quién eres?
+ 10   0   ¿De dónde eres?
+ 11   0   ¿Quién eres?
  10   0   ¿Quién es usted?
   3   0   ¿Qué día es hoy?
  10   0   ¿Qué es él?
   3   1   ¿Qué hora es?
- 15   1   ¿Qué tal?
- 26   0   él
+ 16   1   ¿Qué tal?
+ 27   0   él
  10   2   ése
  25   1   ésta
- 15   1   éste
+ 16   1   éste
