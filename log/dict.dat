@@ -15,8 +15,8 @@
  27   0   Encantada.
  27   2   Encantado.
   8   1   Es la una y media.
- 14   1   España
-  3   0   Este
+ 15   1   España
+  4   0   Este
   3   0   Hay una lámpara en la mesa.
  16   0   Juan
  16   0   Julio
@@ -34,10 +34,10 @@
  28   2   Mucho gusto.
  10   1   México
  11   0   No sólo ahora. ¡Siempre es así!
-  3   0   Noreste
-  3   1   Noroeste
-  3   0   Norte
-  3   0   Oeste
+  4   0   Noreste
+  4   1   Noroeste
+  4   0   Norte
+  4   0   Oeste
  28   0   Paco
  16   1   París
  27   0   Pepe
@@ -45,17 +45,17 @@
  25   0   Rosa
   8   5   Son las dos menos veinte.
  10   2   Soy de España.
-  3   0   Sur
-  3   0   Sureste
-  3   0   Suroeste
+  4   0   Sur
+  4   0   Sureste
+  4   0   Suroeste
  25   0   Susana
  16   2   Venezuela
   8   0   a
-  3   3   a veces
+  4   3   a veces
  16   5   abogada
  16   4   abogado
   8   0   abril
-  3   2   además
+  4   2   además
   8   3   agosto
  16   3   agradable
  17   3   ahora
@@ -74,7 +74,7 @@
  10   1   aquél
  10   3   armario
  16   4   así
-  3   3   año
+  4   3   año
  17   6   bastante
  16   1   bien
  16   4   bonita
@@ -82,7 +82,7 @@
   8   1   buena
   8   0   bueno
   8   0   café
-  3   1   calor
+  4   1   calor
  16   1   cama
  25   1   camarera
  25   1   camarero
@@ -93,7 +93,7 @@
   8   5   cincuenta
  16   3   ciudad
   8   1   clase
-  3   1   clima
+  4   1   clima
  10   9   cocina
   8   0   conversación
   8   1   cuarenta
@@ -116,8 +116,8 @@
   8   3   domingo
  10   2   dormitorio
  16   0   dos
-  3   2   dura
-  3   0   duro
+  4   2   dura
+  4   0   duro
   8   1   día
  16   2   dónde
  17   0   el
@@ -146,7 +146,7 @@
  10   2   esposa
  10   4   esposo
  25   3   esta
-  3   3   estación
+  4   3   estación
  10   5   estamos
  10   4   estantería
  16   4   estar
@@ -165,7 +165,7 @@
  10   0   flor
  17   3   francesa
  17   1   francés
-  3   2   frío
+  4   2   frío
  16   1   funcionaria
  16   2   funcionario
  16   3   gerente
@@ -175,13 +175,13 @@
  16   2   guapo
  10   2   haber
  17   4   habitación
-  3   0   hace
-  3   0   hacemos
-  3   0   hacen
-  3   0   hacer
-  3   0   haces
-  3   0   hacéis
-  3   1   hago
+  4   0   hace
+  4   0   hacemos
+  4   0   hacen
+  4   0   hacer
+  4   0   haces
+  4   0   hacéis
+  4   1   hago
  16   2   hermana
  16   2   hermano
  10   0   hija
@@ -192,7 +192,7 @@
  16   1   inglesa
  16   3   inglés
  10   3   interesante
-  3   1   invierno
+  4   1   invierno
  16   1   italiana
  16   2   italiano
  10   3   jardín
@@ -206,8 +206,8 @@
  10   1   libro
  10   2   limpia
  10   1   limpio
-  3   1   llover
-  3   0   llueve
+  4   1   llover
+  4   0   llueve
   8   1   lunes
  10   3   lámpara
  16   2   mal
@@ -225,11 +225,11 @@
  10   5   mucha
  10   1   mucho
  16   1   muy
-  3   2   más
+  4   2   más
  25   7   médica
  27   5   médico
-  3   4   nevar
-  3   4   nieva
+  4   4   nevar
+  4   4   nieva
  27   0   no
   1   0   nosotras
   1   0   nosotros
@@ -249,14 +249,14 @@
   8   1   once
  10   0   ordenada
  10   1   ordenado
-  3   1   otoño
+  4   1   otoño
   8   1   para
-  3   4   país
+  4   4   país
  10   3   pequeña
  10   2   pequeño
  16   2   pero
  16   9   planta
-  3   1   primavera
+  4   1   primavera
  26   1   profesor
   8   2   puntual
   8   2   quince
@@ -283,17 +283,17 @@
  10   4   silla
  10   1   sofá
  12   2   sois
-  3   1   sol
+  4   1   sol
  28   0   somos
  27   1   son
  28   0   soy
   2   0   su
-  3   2   suave
+  4   2   suave
   8   4   sábado
  27   1   sí
  16   4   sólo
  25   2   también
-  3   4   tanto
+  4   4   tanto
  10   2   televisor
   4   3   tenemos
   8   6   tener
@@ -332,9 +332,9 @@
   4   2   veintiún sofás
  10   2   venezolana
  10   1   venezolano
-  3   1   verano
-  3   1   verdad
-  3   5   viento
+  4   1   verano
+  4   1   verdad
+  4   5   viento
   8   3   viernes
   1   0   vosotras
   1   2   vosotros
@@ -359,7 +359,7 @@
  10   0   ¿Qué es él?
   4   1   ¿Qué hora es?
  16   1   ¿Qué tal?
-  3   2   ¿Qué tiempo hace?
+  4   2   ¿Qué tiempo hace?
  27   0   él
  10   2   ése
  25   1   ésta
