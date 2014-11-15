@@ -17,6 +17,7 @@
   8   1   Es la una y media.
  15   1   España
   4   0   Este
+  2   1   Hasta mañana
   3   0   Hay una lámpara en la mesa.
  16   0   Juan
  16   0   Julio
@@ -56,6 +57,7 @@
  16   4   abogado
   8   0   abril
   4   2   además
+  2   0   adónde
   8   3   agosto
  16   3   agradable
  17   3   ahora
@@ -75,7 +77,9 @@
  10   3   armario
  16   4   así
   4   3   año
+  2   1   banco
  17   6   bastante
+  2   2   bebida
  16   1   bien
  16   4   bonita
  16   2   bonito
@@ -91,21 +95,30 @@
  16   2   centro
  10   2   cinco
   8   5   cincuenta
+  2   3   cine
  16   3   ciudad
   8   1   clase
   4   1   clima
  10   9   cocina
+  2   2   comida
+  2   0   compañera
+  2   1   compañero
+  2   2   comprar
   8   0   conversación
+  2   2   correos
   8   1   cuarenta
   8   2   cuarenta y uno
   8   1   cuarto
  10   6   cuarto de baño
  10   4   cuatro
+  2   2   cumpleaños
  16   2   cómo
+  2   1   dar
  25   2   de
   8   2   deprisa
  16   4   desordenada
  16   0   desordenado
+  2   3   después
   8   2   diciembre
   8   1   diecinueve
   8   2   dieciocho
@@ -162,12 +175,15 @@
  10   1   están
  10   2   estás
   8   4   febrero
+  2   1   fiesta
+  2   2   fin de semana
  10   0   flor
  17   3   francesa
  17   1   francés
   4   2   frío
  16   1   funcionaria
  16   2   funcionario
+  2   0   gente
  16   3   gerente
  16   3   gracias
  16   3   grande
@@ -193,6 +209,8 @@
  16   3   inglés
  10   3   interesante
   4   1   invierno
+  2   2   invitar
+  2   0   ir
  16   1   italiana
  16   2   italiano
  10   3   jardín
@@ -219,6 +237,7 @@
  12   2   me
   8   0   media
  16   4   mejor
+  2   0   mercado
  10   2   mesa
  20   0   mi
   8   3   miércoles
@@ -246,18 +265,32 @@
   8   1   ochenta
  10   0   ocho
   8   2   octubre
+  2   0   oficina
   8   1   once
  10   0   ordenada
  10   1   ordenado
+  2   0   ordenar
   4   1   otoño
+  2   1   otra
+  2   0   otro
   8   1   para
   4   4   país
  10   3   pequeña
  10   2   pequeño
  16   2   pero
  16   9   planta
+  2   2   podemos
+  2   0   poder
+  2   3   podéis
+  2   2   por la noche
+  2   1   por qué
+  2   2   por supuesto
   4   1   primavera
  26   1   profesor
+  2   0   puede
+  2   2   pueden
+  2   0   puedes
+  2   1   puedo
   8   2   puntual
   8   2   quince
  29   0   quién
@@ -289,10 +322,12 @@
  28   0   soy
   2   0   su
   4   2   suave
+  2   2   supermercado
   8   4   sábado
  27   1   sí
  16   4   sólo
  25   2   también
+  2   1   tampoco
   4   4   tanto
  10   2   televisor
   4   3   tenemos
@@ -300,12 +335,15 @@
   4   0   tengo
   4   2   tenéis
   8   5   tiempo
+  2   3   tienda
  12   5   tiene
   4   2   tienen
   4   1   tienes
   8   8   todavía
  10   1   todo
   8   3   tomar
+  2   0   trabajar
+  2   0   trabajo
   8   1   trece
   8   1   treinta
   8   3   treinta y dos
@@ -318,6 +356,11 @@
  10   0   uno
  25   2   usted
   1   1   ustedes
+  2   0   va
+  2   1   vais
+  2   0   vamos
+  2   0   van
+  2   0   vas
   8   2   veinte
   8   0   veinticinco
   8   2   veinticuatro
@@ -332,12 +375,20 @@
   4   2   veintiún sofás
  10   2   venezolana
  10   1   venezolano
+  2   0   vengo
+  2   0   venimos
+  2   1   venir
+  2   2   venís
   4   1   verano
   4   1   verdad
+  2   2   viene
+  2   0   vienen
+  2   3   vienes
   4   5   viento
   8   3   viernes
   1   0   vosotras
   1   2   vosotros
+  2   1   voy
   2   0   vuestra
   2   0   vuestro
  27   0   y
@@ -346,6 +397,7 @@
  27   0   ¡Hola!
  10   0   ¡Qué bonita es la casa!
   4   2   ¿A cuántos estamos hoy?
+  2   0   ¿Adónde vas?
  10   0   ¿Cómo es Linda?
  10   1   ¿Cómo es el novio de Linda?
  10   0   ¿Cómo está Linda hoy?
@@ -353,6 +405,7 @@
  10   2   ¿Cómo estás?
  25   6   ¿Cómo te llamas?
  10   0   ¿De dónde eres?
+  2   1   ¿Diga?
  11   0   ¿Quién eres?
  10   0   ¿Quién es usted?
   4   0   ¿Qué día es hoy?
