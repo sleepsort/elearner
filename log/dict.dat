@@ -17,6 +17,7 @@
   8   1   Es la una y media.
  16   1   España
   5   0   Este
+  2   1   Hasta el lunes.
   6   1   Hasta mañana.
   3   0   Hay una lámpara en la mesa.
  16   0   Juan
@@ -44,12 +45,14 @@
  27   0   Pepe
  16   0   Roma
  25   0   Rosa
+  2   1   Siempre hay gente buena y gente mala.
   8   5   Son las dos menos veinte.
  10   2   Soy de España.
   5   0   Sur
   5   0   Sureste
   5   0   Suroeste
  25   0   Susana
+  2   0   Vamos a comer. Te invito.
  16   2   Venezuela
   8   0   a
   5   3   a veces
@@ -282,7 +285,9 @@
   6   2   podemos
   6   0   poder
   6   3   podéis
+  2   0   por la mañana
   6   3   por la noche
+  2   0   por la tarde
   6   1   por qué
   6   4   por supuesto
   5   2   primavera
@@ -329,6 +334,7 @@
  25   2   también
   6   1   tampoco
   5   4   tanto
+  2   0   tarde
  10   2   televisor
   4   3   tenemos
   8   6   tener
@@ -394,10 +400,11 @@
  27   0   y
  10   2   ya
  16   2   yo
+  2   0   ¡Feliz cumpleaños!
  27   0   ¡Hola!
  10   0   ¡Qué bonita es la casa!
   4   2   ¿A cuántos estamos hoy?
-  6   0   ¿Adónde vas?
+  8   0   ¿Adónde vas?
  10   0   ¿Cómo es Linda?
  10   1   ¿Cómo es el novio de Linda?
  10   0   ¿Cómo está Linda hoy?
@@ -405,6 +412,7 @@
  10   2   ¿Cómo estás?
  25   6   ¿Cómo te llamas?
  10   0   ¿De dónde eres?
+  2   0   ¿De dónde vienes?
   6   1   ¿Diga?
  11   0   ¿Quién eres?
  10   0   ¿Quién es usted?
