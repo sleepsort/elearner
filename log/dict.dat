@@ -1,4 +1,5 @@
 #LOG <pass> <fail> <key>
+  2   2   Adiós.
  27   0   Ana
  16   4   Argentina
  16   1   Berlín
@@ -18,6 +19,7 @@
  16   1   España
   5   0   Este
   2   1   Hasta el lunes.
+  2   0   Hasta luego.
   6   1   Hasta mañana.
   3   0   Hay una lámpara en la mesa.
  16   0   Juan
@@ -59,17 +61,21 @@
  16   5   abogada
  16   4   abogado
   8   0   abril
+  2   0   abuela
+  2   0   abuelo
   5   2   además
   6   0   adónde
   8   3   agosto
  16   3   agradable
  17   3   ahora
+  2   0   al día
  16   6   alegre
  25   2   alemana
  13   0   alemanes
  25   1   alemán
  16   0   alta
  16   1   alto
+  2   2   amable
  27   0   amiga
  27   3   amigo
  25   1   aquel
@@ -79,6 +85,7 @@
  10   1   aquél
  10   3   armario
  16   4   así
+  2   1   aula
   5   3   año
   6   1   banco
  17   6   bastante
@@ -96,6 +103,9 @@
  16   2   casa
   8   4   catorce
  16   2   centro
+  2   1   charlar
+  2   2   chica
+  2   1   chico
  10   2   cinco
   8   5   cincuenta
   6   3   cine
@@ -107,6 +117,7 @@
   6   0   compañera
   6   1   compañero
   6   2   comprar
+  2   0   con
   8   0   conversación
   6   3   correos
   8   1   cuarenta
@@ -114,6 +125,7 @@
   8   1   cuarto
  10   6   cuarto de baño
  10   4   cuatro
+  2   5   cuidar
   6   2   cumpleaños
  16   2   cómo
   6   1   dar
@@ -133,13 +145,23 @@
  10   2   dormitorio
  16   0   dos
   5   2   dura
+  2   2   durante
   5   0   duro
   8   1   día
  16   2   dónde
  17   0   el
+  2   0   elemental
  27   0   ella
  28   0   ellas
  27   0   ellos
+  2   0   empezamos
+  2   0   empezar
+  2   0   empezáis
+  2   0   empieza
+  2   0   empiezan
+  2   2   empiezas
+  2   0   empiezo
+  2   1   empresa
  25   3   empresaria
  25   2   empresario
  16   0   en
@@ -172,15 +194,18 @@
  16   6   estos
  12   0   estoy
  25   1   estudiante
+  2   0   estudiar
  10   0   estudio
  10   3   está
  10   2   estáis
  10   1   están
  10   2   estás
+  2   0   familia
   8   4   febrero
   6   1   fiesta
   6   2   fin de semana
  10   0   flor
+  2   1   foto
  17   3   francesa
  17   1   francés
   5   2   frío
@@ -194,6 +219,7 @@
  16   2   guapo
  10   2   haber
  17   4   habitación
+  2   2   hablar
   5   0   hace
   5   1   hacemos
   5   0   hacen
@@ -205,6 +231,7 @@
  16   2   hermano
  10   0   hija
  10   0   hijo
+  2   1   hombre
   8   1   hora
  16   2   hoy
  25   2   idioma
@@ -231,6 +258,7 @@
   5   0   llueve
   8   1   lunes
  10   3   lámpara
+  2   0   madre
  16   2   mal
  17   3   marido
   8   3   martes
@@ -244,14 +272,19 @@
  10   2   mesa
  20   0   mi
   8   3   miércoles
+  2   0   morena
+  2   1   moreno
  10   5   mucha
  10   1   mucho
+  2   0   mujer
  16   1   muy
   5   2   más
  25   7   médica
  27   5   médico
+  2   0   necesitar
   5   4   nevar
   5   4   nieva
+  2   1   nivel
  27   0   no
   1   0   nosotras
   1   0   nosotros
@@ -276,6 +309,7 @@
   5   1   otoño
   6   1   otra
   6   0   otro
+  2   0   padre
   8   1   para
   5   4   país
  10   3   pequeña
@@ -290,7 +324,9 @@
   2   0   por la tarde
   6   1   por qué
   6   4   por supuesto
+  2   1   prima
   5   2   primavera
+  2   0   primo
  26   1   profesor
   6   1   puede
   6   2   pueden
@@ -300,6 +336,7 @@
   8   2   quince
  29   0   quién
  25   1   qué
+  2   2   recreo
   8   0   reloj
  16   5   resfriada
  16   1   resfriado
@@ -319,11 +356,15 @@
  16   5   siempre
  10   3   siete
  10   4   silla
+  2   2   simpática
+  2   1   simpático
+  2   0   sino-español
  10   1   sofá
  12   2   sois
   5   1   sol
  28   0   somos
  27   1   son
+  2   1   sorpresa
  28   0   soy
   2   0   su
   5   2   suave
@@ -340,6 +381,7 @@
   8   6   tener
   4   0   tengo
   4   2   tenéis
+  2   1   terminar
   8   5   tiempo
   6   4   tienda
  12   5   tiene
@@ -357,6 +399,8 @@
   8   3   treinta y uno
  11   0   tres
  11   0   tu
+  2   0   tía
+  2   1   tío
  27   3   tú
  10   3   un poco
  10   0   uno
