@@ -93,7 +93,7 @@
  17   1   alto
   7   2   ama de casa
   9   2   amable
-  2   2   ambiente
+  3   3   ambiente
  28   0   amiga
  28   3   amigo
   7   0   antes
@@ -109,7 +109,7 @@
   5   0   asistir
  17   4   así
   9   3   aula
-  2   1   ayudar
+  3   2   ayudar
   5   3   año
   8   1   banco
  18   7   bastante
@@ -123,16 +123,16 @@
   8   0   bueno
   5   4   buscar
   8   0   café
-  2   1   caja
-  2   1   cajera
-  2   0   cajero
+  3   1   caja
+  3   1   cajera
+  3   0   cajero
   5   1   calor
  17   1   cama
  26   1   camarera
  26   1   camarero
-  2   5   cambio
-  2   0   cara
-  2   1   caro
+  3   6   cambio
+  3   1   cara
+  3   1   caro
  17   2   casa
   7   1   casada
   7   0   casado
@@ -154,12 +154,12 @@
   8   3   cine
  17   3   ciudad
   8   1   clase
-  2   1   clienta
-  2   2   cliente
+  3   1   clienta
+  3   3   cliente
   5   1   clima
  11   9   cocina
   7   4   cocinar
-  2   0   color
+  3   0   color
   9   4   comida
   8   0   compañera
   8   1   compañero
@@ -195,8 +195,8 @@
  26   2   de
   7   3   de nada
   7   6   deberes
-  2   0   dependienta
-  2   1   dependiente
+  3   0   dependienta
+  3   3   dependiente
   8   2   deprisa
   7   2   desde
  17   4   desordenada
@@ -266,8 +266,8 @@
   7   2   escribir
   3   0   escribo
   3   0   escribís
-  2   3   escrita
-  2   2   escrito
+  3   4   escrita
+  3   2   escrito
  26   5   escuela
  17   5   ese
  18   5   esos
@@ -294,7 +294,7 @@
  11   2   estáis
  11   1   están
  11   3   estás
-  2   0   euro
+  3   0   euro
   7   1   excepto
   9   0   familia
   8   4   febrero
@@ -307,8 +307,8 @@
   9   1   foto
  18   3   francesa
  18   1   francés
-  2   1   fresca
-  2   0   fresco
+  3   1   fresca
+  3   2   fresco
   5   2   frío
  17   1   funcionaria
  17   2   funcionario
@@ -321,7 +321,7 @@
  17   1   guapa
   2   0   guapa e inteligente
  17   2   guapo
-  2   1   gustar
+  3   2   gustar
  11   2   haber
  18   4   habitación
   9   6   hablar
@@ -331,7 +331,7 @@
   5   1   hacemos
   5   0   hacen
   5   0   hacer
-  2   4   hacer compras
+  3   4   hacer compras
   5   0   haces
   5   0   hacéis
   6   1   hago
@@ -375,7 +375,7 @@
   8   0   junio
  20   1   jóvenes
  26   0   la
-  2   0   la Ciudad de México
+  3   0   la Ciudad de México
   5   1   lado
   8   1   leche
   3   0   lee
@@ -383,18 +383,18 @@
   3   0   leen
   7   1   leer
   3   0   lees
-  2   0   lejos
-  2   0   lejos de
+  3   0   lejos
+  3   0   lejos de
   3   0   leo
   3   0   leéis
   7   2   libre
  11   1   libro
  11   3   limpia
-  2   1   limpiar
+  3   1   limpiar
   7   3   limpieza
  11   1   limpio
   5   2   llave
-  2   1   llegar a
+  3   1   llegar a
   5   1   llover
   5   0   llueve
   5   4   luego
@@ -404,7 +404,7 @@
  17   2   mal
   7   0   mamá
  18   3   marido
-  2   1   marrón
+  3   2   marrón
   8   3   martes
   8   1   marzo
   8   0   mayo
@@ -412,12 +412,12 @@
  13   2   me
   8   0   media
  17   4   mejor
- 10   0   mercado
+ 11   0   mercado
  11   2   mesa
  21   0   mi
   5   0   mirar
   8   3   miércoles
-  2   1   moda
+  3   2   moda
   5   0   modificar
   5   0   momento
   9   1   morena
@@ -433,8 +433,8 @@
   5   0   mío
   5   1   nada
   9   0   necesitar
-  2   0   negra
-  2   0   negro
+  3   0   negra
+  3   0   negro
   5   4   nevar
   5   4   nieva
   9   2   nivel
@@ -452,7 +452,7 @@
  11   1   nueva
  11   1   nueve
  11   2   nuevo
-  2   2   numeración
+  3   2   numeración
   8   1   ochenta
  11   0   ocho
   8   2   octubre
@@ -465,13 +465,13 @@
   8   1   otra
   8   0   otro
   9   1   padre
-  2   1   pagar
+  3   1   pagar
   7   0   papá
   7   5   paquete
-  2   0   par
+  3   0   par
   8   1   para
   5   2   parque industrial
-  2   1   pasar
+  3   1   pasar
   5   4   país
   7   5   película
  11   3   pequeña
@@ -498,19 +498,19 @@
  11   2   por la tarde
   8   1   por qué
   8   4   por supuesto
-  2   1   porque
-  2   1   precio
-  2   0   preferimos
-  2   0   preferir
-  2   0   preferís
-  2   0   prefiere
-  2   1   prefieren
-  2   0   prefieres
-  2   0   prefiero
+  3   1   porque
+  3   1   precio
+  3   0   preferimos
+  3   0   preferir
+  3   0   preferís
+  3   0   prefiere
+  3   1   prefieren
+  3   0   prefieres
+  3   0   prefiero
   9   2   prima
   5   2   primavera
   9   0   primo
-  2   3   probarse
+  3   5   probarse
  27   1   profesor
   5   0   programa
   5   0   próxima
@@ -521,7 +521,7 @@
   8   1   puedes
   8   1   puedo
   8   2   puntual
-  2   2   quedar
+  3   3   quedar
   5   0   queremos
   5   0   querer
   5   0   queréis
@@ -585,11 +585,11 @@
   8   1   tampoco
   5   4   tanto
  10   1   tarde
-  2   1   tarjeta de crédito
+  3   3   tarjeta de crédito
  11   3   televisor
   4   3   tenemos
   8   6   tener
-  2   1   tener que
+  3   1   tener que
   4   0   tengo
   4   2   tenéis
   9   1   terminar
@@ -657,7 +657,7 @@
   7   0   ver
   5   1   verano
   5   1   verdad
-  2   1   verdura
+  3   2   verdura
   7   0   ves
   7   1   vez
   7   2   viajar
@@ -675,8 +675,8 @@
  28   0   y
  11   2   ya
  17   2   yo
-  2   1   zapatería
-  2   1   zapato
+  3   2   zapatería
+  3   1   zapato
   2   1   ¡Buena idea!
   4   0   ¡Feliz cumpleaños!
  28   0   ¡Hola!
@@ -712,5 +712,5 @@
  11   4   ése
  26   2   ésta
  17   1   éste
-  2   0   última
-  2   1   último
+  3   0   última
+  3   1   último
