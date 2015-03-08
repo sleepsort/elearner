@@ -23,7 +23,7 @@
  11   1   Hasta luego.
  10   1   Hasta mañana.
   5   0   Hay una lámpara en la mesa.
-  3   2   Hoy voy a trabajar todo el día.
+  4   2   Hoy voy a trabajar todo el día.
  18   0   Juan
  18   0   Julio
  19   1   La Paz
@@ -39,10 +39,10 @@
  27   1   Me llamo...
  30   2   Mucho gusto.
  12   1   México
-  7   0   No importa.
+  8   0   No importa.
   4   0   No sé.
  13   2   No sólo ahora. ¡Siempre es así!
-  3   0   No tengo hambre.
+  4   0   No tengo hambre.
   7   0   Noreste
   7   2   Noroeste
   7   0   Norte
@@ -59,129 +59,129 @@
   7   0   Sureste
   7   0   Suroeste
  27   0   Susana
-  5   0   Un momento.
+  6   0   Un momento.
   6   2   Vamos a comer. Te invito.
  18   2   Venezuela
  10   0   a
   4   2   a las cuatro de la tarde
-  8   6   a propósito
+  9   8   a propósito
   7   4   a veces
-  8   6   abierta
-  8   2   abierto
+  9   6   abierta
+  9   2   abierto
  18   5   abogada
  18   4   abogado
  10   1   abril
-  8   3   abrir
+  9   4   abrir
  11   2   abuela
  11   0   abuelo
   7   2   además
-  3   2   además de
+  4   3   además de
  10   0   adónde
- 18   3   agosto
+ 19   3   agosto
  18   3   agradable
  19   3   ahora
  11   0   al día
-  5   0   al lado de
+  6   2   al lado de
  18   6   alegre
  27   2   alemana
  15   0   alemanes
  27   1   alemán
-  8   4   alguna
-  8   2   alguno
-  8   5   almacenes
+  9   5   alguna
+  9   2   alguno
+  9   6   almacenes
  18   1   alta
  18   1   alto
-  8   2   ama de casa
+  9   3   ama de casa
  11   2   amable
-  5   3   ambiente
+  6   4   ambiente
  29   0   amiga
  29   3   amigo
-  8   0   antes
-  8   2   antes de
-  7   3   aprovechar
+  9   0   antes
+  9   2   antes de
+  8   4   aprovechar
  27   1   aquel
  27   6   aquella
  27   4   aquellas
  27   2   aquellos
  12   2   aquél
  12   6   armario
-  8   3   artículo
-  7   0   asistir
+  9   4   artículo
+  8   1   asistir
  18   4   así
  11   3   aula
-  5   2   ayudar
+  6   3   ayudar
   7   3   año
  10   1   banco
  19   7   bastante
  10   6   bebida
  18   1   bien
-  7   3   bienvenida
-  7   2   bienvenido
+  8   3   bienvenida
+  8   3   bienvenido
  18   4   bonita
  18   2   bonito
  10   1   buena
  10   1   bueno
-  7   4   buscar
+  8   5   buscar
  10   0   café
-  5   1   caja
-  5   1   cajera
-  5   0   cajero
+  6   1   caja
+  6   2   cajera
+  6   0   cajero
   7   1   calor
  18   1   cama
  27   1   camarera
  27   1   camarero
-  5   6   cambio
-  5   1   cara
-  5   2   caro
+  6   6   cambio
+  6   1   cara
+  6   3   caro
  18   2   casa
-  8   1   casada
-  8   0   casado
+  9   2   casada
+  9   0   casado
  10   4   catorce
-  8   2   cenar
+  9   3   cenar
  18   2   centro
-  8   1   cerramos
-  8   1   cerrar
-  8   0   cerráis
+  9   1   cerramos
+  9   1   cerrar
+  9   0   cerráis
  11   2   charlar
  11   2   chica
  11   1   chico
-  8   0   cierra
-  8   0   cierran
-  8   0   cierras
-  8   0   cierro
+  9   0   cierra
+  9   0   cierran
+  9   0   cierras
+  9   0   cierro
  12   2   cinco
  10   5   cincuenta
  10   4   cine
  18   3   ciudad
  10   1   clase
-  5   1   clienta
-  5   3   cliente
+  6   2   clienta
+  6   3   cliente
   7   1   clima
  12   9   cocina
-  8   4   cocinar
-  5   0   color
+  9   4   cocinar
+  6   0   color
  11   4   comida
  10   0   compañera
  10   1   compañero
-  3   0   compañero de clase
-  3   0   compañero de trabajo
+  4   0   compañero de clase
+  4   0   compañero de trabajo
  10   2   comprar
  11   0   con
-  7   0   congreso
-  8   0   conoce
-  8   1   conocemos
-  8   1   conocen
-  8   2   conocer
-  8   2   conoces
-  8   0   conocéis
-  8   0   conozco
-  8   0   continua
-  8   1   continuo
+  8   1   congreso
+  9   0   conoce
+  9   2   conocemos
+  9   1   conocen
+  9   2   conocer
+  9   2   conoces
+  9   1   conocéis
+  9   0   conozco
+  9   0   continua
+  9   1   continuo
  10   0   conversación
  10   4   correos
-  7   0   cosa
-  2   1   cualquiera
-  8   2   cuando
+  8   0   cosa
+  3   4   cualquiera
+  9   4   cuando
  10   2   cuarenta
  10   2   cuarenta y uno
  10   1   cuarto
@@ -189,23 +189,23 @@
  12   4   cuatro
  11   6   cuidar
  10   3   cumpleaños
-  7   1   cuál
-  8   5   cuándo
+  8   1   cuál
+  9   6   cuándo
  18   2   cómo
  10   3   dar
  27   2   de
-  8   3   de nada
-  8   6   deberes
-  5   0   dependienta
-  5   3   dependiente
+  9   3   de nada
+  9   7   deberes
+  6   2   dependienta
+  6   4   dependiente
  10   3   deprisa
-  8   2   desde
+  9   3   desde
  18   4   desordenada
  18   0   desordenado
-  8   2   despistada
-  8   2   despistado
+  9   2   despistada
+  9   2   despistado
  10   6   después
-  3   0   después de
+  4   1   después de
  10   2   diciembre
  10   2   diecinueve
  10   2   dieciocho
@@ -239,48 +239,48 @@
  27   5   empresario
  18   0   en
  10   3   en punto
-  8   1   encima
-  8   1   encima de
-  7   1   encontramos
-  7   1   encontrar
-  7   0   encontráis
-  7   1   encuentra
-  7   3   encuentran
-  7   2   encuentras
-  7   0   encuentro
+  9   1   encima
+  9   1   encima de
+  8   2   encontramos
+  8   2   encontrar
+  8   0   encontráis
+  8   2   encuentra
+  8   3   encuentran
+  8   2   encuentras
+  8   0   encuentro
  10   4   enero
  18   5   enferma
  27   3   enfermera
  27   5   enfermero
  18   7   enfermo
  10  10   entonces
-  8   1   entrar
-  8   0   entre
+  9   1   entrar
+  9   1   entre
  29   1   eres
  29   0   es
  18   0   esa
  18   3   esas
-  4   0   escribe
-  4   0   escriben
-  4   1   escribes
-  4   0   escribimos
-  8   2   escribir
-  4   0   escribo
-  4   0   escribís
-  5   4   escrita
-  5   2   escrito
+  5   0   escribe
+  5   0   escriben
+  5   1   escribes
+  5   0   escribimos
+  9   2   escribir
+  5   0   escribo
+  5   0   escribís
+  6   5   escrita
+  6   3   escrito
  27   5   escuela
  18   7   ese
  19   5   esos
  28   0   español
  27   1   española
-  7   5   esperar
+  8   8   esperar
  12   2   esposa
  12   4   esposo
  27   4   esta
   7   4   estación
  12   6   estamos
-  7   4   estancia
+  8   6   estancia
  12   5   estantería
  18   6   estar
  18   2   estas
@@ -295,26 +295,26 @@
  12   2   estáis
  12   3   están
  12   4   estás
-  5   0   euro
-  8   1   excepto
+  6   0   euro
+  9   2   excepto
  11   0   familia
  10   6   febrero
-  8   1   felicidad
-  8   2   feliz
+  9   1   felicidad
+  9   2   feliz
  10   1   fiesta
  10   3   fin de semana
  12   0   flor
-  8   2   florero
+  9   2   florero
  11   1   foto
  19   3   francesa
  19   1   francés
-  5   1   fresca
-  5   2   fresco
+  6   1   fresca
+  6   2   fresco
   7   2   frío
  18   1   funcionaria
  18   2   funcionario
-  8   2   fútbol
-  8   1   generalmente
+  9   3   fútbol
+  9   1   generalmente
  10   0   gente
  18   3   gerente
  18   3   gracias
@@ -322,7 +322,7 @@
  18   1   guapa
   4   2   guapa e inteligente
  18   2   guapo
-  5   3   gustar
+  6   4   gustar
  12   3   haber
  19   5   habitación
  11   6   hablar
@@ -332,98 +332,98 @@
   7   1   hacemos
   7   0   hacen
   7   0   hacer
-  5   4   hacer compras
+  6   5   hacer compras
   7   0   haces
   7   0   hacéis
-  9   2   hago
-  7   0   hall
-  8   1   hambre
-  8   1   hasta
+ 10   2   hago
+  8   0   hall
+  9   1   hambre
+  9   2   hasta
  18   2   hermana
  18   2   hermano
  12   0   hija
  12   0   hijo
  11   2   hombre
  10   1   hora
-  8   2   horario
+  9   2   horario
  18   2   hoy
-  8   0   idea
+  9   0   idea
  27   2   idioma
  18   1   inglesa
  18   3   inglés
  12   3   interesante
-  7   4   intérprete
+  8   5   intérprete
   7   2   invierno
  10   2   invitar
  10   0   ir
   6   2   ir conmigo
   6   0   ir contigo
-  2   1   ir de vacaciones
+  3   2   ir de vacaciones
  18   1   italiana
  18   2   italiano
  12   3   jardín
  27   1   joven
-  8   0   juega
-  8   1   juegan
-  8   2   juegas
-  8   0   juego
+  9   0   juega
+  9   1   juegan
+  9   2   juegas
+  9   0   juego
  10   5   jueves
-  8   0   jugamos
-  8   1   jugar a
-  8   0   jugar con
-  8   0   jugáis
+  9   1   jugamos
+  9   2   jugar a
+  9   0   jugar con
+  9   0   jugáis
  10   0   julio
  10   0   junio
  21   2   jóvenes
- 29   0   la
-  5   0   la Ciudad de México
-  7   1   lado
-  2   0   las
+ 30   0   la
+  6   1   la Ciudad de México
+  8   1   lado
+  3   0   las
  10   2   leche
-  4   0   lee
-  4   0   leemos
-  4   0   leen
-  8   1   leer
-  4   0   lees
-  5   0   lejos
-  5   0   lejos de
-  4   0   leo
-  4   0   leéis
-  8   3   libre
+  5   0   lee
+  5   0   leemos
+  5   0   leen
+  9   1   leer
+  5   0   lees
+  6   0   lejos
+  6   1   lejos de
+  5   0   leo
+  5   2   leéis
+  9   3   libre
  12   1   libro
  12   4   limpia
-  5   1   limpiar
-  8   3   limpieza
+  6   2   limpiar
+  9   3   limpieza
  12   1   limpio
-  7   2   llave
-  5   1   llegar a
+  8   2   llave
+  6   4   llegar a
   7   2   llover
   7   0   llueve
-  2   1   lo
-  2   0   los
-  7   5   luego
+  3   2   lo
+  3   0   los
+  8   6   luego
  10   1   lunes
  12   3   lámpara
  11   0   madre
  18   2   mal
-  8   0   mamá
+  9   0   mamá
  19   3   marido
-  5   2   marrón
+  6   2   marrón
  10   5   martes
  10   1   marzo
  10   0   mayo
  10   1   mañana
- 16   2   me
+ 17   2   me
  10   0   media
  18   4   mejor
- 15   0   mercado
+ 16   0   mercado
  12   2   mesa
  22   0   mi
-  7   0   mirar
+  8   1   mirar
  10   4   miércoles
-  5   2   moda
-  7   0   modificar
-  7   0   momento
+  6   2   moda
+  8   0   modificar
+  8   0   momento
  11   1   morena
  11   1   moreno
  12   5   mucha
@@ -433,18 +433,18 @@
   7   2   más
  27   8   médica
  29   5   médico
-  7   0   mía
-  7   0   mío
-  7   1   nada
+  8   0   mía
+  8   0   mío
+  8   1   nada
  11   0   necesitar
-  5   0   negra
-  5   0   negro
+  6   0   negra
+  6   0   negro
   7   6   nevar
   7   6   nieva
  11   3   nivel
  29   0   no
-  8   1   normal
-  2   0   nos
+  9   1   normal
+  3   0   nos
   3   1   nosotras
   3   0   nosotros
  10   3   noventa
@@ -457,7 +457,7 @@
  12   1   nueva
  12   1   nueve
  12   2   nuevo
-  5   2   numeración
+  6   3   numeración
  10   1   ochenta
  12   0   ocho
  10   2   octubre
@@ -466,98 +466,98 @@
  12   0   ordenada
  12   1   ordenado
  10   0   ordenar
-  2   1   os
+  3   2   os
   7   1   otoño
  10   1   otra
  10   0   otro
  11   1   padre
-  5   1   pagar
-  8   0   papá
-  8   5   paquete
-  5   0   par
+  6   1   pagar
+  9   0   papá
+  9   6   paquete
+  6   1   par
  10   1   para
-  7   2   parque industrial
-  5   1   pasar
+  8   3   parque industrial
+  6   2   pasar
   7   5   país
-  8   5   película
+  9   7   película
  12   3   pequeña
  12   2   pequeño
-  8   2   perdón
-  7   2   perfecta
-  7   0   perfecto
-  8   2   periodista
-  8   9   periódico
+  9   2   perdón
+  8   2   perfecta
+  8   0   perfecto
+  9   3   periodista
+  9  10   periódico
  18   3   pero
  18   9   planta
  10   4   podemos
  10   0   poder
  10   3   podéis
-  8   0   pone
-  8   0   ponemos
-  8   0   ponen
-  8   1   poner
-  8   1   pones
-  8   1   pongo
-  8   1   ponéis
- 13   0   por la mañana
+  9   0   pone
+  9   0   ponemos
+  9   0   ponen
+  9   2   poner
+  9   1   pones
+  9   1   pongo
+  9   1   ponéis
+ 14   0   por la mañana
  10   3   por la noche
- 13   2   por la tarde
+ 14   2   por la tarde
  10   2   por qué
  10   5   por supuesto
-  5   1   porque
-  5   1   precio
-  5   0   preferimos
-  5   0   preferir
-  5   0   preferís
-  5   0   prefiere
-  5   1   prefieren
-  5   0   prefieres
-  5   0   prefiero
+  6   1   porque
+  6   2   precio
+  6   0   preferimos
+  6   1   preferir
+  6   0   preferís
+  6   0   prefiere
+  6   1   prefieren
+  6   0   prefieres
+  6   0   prefiero
  11   2   prima
   7   2   primavera
  11   1   primo
-  5   5   probarse
+  6   7   probarse
  28   1   profesor
-  7   1   programa
-  7   1   próxima
-  7   0   próximo
-  8   3   pueblo
+  8   1   programa
+  8   1   próxima
+  8   1   próximo
+  9   5   pueblo
  10   1   puede
  10   2   pueden
  10   1   puedes
  10   1   puedo
  10   2   puntual
-  5   4   quedar
-  7   0   queremos
-  7   0   querer
-  7   0   queréis
-  7   0   quiere
-  7   0   quieren
-  7   0   quieres
-  7   0   quiero
+  6   6   quedar
+  8   1   queremos
+  8   0   querer
+  8   0   queréis
+  8   0   quiere
+  8   0   quieren
+  8   0   quieres
+  8   0   quiero
  10   3   quince
  31   0   quién
  27   1   qué
-  7   4   recepcionista
+  8   5   recepcionista
  11   4   recreo
-  8   2   regalo
+  9   2   regalo
  10   0   reloj
-  7   2   repartir
+  8   2   repartir
  18   5   resfriada
  18   1   resfriado
  12   3   revista
  18   0   rubia
  18   1   rubio
-  8   0   sabe
-  8   0   sabemos
-  8   1   saben
-  8   3   saber
-  8   0   sabes
-  8   0   sabéis
+  9   1   sabe
+  9   0   sabemos
+  9   1   saben
+  9   3   saber
+  9   1   sabes
+  9   0   sabéis
  12   1   sala
  27   0   secretaria
  27   2   secretario
-  8   1   secundario
+  9   1   secundario
  12   3   seis
  10   6   septiembre
  10   2   sesenta
@@ -570,9 +570,9 @@
  12   5   silla
  11   3   simpática
  11   1   simpático
-  8   4   sin embargo
+  9   6   sin embargo
  11   1   sino-español
-  8   2   sobre
+  9   3   sobre
  12   1   sofá
  14   3   sois
   7   1   sol
@@ -584,19 +584,19 @@
   7   3   suave
  10   2   supermercado
  10   6   sábado
-  8   0   sé
+  9   0   sé
  29   1   sí
  18   6   sólo
  27   3   también
  10   2   tampoco
   7   4   tanto
- 14   1   tarde
-  5   3   tarjeta de crédito
-  2   0   te
+ 15   1   tarde
+  6   5   tarjeta de crédito
+  3   0   te
  12   3   televisor
   6   3   tenemos
  10   6   tener
-  5   1   tener que
+  6   2   tener que
   6   0   tengo
   6   2   tenéis
  11   1   terminar
@@ -605,15 +605,15 @@
  15   5   tiene
   6   2   tienen
   6   2   tienes
-  9   1   toda
+ 10   1   toda
  10   9   todavía
- 20   1   todo
- 11   0   todos los días
+ 21   1   todo
+ 12   0   todos los días
  10   4   tomar
  10   0   trabajar
  10   1   trabajo
-  8   1   tranquila
-  8   0   tranquilo
+  9   1   tranquila
+  9   0   tranquilo
  10   1   trece
  10   1   treinta
  10   3   treinta y dos
@@ -621,9 +621,9 @@
  10   3   treinta y uno
  13   0   tres
  13   0   tu
-  7   4   turismo
-  7   0   tuya
-  7   0   tuyo
+  8   5   turismo
+  8   0   tuya
+  8   0   tuyo
  11   1   tía
  11   2   tío
  29   3   tú
@@ -632,13 +632,13 @@
  27   2   usted
   3   3   ustedes
  10   0   va
-  3   0   vacaciones de verano
-  8   4   vacación
+  4   1   vacaciones de verano
+  9   4   vacación
  10   2   vais
  10   1   vamos
  10   0   van
  10   0   vas
-  8   0   ve
+  9   0   ve
  10   2   veinte
  10   0   veinticinco
  10   2   veinticuatro
@@ -651,24 +651,24 @@
   6   1   veintiuna mesas
  10   2   veintiuno
   6   3   veintiún sofás
-  8   0   veis
-  8   1   vemos
-  8   0   ven
+  9   3   veis
+  9   1   vemos
+  9   0   ven
  12   2   venezolana
  12   2   venezolano
  10   1   vengo
  11   3   venimos
  11   1   venir
  10   2   venís
-  8   2   veo
-  8   0   ver
+  9   3   veo
+  9   0   ver
   7   1   verano
   7   2   verdad
-  5   2   verdura
-  8   0   ves
-  8   1   vez
-  8   3   viajar
-  8   2   viaje
+  6   3   verdura
+  9   0   ves
+  9   1   vez
+  9   3   viajar
+  9   3   viaje
  10   2   viene
  10   1   vienen
  10   3   vienes
@@ -682,13 +682,13 @@
  29   0   y
  12   2   ya
  18   2   yo
-  5   2   zapatería
-  5   1   zapato
-  3   1   ¡Buena idea!
-  2   0   ¡Dios mío!
+  6   4   zapatería
+  6   2   zapato
+  4   1   ¡Buena idea!
+  3   2   ¡Dios mío!
   6   0   ¡Feliz cumpleaños!
  29   0   ¡Hola!
-  2   0   ¡Madre mía!
+  3   0   ¡Madre mía!
  12   0   ¡Qué bonita es la casa!
   6   5   ¿A cuántos estamos hoy?
   6   5   ¿A qué hora empezáis a trabajar?
@@ -705,7 +705,7 @@
  10   1   ¿Diga?
   6   3   ¿Habla usted inglés?
   6   1   ¿Puedes venir?
-  4   2   ¿Puedes ver qué hay encima?
+  5   3   ¿Puedes ver qué hay encima?
  13   0   ¿Quién eres?
  12   0   ¿Quién es usted?
   6   0   ¿Qué día es hoy?
@@ -714,12 +714,12 @@
   6   1   ¿Qué hora es?
  18   1   ¿Qué tal?
   7   2   ¿Qué tiempo hace?
-  3   2   ¿Tienes algún libro interesante?
-  3   3   ¿Tienes el periódico de hoy?
+  4   3   ¿Tienes algún libro interesante?
+  4   3   ¿Tienes el periódico de hoy?
   6   3   ¿Ya terminas de estudiar?
  29   0   él
  12   4   ése
  27   2   ésta
  18   2   éste
-  5   0   última
-  5   1   último
+  6   0   última
+  6   1   último
