@@ -74,9 +74,12 @@
   9   4   abrir
  11   2   abuela
  11   0   abuelo
+  2   0   acostarse
   7   2   además
   4   3   además de
  10   0   adónde
+  2   2   aeropuerto
+  2   4   afeitarse
  19   3   agosto
  18   3   agradable
  19   3   ahora
@@ -105,15 +108,28 @@
  27   2   aquellos
  12   2   aquél
  12   6   armario
+  2   2   arreglar
   9   4   artículo
   8   1   asistir
  18   4   así
+  2   0   atendemos
+  2   0   atender
+  2   0   atendéis
+  2   1   atiende
+  2   0   atienden
+  2   1   atiendes
+  2   0   atiendo
  11   3   aula
+  2   3   avión
   6   3   ayudar
   7   3   año
  10   1   banco
  19   7   bastante
  10   6   bebida
+  2   1   biblioteca
+  2   2   bibliotecaria
+  2   3   bibliotecario
+  2   1   bicicleta
  18   1   bien
   8   3   bienvenida
   8   3   bienvenido
@@ -131,6 +147,7 @@
  27   1   camarera
  27   1   camarero
   6   6   cambio
+  2   0   camisa
   6   1   cara
   6   3   caro
  18   2   casa
@@ -175,6 +192,8 @@
   9   2   conoces
   9   1   conocéis
   9   0   conozco
+  2   2   contemporánea
+  2   1   contemporáneo
   9   0   continua
   9   1   continuo
  10   0   conversación
@@ -196,6 +215,10 @@
  27   2   de
   9   3   de nada
   9   7   deberes
+  2   0   decimos
+  2   0   decir
+  2   0   decís
+  2   6   dejar
   6   2   dependienta
   6   4   dependiente
  10   3   deprisa
@@ -206,12 +229,23 @@
   9   2   despistado
  10   6   después
   4   1   después de
+  2   0   devolvemos
+  2   1   devolver
+  2   0   devolvéis
+  2   0   devuelve
+  2   0   devuelven
+  2   1   devuelves
+  2   0   devuelvo
+  2   0   dice
+  2   2   dicen
+  2   1   dices
  10   2   diciembre
  10   2   diecinueve
  10   2   dieciocho
  10   3   diecisiete
  10   3   dieciséis
  12   0   diez
+  2   0   digo
  10   2   doce
  10   3   domingo
  12   3   dormitorio
@@ -221,6 +255,7 @@
   7   0   duro
  10   1   día
  18   3   dónde
+  2   5   efectivamente
  19   0   el
   6   0   el aula
  11   0   elemental
@@ -271,6 +306,7 @@
   6   3   escrito
  27   5   escuela
  18   7   ese
+  2   0   eso
  19   5   esos
  28   0   español
  27   1   española
@@ -349,6 +385,7 @@
  18   2   hoy
   9   0   idea
  27   2   idioma
+  2   1   incluso
  18   1   inglesa
  18   3   inglés
  12   3   interesante
@@ -379,6 +416,7 @@
   6   1   la Ciudad de México
   8   1   lado
   3   0   las
+  2   3   lavarse
  10   2   leche
   5   0   lee
   5   0   leemos
@@ -388,7 +426,11 @@
   6   0   lejos
   6   1   lejos de
   5   0   leo
+  2   2   levantado
+  2   0   levantarse
   5   2   leéis
+  2   1   leída
+  2   0   leído
   9   3   libre
  12   1   libro
  12   4   limpia
@@ -397,6 +439,7 @@
  12   1   limpio
   8   2   llave
   6   4   llegar a
+  2   5   llevar
   7   2   llover
   7   0   llueve
   3   2   lo
@@ -414,11 +457,13 @@
  10   0   mayo
  10   1   mañana
  17   2   me
+  2   0   me acuesto
  10   0   media
  18   4   mejor
  16   0   mercado
  12   2   mesa
  22   0   mi
+  2   0   minuto
   8   1   mirar
  10   4   miércoles
   6   2   moda
@@ -435,6 +480,7 @@
  29   5   médico
   8   0   mía
   8   0   mío
+  2   0   nacional
   8   1   nada
  11   0   necesitar
   6   0   negra
@@ -443,10 +489,14 @@
   7   6   nieva
  11   3   nivel
  29   0   no
+  2   0   no...hasta...
+  2   0   no...sino...
   9   1   normal
   3   0   nos
+  2   0   nos acostamos
   3   1   nosotras
   3   0   nosotros
+  2   0   novela
  10   3   noventa
  19   3   novia
  10   2   noviembre
@@ -467,6 +517,7 @@
  12   1   ordenado
  10   0   ordenar
   3   2   os
+  2   0   os acostáis
   7   1   otoño
  10   1   otra
  10   0   otro
@@ -476,9 +527,19 @@
   9   6   paquete
   6   1   par
  10   1   para
+  2   0   parece
+  2   0   parecemos
+  2   0   parecen
+  2   5   parecer
+  2   1   pareces
+  2   0   parecéis
+  2   0   parezco
   8   3   parque industrial
   6   2   pasar
   7   5   país
+  2   0   pedimos
+  2   0   pedir
+  2   0   pedís
   9   7   película
  12   3   pequeña
  12   2   pequeño
@@ -488,6 +549,11 @@
   9   3   periodista
   9  10   periódico
  18   3   pero
+  2   0   pide
+  2   1   piden
+  2   0   pides
+  2   1   pido
+  2   2   planchar
  18   9   planta
  10   4   podemos
  10   0   poder
@@ -499,6 +565,7 @@
   9   1   pones
   9   1   pongo
   9   1   ponéis
+  2   1   por favor
  14   0   por la mañana
  10   3   por la noche
  14   2   por la tarde
@@ -513,6 +580,8 @@
   6   1   prefieren
   6   0   prefieres
   6   0   prefiero
+  2   3   preparar
+  2   3   prestar
  11   2   prima
   7   2   primavera
  11   1   primo
@@ -528,6 +597,7 @@
  10   1   puedo
  10   2   puntual
   6   6   quedar
+  2   3   quejarse
   8   1   queremos
   8   0   querer
   8   0   queréis
@@ -548,6 +618,7 @@
  12   3   revista
  18   0   rubia
  18   1   rubio
+  2   0   rápido
   9   1   sabe
   9   0   sabemos
   9   1   saben
@@ -555,6 +626,8 @@
   9   1   sabes
   9   0   sabéis
  12   1   sala
+  2   3   se acuesta
+  2   0   se acuestan
  27   0   secretaria
  27   2   secretario
   9   1   secundario
@@ -593,6 +666,7 @@
  15   1   tarde
   6   5   tarjeta de crédito
   3   0   te
+  2   2   te acuestas
  12   3   televisor
   6   3   tenemos
  10   6   tener
