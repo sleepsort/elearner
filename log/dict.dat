@@ -121,13 +121,13 @@
  11   4   artículo
   9   1   asistir
  18   4   así
-  5   1   atendemos
+  6   1   atendemos
   5   0   atender
-  5   0   atendéis
-  5   1   atiende
-  5   0   atienden
-  5   1   atiendes
-  5   0   atiendo
+  6   0   atendéis
+  6   1   atiende
+  6   0   atienden
+  6   1   atiendes
+  6   0   atiendo
  11   3   aula
   5   3   avión
   8   3   ayudar
@@ -167,16 +167,16 @@
  10   4   catorce
   9   3   cenar
  18   2   centro
-  9   1   cerramos
+ 10   1   cerramos
   9   1   cerrar
-  9   0   cerráis
+ 10   0   cerráis
  11   2   charlar
  11   2   chica
  11   1   chico
-  9   0   cierra
-  9   0   cierran
-  9   0   cierras
-  9   0   cierro
+ 10   0   cierra
+ 10   0   cierran
+ 10   0   cierras
+ 10   0   cierro
  12   2   cinco
  10   5   cincuenta
  10   4   cine
@@ -196,13 +196,13 @@
  10   2   comprar
  11   0   con
   9   1   congreso
-  9   0   conoce
-  9   2   conocemos
-  9   1   conocen
+ 10   0   conoce
+ 10   2   conocemos
+ 10   1   conocen
  11   2   conocer
-  9   2   conoces
-  9   1   conocéis
-  9   0   conozco
+ 10   2   conoces
+ 10   1   conocéis
+ 10   0   conozco
   5   1   contemporáneo
   9   1   continuo
  10   0   conversación
@@ -225,9 +225,9 @@
  27   2   de
  11   3   de nada
  11   7   deberes
-  5   0   decimos
+  6   0   decimos
   5   0   decir
-  5   0   decís
+  6   0   decís
   5   7   dejar
   2   3   delgado
   8   3   dependienta
@@ -239,24 +239,24 @@
   9   2   despistado
  10   6   después
   4   1   después de
-  5   0   devolvemos
+  6   0   devolvemos
   5   3   devolver
-  5   0   devolvéis
-  5   1   devuelve
-  5   0   devuelven
-  5   1   devuelves
-  5   0   devuelvo
+  6   0   devolvéis
+  6   1   devuelve
+  6   0   devuelven
+  6   1   devuelves
+  6   0   devuelvo
   2   1   diccionario
-  5   0   dice
-  5   2   dicen
-  5   1   dices
+  6   0   dice
+  6   2   dicen
+  6   1   dices
  10   2   diciembre
  10   2   diecinueve
  10   2   dieciocho
  10   3   diecisiete
  10   3   dieciséis
  12   0   diez
-  5   0   digo
+  6   0   digo
  10   2   doce
  10   3   domingo
  12   3   dormitorio
@@ -272,13 +272,13 @@
  29   0   ella
  30   0   ellas
  29   0   ellos
- 11   0   empezamos
+ 12   0   empezamos
  11   1   empezar
- 11   1   empezáis
- 11   0   empieza
- 11   0   empiezan
- 11   3   empiezas
- 11   1   empiezo
+ 12   1   empezáis
+ 12   0   empieza
+ 12   0   empiezan
+ 12   3   empiezas
+ 12   1   empiezo
  11   1   empresa
  27   3   empresaria
  27   5   empresario
@@ -286,13 +286,13 @@
  10   3   en punto
  11   1   encima
  11   1   encima de
-  8   2   encontramos
+  9   2   encontramos
   9   2   encontrar
-  8   0   encontráis
-  8   2   encuentra
-  8   3   encuentran
-  8   2   encuentras
-  8   0   encuentro
+  9   1   encontráis
+  9   2   encuentra
+  9   3   encuentran
+  9   2   encuentras
+  9   0   encuentro
  10   4   enero
  18   5   enferma
  27   3   enfermera
@@ -301,17 +301,17 @@
  10  10   entonces
  11   2   entrar
   9   1   entre
- 29   1   eres
- 29   0   es
+ 30   1   eres
+ 30   0   es
  18   0   esa
  18   3   esas
-  5   0   escribe
-  5   0   escriben
-  5   1   escribes
-  5   0   escribimos
+  6   0   escribe
+  6   0   escriben
+  6   1   escribes
+  6   0   escribimos
  11   2   escribir
-  5   0   escribo
-  5   0   escribís
+  6   0   escribo
+  6   0   escribís
   8   5   escrita
   8   3   escrito
  27   5   escuela
@@ -326,7 +326,7 @@
  12   4   esposo
  27   4   esta
   7   4   estación
- 12   6   estamos
+ 13   6   estamos
   9   6   estancia
  12   5   estantería
  18   6   estar
@@ -334,14 +334,14 @@
  27   5   este
  12   9   esto
  18   7   estos
- 14   0   estoy
+ 15   0   estoy
  27   2   estudiante
  11   1   estudiar
  12   1   estudio
- 12   3   está
- 12   2   estáis
- 12   3   están
- 12   4   estás
+ 13   3   está
+ 13   2   estáis
+ 13   3   están
+ 13   4   estás
   8   0   euro
   9   2   excepto
  11   0   familia
@@ -379,14 +379,14 @@
  11   6   hablar
   6   0   hablar de
   6   0   hablar en
-  7   0   hace
-  7   1   hacemos
-  7   0   hacen
+  8   0   hace
+  8   1   hacemos
+  8   0   hacen
   7   0   hacer
   8   5   hacer compras
-  7   0   haces
-  7   0   hacéis
- 12   2   hago
+  8   0   haces
+  8   0   hacéis
+ 13   2   hago
   9   0   hall
   9   1   hambre
   9   2   hasta
@@ -418,15 +418,15 @@
  18   2   italiano
  12   3   jardín
  29   1   joven
-  9   0   juega
-  9   1   juegan
-  9   2   juegas
-  9   0   juego
+ 10   0   juega
+ 10   1   juegan
+ 10   2   juegas
+ 10   0   juego
  10   5   jueves
-  9   1   jugamos
+ 10   1   jugamos
  11   2   jugar a
  11   0   jugar con
-  9   0   jugáis
+ 10   0   jugáis
  10   0   julio
  10   0   junio
  21   2   jóvenes
@@ -438,18 +438,18 @@
   5   3   lavarse
   2   0   le
  10   2   leche
-  5   0   lee
-  5   0   leemos
-  5   0   leen
+  6   0   lee
+  6   0   leemos
+  6   0   leen
  11   1   leer
-  5   0   lees
+  6   0   lees
   8   1   lejos
   8   1   lejos de
-  5   0   leo
+  6   0   leo
   2   0   les
   5   2   levantado
   5   0   levantarse
-  5   2   leéis
+  6   2   leéis
   5   2   leída
   5   1   leído
  11   3   libre
@@ -464,7 +464,7 @@
   2   5   llevar bigote
   2   1   llorar
   7   2   llover
-  7   0   llueve
+  8   0   llueve
   4   3   lo
   4   0   los
   9   7   luego
@@ -482,7 +482,7 @@
   2   0   mayor
  10   1   mañana
  20   2   me
-  5   1   me acuesto
+  6   1   me acuesto
  10   0   media
  20   4   mejor
   2   1   menor
@@ -511,14 +511,14 @@
  11   0   necesitar
   8   0   negro
   7   6   nevar
-  7   6   nieva
+  8   6   nieva
  11   3   nivel
  29   0   no
   5   0   no...hasta...
   5   0   no...sino...
   9   1   normal
   6   0   nos
-  5   0   nos acostamos
+  6   0   nos acostamos
   3   1   nosotras
   3   0   nosotros
   5   0   novela
@@ -542,7 +542,7 @@
   2   0   ordenador
  10   0   ordenar
   6   3   os
-  5   0   os acostáis
+  6   1   os acostáis
   7   1   otoño
  10   0   otro
  11   1   padre
@@ -552,19 +552,19 @@
  11   6   paquete
   8   1   par
  10   1   para
-  5   0   parece
-  5   0   parecemos
-  5   0   parecen
+  6   0   parece
+  6   0   parecemos
+  6   0   parecen
   5   5   parecer
-  5   1   pareces
-  5   1   parecéis
-  5   0   parezco
+  6   1   pareces
+  6   1   parecéis
+  6   0   parezco
   9   3   parque industrial
   8   2   pasar
   7   5   país
-  5   1   pedimos
+  6   1   pedimos
   5   0   pedir
-  5   0   pedís
+  6   0   pedís
   2   1   pelo corto
   2   0   pelo largo
   2   2   pelo liso
@@ -577,22 +577,22 @@
  11   3   periodista
   9  10   periódico
  18   3   pero
-  5   1   pide
-  5   2   piden
-  5   3   pides
-  5   2   pido
+  6   1   pide
+  6   2   piden
+  6   3   pides
+  6   2   pido
   5   2   planchar
  18   9   planta
- 10   4   podemos
+ 11   4   podemos
  10   0   poder
- 10   3   podéis
-  9   0   pone
-  9   0   ponemos
-  9   0   ponen
+ 11   3   podéis
+ 10   0   pone
+ 10   0   ponemos
+ 10   1   ponen
  11   2   poner
-  9   1   pones
-  9   1   pongo
-  9   1   ponéis
+ 10   1   pones
+ 10   2   pongo
+ 10   1   ponéis
   5   1   por favor
  14   0   por la mañana
  10   3   por la noche
@@ -601,13 +601,13 @@
  10   5   por supuesto
   8   1   porque
   8   2   precio
-  7   0   preferimos
+  8   0   preferimos
   8   1   preferir
-  7   0   preferís
-  7   0   prefiere
-  7   1   prefieren
-  7   1   prefieres
-  7   0   prefiero
+  8   1   preferís
+  8   0   prefiere
+  8   1   prefieren
+  8   1   prefieres
+  8   0   prefiero
   5   3   preparar
   5   4   prestar
  11   2   prima
@@ -618,20 +618,20 @@
   9   1   programa
   9   1   próximo
  11   5   pueblo
- 10   1   puede
- 10   2   pueden
- 10   1   puedes
- 10   1   puedo
+ 11   2   puede
+ 11   2   pueden
+ 11   1   puedes
+ 11   1   puedo
  10   2   puntual
   8   8   quedar
   5   4   quejarse
-  8   1   queremos
+  9   1   queremos
   9   0   querer
-  8   0   queréis
-  8   0   quiere
-  8   0   quieren
-  8   0   quieres
-  8   0   quiero
+  9   0   queréis
+  9   0   quiere
+  9   0   quieren
+  9   0   quieres
+  9   0   quiero
  10   3   quince
  31   0   quién
  27   1   qué
@@ -647,16 +647,16 @@
   2   2   rosado
  18   1   rubio
   5   1   rápido
-  9   1   sabe
-  9   0   sabemos
-  9   1   saben
+ 10   1   sabe
+ 10   0   sabemos
+ 10   1   saben
  11   3   saber
-  9   1   sabes
-  9   0   sabéis
+ 10   1   sabes
+ 10   0   sabéis
  12   1   sala
   2   0   salir
-  5   3   se acuesta
-  5   1   se acuestan
+  6   3   se acuesta
+  6   1   se acuestan
  27   0   secretaria
  27   2   secretario
  11   1   secundario
@@ -676,17 +676,17 @@
  11   1   sino-español
   9   3   sobre
  12   1   sofá
- 14   3   sois
+ 15   3   sois
   7   1   sol
- 30   1   somos
- 29   1   son
+ 31   1   somos
+ 30   1   son
  11   8   sorpresa
- 30   0   soy
+ 31   0   soy
   4   0   su
   7   3   suave
  10   2   supermercado
  10   6   sábado
-  9   0   sé
+ 10   0   sé
  29   1   sí
  18   6   sólo
  27   3   también
@@ -696,20 +696,20 @@
  16   1   tarde
   8   5   tarjeta de crédito
   6   0   te
-  5   2   te acuestas
+  6   2   te acuestas
  12   3   televisor
-  6   3   tenemos
+  7   3   tenemos
  10   6   tener
   8   2   tener que
-  6   0   tengo
+  7   0   tengo
   2   0   tenis
-  6   2   tenéis
+  7   2   tenéis
  11   1   terminar
  10   5   tiempo
  10   4   tienda
- 15   5   tiene
-  6   2   tienen
-  6   2   tienes
+ 16   5   tiene
+  7   2   tienen
+  7   2   tienes
  10   9   todavía
  21   1   todo
  12   0   todos los días
@@ -735,14 +735,14 @@
  12   0   uno
  27   2   usted
   3   3   ustedes
- 10   0   va
+ 11   0   va
   6   1   vacaciones de verano
  11   4   vacación
- 10   2   vais
- 10   1   vamos
- 10   0   van
- 10   0   vas
-  9   0   ve
+ 11   3   vais
+ 11   1   vamos
+ 11   0   van
+ 11   0   vas
+ 10   0   ve
  10   2   veinte
  10   0   veinticinco
  10   2   veinticuatro
@@ -755,34 +755,34 @@
   6   1   veintiuna mesas
  10   2   veintiuno
   6   3   veintiún sofás
-  9   3   veis
-  9   1   vemos
-  9   0   ven
+ 10   4   veis
+ 10   1   vemos
+ 10   0   ven
  12   2   venezolana
  12   2   venezolano
- 10   1   vengo
- 11   3   venimos
+ 11   1   vengo
+ 12   3   venimos
  11   1   venir
- 10   2   venís
-  9   3   veo
+ 11   2   venís
+ 10   3   veo
   9   0   ver
   7   1   verano
   7   2   verdad
   2   1   verde
   8   3   verdura
-  9   0   ves
+ 10   0   ves
  11   1   vez
  11   3   viajar
  11   3   viaje
   2   3   viejo
- 10   2   viene
- 10   1   vienen
- 10   3   vienes
+ 11   2   viene
+ 11   1   vienen
+ 11   3   vienes
   7   8   viento
  10   5   viernes
   3   0   vosotras
   3   3   vosotros
- 10   1   voy
+ 11   1   voy
   4   1   vuestra
   4   0   vuestro
  29   0   y
