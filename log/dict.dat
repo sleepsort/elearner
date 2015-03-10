@@ -88,7 +88,7 @@
  10   0   adónde
   5   3   aeropuerto
   5   4   afeitarse
-  1   1   agenda
+  2   1   agenda
  19   3   agosto
  18   3   agradable
  19   3   ahora
@@ -103,8 +103,8 @@
  18   1   alto
   9   3   ama de casa
  11   2   amable
-  1   3   amarillo
-  7   4   ambiente
+  2   4   amarillo
+  8   4   ambiente
  29   0   amiga
  29   3   amigo
   9   0   antes
@@ -129,7 +129,7 @@
   5   0   atiendo
  11   3   aula
   5   3   avión
-  7   3   ayudar
+  8   3   ayudar
   7   3   año
   2   2   bailar
  10   1   banco
@@ -141,23 +141,23 @@
   5   1   bicicleta
  18   1   bien
   8   3   bienvenido
-  1   0   blanco
+  2   0   blanco
  18   2   bonito
  10   1   bueno
   8   5   buscar
  10   0   café
-  7   1   caja
-  7   2   cajera
-  7   0   cajero
-  1   3   calcetín
+  8   1   caja
+  8   2   cajera
+  8   0   cajero
+  2   3   calcetín
   7   1   calor
  18   1   cama
  27   1   camarera
  27   1   camarero
-  7   7   cambio
+  8   7   cambio
   5   0   camisa
   2   1   cantar
-  7   4   caro
+  8   6   caro
  18   2   casa
   9   2   casada
   9   0   casado
@@ -179,12 +179,12 @@
  10   4   cine
  18   3   ciudad
  10   1   clase
-  7   2   clienta
-  7   5   cliente
+  8   2   clienta
+  8   5   cliente
   7   1   clima
  12   9   cocina
   9   4   cocinar
-  7   0   color
+  8   0   color
  11   4   comida
  10   0   compañera
  10   1   compañero
@@ -204,7 +204,7 @@
   9   1   continuo
  10   0   conversación
  10   4   correos
-  1   0   corto
+  2   0   corto
   8   0   cosa
   3   4   cualquiera
   9   4   cuando
@@ -226,8 +226,8 @@
   5   0   decir
   5   0   decís
   5   7   dejar
-  7   3   dependienta
-  7   5   dependiente
+  8   3   dependienta
+  8   5   dependiente
  10   3   deprisa
   9   3   desde
  18   4   desordenada
@@ -242,7 +242,7 @@
   5   0   devuelven
   5   1   devuelves
   5   0   devuelvo
-  1   1   diccionario
+  2   1   diccionario
   5   0   dice
   5   2   dicen
   5   1   dices
@@ -308,8 +308,8 @@
   9   2   escribir
   5   0   escribo
   5   0   escribís
-  7   5   escrita
-  7   3   escrito
+  8   5   escrita
+  8   3   escrito
  27   5   escuela
  18   7   ese
   5   0   eso
@@ -338,7 +338,7 @@
  12   2   estáis
  12   3   están
  12   4   estás
-  7   0   euro
+  8   0   euro
   9   2   excepto
  11   0   familia
  10   6   febrero
@@ -351,7 +351,7 @@
  11   1   foto
  19   3   francesa
  19   1   francés
-  7   2   fresco
+  8   2   fresco
   7   2   frío
  18   1   funcionaria
  18   2   funcionario
@@ -361,10 +361,10 @@
  18   3   gerente
  18   3   gracias
  18   5   grande
-  1   0   gris
+  2   0   gris
   4   2   guapa e inteligente
  18   2   guapo
-  7   5   gustar
+  8   5   gustar
  12   3   haber
  19   5   habitación
  11   6   hablar
@@ -374,7 +374,7 @@
   7   1   hacemos
   7   0   hacen
   7   0   hacer
-  7   5   hacer compras
+  8   5   hacer compras
   7   0   haces
   7   0   hacéis
  10   2   hago
@@ -419,22 +419,22 @@
  10   0   junio
  21   2   jóvenes
  30   0   la
-  7   2   la Ciudad de México
+  8   2   la Ciudad de México
   8   1   lado
-  1   0   largo
+  2   0   largo
   3   0   las
   5   3   lavarse
-  1   0   le
+  2   0   le
  10   2   leche
   5   0   lee
   5   0   leemos
   5   0   leen
   9   1   leer
   5   0   lees
-  7   0   lejos
-  7   1   lejos de
+  8   1   lejos
+  8   1   lejos de
   5   0   leo
-  1   0   les
+  2   0   les
   5   2   levantado
   5   0   levantarse
   5   2   leéis
@@ -442,13 +442,13 @@
   5   1   leído
   9   3   libre
  12   1   libro
-  7   2   limpiar
+  8   2   limpiar
   9   3   limpieza
  12   1   limpio
   8   2   llave
-  7   4   llegar a
+  8   4   llegar a
   5   7   llevar
-  1   1   llorar
+  2   1   llorar
   7   2   llover
   7   0   llueve
   3   2   lo
@@ -460,25 +460,25 @@
  18   2   mal
   9   0   mamá
  19   3   marido
-  7   2   marrón
+  8   2   marrón
  10   5   martes
  10   1   marzo
  10   0   mayo
-  1   0   mayor
+  2   0   mayor
  10   1   mañana
- 18   2   me
+ 19   2   me
   5   1   me acuesto
  10   0   media
- 19   4   mejor
-  1   1   menor
-  1   0   menos...que...
- 17   0   mercado
+ 20   4   mejor
+  2   1   menor
+  2   0   menos...que...
+ 18   0   mercado
  12   2   mesa
  22   0   mi
   5   0   minuto
   8   1   mirar
  10   4   miércoles
-  7   2   moda
+  8   2   moda
   8   0   modificar
   8   0   momento
  11   1   moreno
@@ -486,7 +486,7 @@
  11   1   mujer
  18   1   muy
   7   2   más
-  1   0   más...que...
+  2   0   más...que...
  27   8   médica
  29   5   médico
   8   0   mía
@@ -494,7 +494,7 @@
   5   0   nacional
   8   1   nada
  11   0   necesitar
-  7   0   negro
+  8   0   negro
   7   6   nevar
   7   6   nieva
  11   3   nivel
@@ -502,7 +502,7 @@
   5   0   no...hasta...
   5   0   no...sino...
   9   1   normal
-  4   0   nos
+  5   0   nos
   5   0   nos acostamos
   3   1   nosotras
   3   0   nosotros
@@ -516,7 +516,7 @@
  12   3   nuestro
  12   1   nueve
  12   2   nuevo
-  7   3   numeración
+  8   3   numeración
  10   1   ochenta
  12   0   ocho
  10   2   octubre
@@ -525,16 +525,16 @@
  12   1   ordenado
   2   0   ordenador
  10   0   ordenar
-  4   2   os
+  5   3   os
   5   0   os acostáis
   7   1   otoño
  10   0   otro
  11   1   padre
-  7   1   pagar
-  1   3   pantalón
+  8   1   pagar
+  2   3   pantalón
   9   0   papá
   9   6   paquete
-  7   1   par
+  8   1   par
  10   1   para
   5   0   parece
   5   0   parecemos
@@ -544,13 +544,13 @@
   5   1   parecéis
   5   0   parezco
   8   3   parque industrial
-  7   2   pasar
+  8   2   pasar
   7   5   país
   5   1   pedimos
   5   0   pedir
   5   0   pedís
   9   7   película
-  1   0   peor
+  2   0   peor
  12   2   pequeño
   9   2   perdón
   8   0   perfecto
@@ -579,10 +579,10 @@
  14   2   por la tarde
  10   2   por qué
  10   5   por supuesto
-  7   1   porque
-  7   2   precio
+  8   1   porque
+  8   2   precio
   7   0   preferimos
-  7   1   preferir
+  8   1   preferir
   7   0   preferís
   7   0   prefiere
   7   1   prefieren
@@ -593,7 +593,7 @@
  11   2   prima
   7   2   primavera
  11   1   primo
-  7   9   probarse
+  8  10   probarse
  28   1   profesor
   8   1   programa
   8   1   próximo
@@ -603,7 +603,7 @@
  10   1   puedes
  10   1   puedo
  10   2   puntual
-  7   7   quedar
+  8   8   quedar
   5   4   quejarse
   8   1   queremos
   8   0   querer
@@ -623,8 +623,8 @@
  18   5   resfriada
  18   1   resfriado
  12   3   revista
-  1   1   rojo
-  1   1   rosado
+  2   1   rojo
+  2   2   rosado
  18   1   rubio
   5   1   rápido
   9   1   sabe
@@ -670,16 +670,16 @@
  18   6   sólo
  27   3   también
  10   2   tampoco
-  1   1   tan...como...
+  2   1   tan...como...
   7   4   tanto
  15   1   tarde
-  7   5   tarjeta de crédito
-  4   0   te
+  8   5   tarjeta de crédito
+  5   0   te
   5   2   te acuestas
  12   3   televisor
   6   3   tenemos
  10   6   tener
-  7   2   tener que
+  8   2   tener que
   6   0   tengo
   2   0   tenis
   6   2   tenéis
@@ -746,8 +746,8 @@
   9   0   ver
   7   1   verano
   7   2   verdad
-  1   1   verde
-  7   3   verdura
+  2   1   verde
+  8   3   verdura
   9   0   ves
   9   1   vez
   9   3   viajar
@@ -765,8 +765,8 @@
  29   0   y
  12   2   ya
  18   2   yo
-  7   6   zapatería
-  7   2   zapato
+  8   6   zapatería
+  8   2   zapato
   4   1   ¡Buena idea!
   3   2   ¡Dios mío!
   6   0   ¡Feliz cumpleaños!
@@ -806,4 +806,4 @@
  12   4   ése
  27   2   ésta
  18   2   éste
-  7   1   último
+  8   1   último
