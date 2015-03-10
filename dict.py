@@ -139,7 +139,7 @@ class DictProcessor():
         self.linenum = 1
       fields = Util.split(self.pending[self.linenum])
       if len(fields) < 2:
-        print >> sys.stderr, "Bogus line? %s" % fields
+        #print >> sys.stderr, "Bogus line? %s" % fields
         continue
       return fields
 
