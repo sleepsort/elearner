@@ -55,7 +55,7 @@
   7   0   Norte
   7   1   Oeste
  30   0   Paco
-  2   3   Pareces estar enferma.
+  2   3   Pareces estar enfermo.
  18   1   París
  29   0   Pepe
  18   0   Roma
@@ -97,10 +97,8 @@
  27   2   alemana
  15   0   alemanes
  27   1   alemán
-  9   5   alguna
   9   2   alguno
   9   6   almacenes
- 18   1   alta
  18   1   alto
   9   3   ama de casa
  11   2   amable
@@ -140,11 +138,8 @@
   5   3   bibliotecario
   5   1   bicicleta
  18   1   bien
-  8   3   bienvenida
   8   3   bienvenido
- 18   4   bonita
  18   2   bonito
- 10   1   buena
  10   1   bueno
   8   5   buscar
  10   0   café
@@ -158,7 +153,6 @@
   6   6   cambio
   5   0   camisa
   2   1   cantar
-  6   1   cara
   6   3   caro
  18   2   casa
   9   2   casada
@@ -202,9 +196,7 @@
   9   2   conoces
   9   1   conocéis
   9   0   conozco
-  5   5   contemporánea
   5   1   contemporáneo
-  9   0   continua
   9   1   continuo
  10   0   conversación
  10   4   correos
@@ -235,7 +227,6 @@
   9   3   desde
  18   4   desordenada
  18   0   desordenado
-  9   2   despistada
   9   2   despistado
  10   6   después
   4   1   después de
@@ -260,7 +251,6 @@
  10   3   domingo
  12   3   dormitorio
  18   0   dos
-  7   2   dura
  11   3   durante
   7   0   duro
  10   1   día
@@ -355,7 +345,6 @@
  11   1   foto
  19   3   francesa
  19   1   francés
-  6   1   fresca
   6   2   fresco
   7   2   frío
  18   1   funcionaria
@@ -366,7 +355,6 @@
  18   3   gerente
  18   3   gracias
  18   5   grande
- 18   1   guapa
   4   2   guapa e inteligente
  18   2   guapo
   6   4   gustar
@@ -444,7 +432,6 @@
   5   1   leído
   9   3   libre
  12   1   libro
- 12   4   limpia
   6   2   limpiar
   9   3   limpieza
  12   1   limpio
@@ -480,9 +467,7 @@
   6   2   moda
   8   0   modificar
   8   0   momento
- 11   1   morena
  11   1   moreno
- 12   5   mucha
  12   1   mucho
  11   1   mujer
  18   1   muy
@@ -494,7 +479,6 @@
   5   0   nacional
   8   1   nada
  11   0   necesitar
-  6   0   negra
   6   0   negro
   7   6   nevar
   7   6   nieva
@@ -515,7 +499,6 @@
  12   2   nudo chino
  12   5   nuestra
  12   3   nuestro
- 12   1   nueva
  12   1   nueve
  12   2   nuevo
   6   3   numeración
@@ -524,14 +507,12 @@
  10   2   octubre
  10   2   oficina
  10   1   once
- 12   0   ordenada
  12   1   ordenado
   2   0   ordenador
  10   0   ordenar
   3   2   os
   5   0   os acostáis
   7   1   otoño
- 10   1   otra
  10   0   otro
  11   1   padre
   6   1   pagar
@@ -553,10 +534,8 @@
   5   0   pedir
   5   0   pedís
   9   7   película
- 12   3   pequeña
  12   2   pequeño
   9   2   perdón
-  8   2   perfecta
   8   0   perfecto
   9   3   periodista
   9  10   periódico
@@ -600,7 +579,6 @@
   6   7   probarse
  28   1   profesor
   8   1   programa
-  8   1   próxima
   8   1   próximo
   9   5   pueblo
  10   1   puede
@@ -628,7 +606,6 @@
  18   5   resfriada
  18   1   resfriado
  12   3   revista
- 18   0   rubia
  18   1   rubio
   5   1   rápido
   9   1   sabe
@@ -654,7 +631,6 @@
  18   5   siempre
  12   3   siete
  12   5   silla
- 11   3   simpática
  11   1   simpático
   9   6   sin embargo
  11   1   sino-español
@@ -693,14 +669,12 @@
  15   5   tiene
   6   2   tienen
   6   2   tienes
- 10   1   toda
  10   9   todavía
  21   1   todo
  12   0   todos los días
  10   4   tomar
  10   0   trabajar
  10   1   trabajo
-  9   1   tranquila
   9   0   tranquilo
  10   1   trece
  10   1   treinta
@@ -811,5 +785,4 @@
  12   4   ése
  27   2   ésta
  18   2   éste
-  6   0   última
   6   1   último
