@@ -60,6 +60,7 @@
   5   3   Pareces estar enfermo.
  19   1   París
  30   0   Pepe
+  3   0   Puerta del Sol
  19   0   Roma
  28   0   Rosa
   7   2   Siempre hay gente buena y gente mala.
@@ -110,7 +111,7 @@
  10   2   alguno
  10   6   almacenes
   3   3   almorzar
-  3   2   almuerzo
+  6   2   almuerzo
   3   0   alquiler
  19   1   alto
  12   3   ama de casa
@@ -119,6 +120,7 @@
   9   4   ambiente
  30   0   amiga
  30   3   amigo
+  3   3   andar
   2   1   anillo
  10   0   antes
  10   2   antes de
@@ -132,7 +134,9 @@
  13   2   aquél
  13   7   armario
   8   3   arreglar
+  3   1   arroz
  12   4   artículo
+  3   2   asado
   9   1   ascensor
  10   1   asistir
  19   5   así
@@ -144,13 +148,16 @@
   6   1   atiendes
   6   0   atiendo
  12   3   aula
+  3   1   autobús
   8   3   avión
   9   3   ayudar
   8   4   año
   5   3   bailar
+  3   3   bajar
   3   3   bajo
  11   1   banco
   9   6   barato
+  3   3   barrio
  20   7   bastante
  11   6   bebida
   8   2   biblioteca
@@ -160,16 +167,19 @@
  19   1   bien
  10   3   bienvenido
   3   0   blanco
+  3   2   blando
   2   0   blusa
  19   2   bonito
   9   2   bonísimo
  11   1   bueno
   9   1   buenísimo
  10   5   buscar
+  3   1   cabina de teléfono
  20   0   café
   9   1   caja
   9   2   cajera
   9   0   cajero
+  3   5   calamar
   3   4   calcetín
   9   0   caliente
   9   0   calle
@@ -179,13 +189,15 @@
  28   1   camarero
   9   7   cambio
   8   0   camisa
+  3   5   cansado
   5   1   cantar
+  3   2   carne
   9   6   caro
  19   2   casa
  12   3   casada
  12   0   casado
  11   4   catorce
-  3   0   cena
+  6   0   cena
  12   3   cenar
   9   1   central
  19   2   centro
@@ -219,6 +231,7 @@
   9   1   colgar
   4   0   colgáis
   9   0   color
+  3   5   comedor
  12   4   comida
  11   0   compañera
  11   1   compañero
@@ -245,14 +258,16 @@
   3   0   corto
  10   0   cosa
   9   2   costar
-  2   0   costumbre
+  5   1   costumbre
+  3   4   creer
   5   4   cualquiera
  12   4   cuando
  11   2   cuarenta
  11   2   cuarenta y uno
- 20   3   cuarto
+ 23   3   cuarto
  13   8   cuarto de baño
  13   4   cuatro
+  3   3   cubierto
   4   0   cuelga
   4   1   cuelgan
   4   0   cuelgas
@@ -261,6 +276,7 @@
   3   1   cuidar a los niños
   2   0   cultura
  11   4   cumpleaños
+  3   2   curso
  10   1   cuál
  10   6   cuándo
  19   2   cómo
@@ -275,12 +291,13 @@
   6   0   decís
   8   7   dejar
   3   4   delgado
+  3   3   demasiado
   9   3   dependienta
   9   5   dependiente
  11   3   deprisa
-  9   4   derecho
+ 12   6   derecho
   3   3   desayunar
-  3   4   desayuno
+  6   4   desayuno
  10   3   desde
  19   4   desordenada
  19   0   desordenado
@@ -308,16 +325,20 @@
   9   3   dificilísimo
   9   4   dificultad
   9   0   difícil
+  3   3   digestión
   6   0   digo
   9   4   dinámico
+  3   1   directamente
  11   2   doce
  11   3   domingo
  13   3   dormitorio
  19   0   dos
   2   1   doscientos
   2   2   dueño
+  3   6   dulce
  12   3   durante
   8   0   duro
+  3   1   décimo
  11   1   día
  19   3   dónde
   3   3   echar la siesta
@@ -356,6 +377,7 @@
  28   3   enfermera
  28   5   enfermero
  19   7   enfermo
+  3   3   ensalada
   4   0   entendemos
   9   1   entender
   4   0   entendéis
@@ -390,10 +412,12 @@
  10   8   esperar
  13   2   esposa
  13   4   esposo
+  3   5   espárrago
  28   4   esta
   8   4   estación
  13   6   estamos
  10   6   estancia
+  3   5   estanco
  13   5   estantería
  19   6   estar
  19   2   estas
@@ -410,7 +434,10 @@
  13   4   estás
   9   0   euro
  10   2   excepto
+  3   4   extranjero
+  3   3   facultad
  12   0   familia
+  3   3   farmacia
  11   7   febrero
  12   1   felicidad
   2   0   felicísimo
@@ -418,8 +445,10 @@
   3   0   feo
  11   1   fiesta
   9   0   fijo
+  3   3   filete
  11   3   fin de semana
   3   3   flaco
+  3   1   flan
  13   0   flor
  12   3   florero
  12   1   foto
@@ -461,6 +490,7 @@
  10   0   hall
  10   1   hambre
  10   2   hasta
+  3   3   helado
  19   2   hermana
  19   3   hermano
  13   0   hija
@@ -491,6 +521,7 @@
   6   2   ir de vacaciones
  19   1   italiana
  19   2   italiano
+  3   5   izquierdo
  13   3   jardín
  31   1   joven
  10   0   juega
@@ -513,6 +544,7 @@
   3   0   largo
   5   0   las
   3   5   las afueras de la ciudad
+  3   2   lavabo
   3   2   lavar la ropa
   8   3   lavarse
   3   0   le
@@ -534,11 +566,13 @@
   8   2   leída
   8   1   leído
  12   3   libre
+  3   1   librería
  13   1   libro
   9   2   limpiar
  12   3   limpieza
  13   1   limpio
   9   0   limpísimo
+  3   1   limón
   2   1   llamar a la puerta
  10   2   llave
   9   5   llegar a
@@ -561,11 +595,15 @@
   9   4   magnífico
  19   2   mal
  12   0   mamá
+  3   5   manejar
  20   4   marido
   9   2   marrón
  11   5   martes
  11   1   marzo
+  3   2   matricularse
+  3   2   matrícula
  11   0   mayo
+  3   5   mayonesa
   3   0   mayor
  11   1   mañana
  22   2   me
@@ -575,7 +613,9 @@
   3   2   menor
   3   0   menos...que...
  20   0   mercado
+  3   5   merluza
  13   2   mesa
+  3   1   metro
  23   0   mi
   8   0   minuto
  10   1   mirar
@@ -613,6 +653,7 @@
   4   1   nosotras
   4   0   nosotros
   8   0   novela
+  3   3   noveno
  11   3   noventa
  20   3   novia
  11   2   noviembre
@@ -627,6 +668,7 @@
   3   3   nunca
  11   1   ochenta
  13   0   ocho
+  3   4   octavo
  11   2   octubre
   9   2   ocupado
  11   2   oficina
@@ -642,11 +684,13 @@
  11   0   otro
  12   1   padre
   9   1   pagar
+  3   1   palillo
   3   5   pantalón
  12   0   papá
  12   6   paquete
   9   1   par
  11   1   para
+  3   4   parada
   6   0   parece
   6   0   parecemos
   6   0   parecen
@@ -656,6 +700,7 @@
   6   0   parezco
  10   3   parque industrial
   9   2   pasar
+  3   1   patata
   2   1   patio
   9   6   paupérrimo
   8   5   país
@@ -667,7 +712,9 @@
   3   2   pelo liso
   3   3   pelo rizado
  10   7   película
-  2   0   pensar
+  3   0   pensamos
+  5   1   pensar
+  3   2   pensáis
   3   0   peor
  13   2   pequeño
  10   2   perdón
@@ -675,19 +722,27 @@
  12   3   periodista
  10  10   periódico
  19   3   pero
+  3   6   pescado
+  3   7   picante
   6   1   pide
   6   2   piden
   6   3   pides
   6   2   pido
   2   0   pie
+  3   0   piensa
+  3   0   piensan
+  3   0   piensas
+  3   0   pienso
   9   4   piscina
   9   1   piso
   8   2   planchar
  19   9   planta
+  3   2   plato
   9   3   pobre
  11   4   podemos
  11   0   poder
  11   3   podéis
+  3   1   pollo
  10   0   pone
  10   0   ponemos
  10   1   ponen
@@ -695,6 +750,7 @@
  10   1   pones
  10   2   pongo
  10   1   ponéis
+  3   3   por ejemplo
   8   1   por favor
  16   0   por la mañana
  11   3   por la noche
@@ -702,6 +758,7 @@
  11   2   por qué
  11   6   por supuesto
   9   1   porque
+  3   5   postre
   9   2   precio
   8   0   preferimos
   9   2   preferir
@@ -715,12 +772,20 @@
   8   4   prestar
  12   2   prima
   8   2   primavera
-  2   0   primero
+  5   0   primero
  12   1   primo
+  3   0   probamos
+  3   2   probar
   9  10   probarse
   2   0   problema
+  3   0   probáis
  29   1   profesor
  10   1   programa
+  3   5   pronto
+  3   0   prueba
+  3   0   prueban
+  3   0   pruebas
+  3   0   pruebo
  10   1   próximo
  12   5   pueblo
  11   2   puede
@@ -741,6 +806,8 @@
   9   0   quiero
  11   3   quince
   2   2   quinientos
+  3   0   quinto
+  3   4   quiosco
  32   0   quién
  28   1   qué
  10   5   recepcionista
@@ -771,6 +838,7 @@
  28   0   secretaria
  28   2   secretario
  12   1   secundario
+  3   1   segundo
   9   6   seguramente
  13   3   seis
   2   2   sencillo
@@ -778,6 +846,7 @@
   3   0   serio
  11   2   sesenta
  11   1   setenta
+  3   1   sexto
  28   0   señor
  28   6   señora
  28   1   señorita
@@ -793,6 +862,7 @@
   8   1   sol
  31   1   somos
  30   1   son
+  3   1   sopa
  12   8   sorpresa
  31   0   soy
   5   0   su
@@ -801,6 +871,7 @@
  11   2   supermercado
  11   6   sábado
  10   0   sé
+  3   1   séptimo
  30   1   sí
  19   7   sólo
  28   3   también
@@ -821,8 +892,9 @@
   7   0   tengo
   5   0   tenis
   7   2   tenéis
-  9   6   tercero
+ 12   8   tercero
  12   1   terminar
+  3   3   ternera
  11   5   tiempo
  11   4   tienda
  17   5   tiene
@@ -851,7 +923,9 @@
  12   2   tío
  30   3   tú
  13   3   un poco
+  3   0   universidad
  13   0   uno
+  3   0   usar
  28   2   usted
   4   3   ustedes
  11   0   va
@@ -900,6 +974,7 @@
  11   3   vienes
   8   9   viento
  11   5   viernes
+  3   0   vino
   9   0   vista
   4   0   volvemos
   9   1   volver a
@@ -916,6 +991,7 @@
  30   0   y
  13   2   ya
  19   2   yo
+  3   0   yogur
   9   7   zapatería
   9   2   zapato
   3   0   ¡Bravo!
