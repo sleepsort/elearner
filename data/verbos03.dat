@@ -1,6 +1,12 @@
 #DICT: <español> <chinese>
-sé                 saber(第二人称单数命令式)
+sé                 ser(第二人称单数命令式)
+sea                ser(第三人称单数命令式)
+sean               ser(第三人称复数命令式)
+
+
 ve                 ir(第二人称单数命令式)
+vaya               ir(第三人称单数命令式)
+vayan              ir(第三人称复数命令式)
 
 toma               tomar(第二人称单数命令式)
 tome               tomar(第三人称单数命令式)
@@ -49,3 +55,19 @@ paquen             pagar(第三人称复数命令式)
 saga               sacar(第二人称单数命令式)
 saque              sacar(第三人称单数命令式)
 saquen             sacar(第三人称复数命令式)
+
+empieza            empezar(第二人称单数命令式)
+empiece            empezar(第三人称单数命令式)
+empiecen           empezar(第三人称复数命令式)
+
+recoge             recoger(第二人称单数命令式)
+recoja             recoger(第三人称单数命令式)
+recojan            recoger(第三人称复数命令式)
+
+da                 dar(第二人称单数命令式)
+dé                 dar(第三人称单数命令式)
+den                dar(第三人称复数命令式)
+
+sirve              servir(第二人称单数命令式)
+sirva              servir(第三人称单数命令式)
+sirvan             servir(第三人称复数命令式)
