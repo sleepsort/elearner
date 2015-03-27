@@ -250,9 +250,9 @@
   4   0   colgáis
   4   2   collar
   9   0   color
-  2   0   coma
-  2   1   coman
-  2   0   come
+  3   0   coma
+  3   1   coman
+  3   0   come
   6   6   comedor
   4   2   comercial
  12   4   comida
@@ -310,6 +310,7 @@
  10   6   cuándo
  19   2   cómo
   3   1   cómodo
+  1   0   da
  11   3   dar
  28   2   de
  10   7   de acuerdo
@@ -321,6 +322,7 @@
   9   7   dejar
   3   4   delgado
   6   3   demasiado
+  1   0   den
   4   3   dentro de
   9   3   dependienta
   9   5   dependiente
@@ -341,7 +343,7 @@
   6   0   devuelven
   6   1   devuelves
   6   0   devuelvo
-  2   0   di
+  3   0   di
   3   2   diccionario
   6   0   dice
   6   2   dicen
@@ -357,8 +359,8 @@
  10   3   dificilísimo
  10   4   dificultad
  10   0   difícil
-  2   0   diga
-  2   0   digan
+  3   0   diga
+  3   0   digan
   6   4   digestión
   6   0   digo
   4   4   dinero
@@ -373,6 +375,7 @@
   6   6   dulce
  12   3   durante
  10   0   duro
+  1   0   dé
   6   1   décimo
  11   1   día
  19   3   dónde
@@ -390,7 +393,9 @@
  12   0   empezamos
  12   1   empezar
  12   1   empezáis
- 12   0   empieza
+  1   0   empiece
+  1   0   empiecen
+ 13   0   empieza
  12   0   empiezan
  12   3   empiezas
  12   1   empiezo
@@ -405,11 +410,11 @@
   9   2   encontramos
  10   2   encontrar
   9   1   encontráis
- 11   2   encuentra
+ 12   2   encuentra
   9   3   encuentran
   9   2   encuentras
-  2   1   encuentre
-  2   0   encuentren
+  3   2   encuentre
+  3   0   encuentren
   9   0   encuentro
  11   4   enero
  19   5   enferma
@@ -433,9 +438,9 @@
  30   0   es
  19   0   esa
  19   3   esas
-  2   0   escriba
-  2   0   escriban
-  8   0   escribe
+  3   0   escriba
+  3   0   escriban
+  9   0   escribe
   6   0   escriben
   6   1   escribes
   6   0   escribimos
@@ -532,13 +537,13 @@
   8   0   haces
   2   1   hacia
   8   0   hacéis
-  2   0   haga
-  2   1   hagan
+  3   0   haga
+  3   1   hagan
  14   2   hago
  10   0   hall
  10   1   hambre
  10   2   hasta
-  2   0   haz
+  3   0   haz
   6   3   helado
  19   2   hermana
  19   3   hermano
@@ -751,14 +756,14 @@
   8   1   otoño
  11   0   otro
  12   1   padre
-  2   0   paga
+  3   0   paga
   9   1   pagar
   6   1   palillo
   3   5   pantalón
   2   0   papel
  12   0   papá
-  2   0   paque
-  2   0   paquen
+  3   1   paque
+  3   0   paquen
  12   6   paquete
   9   1   par
  11   1   para
@@ -821,14 +826,14 @@
  11   0   poder
  11   3   podéis
   6   1   pollo
-  2   0   pon
+  3   0   pon
  10   0   pone
  10   0   ponemos
  10   1   ponen
  12   2   poner
  10   1   pones
-  2   1   ponga
-  2   0   pongan
+  3   1   ponga
+  3   0   pongan
  10   2   pongo
  10   1   ponéis
   6   3   por ejemplo
@@ -893,7 +898,10 @@
  32   0   quién
  28   1   qué
  10   5   recepcionista
+  1   0   recoge
   4   2   recoger
+  1   2   recoja
+  1   0   recojan
  12   4   recreo
  12   2   regalo
   4   1   relación
@@ -918,24 +926,26 @@
  12   3   saber
  10   1   sabes
  10   0   sabéis
+  3   1   saca
   4   2   sacar
-  2   1   saga
-  2   0   sal
+  3   0   sal
  13   1   sala
   4   1   sale
   4   0   salen
   4   0   sales
-  2   0   salga
-  2   0   salgan
+  3   0   salga
+  3   0   salgan
   4   0   salgo
   3   0   salida
   4   0   salimos
   6   0   salir
   4   0   salís
-  2   0   saque
-  2   0   saquen
+  3   0   saque
+  3   0   saquen
   6   3   se acuesta
   6   1   se acuestan
+  1   0   sea
+  1   0   sean
  28   0   secretaria
  28   2   secretario
  12   1   secundario
@@ -957,6 +967,9 @@
  12   1   simpático
  10   6   sin embargo
  12   1   sino-español
+  1   0   sirva
+  1   0   sirvan
+  1   0   sirve
  10   3   sobre
  13   1   sofá
  15   3   sois
@@ -975,7 +988,7 @@
   4   1   suficiente
  11   2   supermercado
  11   6   sábado
- 12   0   sé
+ 13   0   sé
   6   1   séptimo
  30   1   sí
  19   7   sólo
@@ -994,12 +1007,12 @@
  13   3   televisor
  10   1   teléfono
   3   0   temprano
-  2   0   ten
+  3   0   ten
   7   3   tenemos
  11   6   tener
   9   2   tener que
-  2   0   tenga
-  2   0   tengan
+  3   0   tenga
+  3   0   tengan
   7   0   tengo
   6   0   tenis
   7   2   tenéis
@@ -1014,11 +1027,11 @@
  11   9   todavía
  23   1   todo
  14   1   todos los días
-  2   0   toma
+  3   0   toma
  13   4   tomar
   4   0   tomar un té
-  2   0   tome
-  2   0   tomen
+  3   0   tome
+  3   0   tomen
   3   1   tonto
  11   0   trabajar
  21   1   trabajo
@@ -1051,7 +1064,9 @@
  11   1   vamos
  11   0   van
  11   0   vas
- 12   1   ve
+  1   0   vaya
+  1   0   vayan
+ 13   1   ve
  11   2   veinte
  11   0   veinticinco
  11   2   veinticuatro
@@ -1066,11 +1081,11 @@
   7   3   veintiún sofás
  10   4   veis
  10   1   vemos
- 12   0   ven
+ 13   0   ven
  13   2   venezolana
  13   2   venezolano
-  2   0   venga
-  2   0   vengan
+  3   0   venga
+  3   0   vengan
  11   1   vengo
  12   3   venimos
  12   1   venir
