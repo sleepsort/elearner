@@ -1,6 +1,6 @@
 #LOG <pass> <fail> <key>
  12   4   Adiós.
-  6   1   Allí hay de todo.
+  7   1   Allí hay de todo.
  30   0   Ana
  19   4   Argentina
   4   0   Así quedamos.
@@ -8,17 +8,17 @@
  19   2   Bolivia
  20   0   Buenos Aires
  31   2   Buenos días.
-  6   3   Cada vez te pareces más a tu mamá.
+  7   3   Cada vez te pareces más a tu mamá.
  19   3   Caracas
  19   1   Cecilia
  19   1   China
  28   0   Daniel
  28   1   David
-  6   2   El enfermo no puede levantarse.
+  7   2   El enfermo no puede levantarse.
  30   0   Elena
  30   1   Ema
  30   0   Encantada.
-  6   3   Encantado de conocerlo.
+  7   3   Encantado de conocerlo.
  30   2   Encantado.
  11   2   Es la una y media.
   4   1   Es muy difícil encontrarte.
@@ -34,7 +34,7 @@
  19   0   Juan
  19   0   Julio
  20   1   La Paz
-  6   3   La enfermera levanta al enfermo.
+  7   3   La enfermera levanta al enfermo.
   4   2   Le paga menos que a otros empleados.
  19   0   Linda
  30   1   Lola
@@ -59,7 +59,7 @@
   8   1   Oeste
  11   1   Oiga.
  31   0   Paco
-  6   4   Pareces estar enfermo.
+  7   4   Pareces estar enfermo.
  19   1   París
  30   0   Pepe
   7   0   Puerta del Sol
@@ -79,7 +79,7 @@
  19   2   Venezuela
  11   0   a
   5   2   a las cuatro de la tarde
-  4   3   a menudo
+  5   3   a menudo
  12   8   a propósito
   8   4   a veces
  10   6   abierta
@@ -91,14 +91,14 @@
  12   3   abuela
  12   0   abuelo
   4   1   aceptable
-  9   0   acostarse
+ 10   0   acostarse
   8   2   además
   5   3   además de
   6   3   admisión
   6   2   aduana
  11   0   adónde
-  9   3   aeropuerto
-  9   4   afeitarse
+ 10   3   aeropuerto
+ 10   4   afeitarse
   3   1   agenda
  23   3   agosto
  19   3   agradable
@@ -116,8 +116,8 @@
   6   7   alguiler
  10   2   alguno
  10   6   almacenes
-  4   4   almorzar
- 10   2   almuerzo
+  5   6   almorzar
+ 11   2   almuerzo
   5   1   alquiler
  19   1   alto
  12   3   ama de casa
@@ -139,7 +139,7 @@
  28   2   aquellos
  13   2   aquél
  13   7   armario
-  9   3   arreglar
+ 10   3   arreglar
   7   1   arroz
  12   4   artículo
   7   2   asado
@@ -147,7 +147,7 @@
  10   1   asistir
  19   5   así
   6   1   atendemos
-  9   0   atender
+ 10   0   atender
   6   0   atendéis
   6   1   atiende
   6   0   atienden
@@ -155,12 +155,12 @@
   6   0   atiendo
  12   3   aula
   7   1   autobús
-  9   3   avión
+ 10   3   avión
   3   0   ayer
   9   3   ayudar
   6   2   azafata
   8   4   año
-  6   5   bailar
+  7   6   bailar
   7   5   bajar
   3   3   bajo
  11   1   banco
@@ -170,10 +170,10 @@
   6   0   beber
  11   6   bebida
   6   1   beca
-  9   2   biblioteca
-  9   3   bibliotecaria
-  9   3   bibliotecario
-  9   1   bicicleta
+ 10   3   biblioteca
+ 10   3   bibliotecaria
+ 10   3   bibliotecario
+ 10   1   bicicleta
  19   1   bien
  10   3   bienvenido
   6   5   billete
@@ -204,9 +204,9 @@
  28   1   camarera
  28   1   camarero
   9   7   cambio
-  9   0   camisa
+ 10   1   camisa
   7   5   cansado
-  6   1   cantar
+  7   2   cantar
   7   2   carne
   9   6   caro
   9   2   carta
@@ -214,8 +214,8 @@
  12   3   casada
  12   0   casado
  11   4   catorce
- 10   0   cena
- 13   3   cenar
+ 11   0   cena
+ 14   3   cenar
  11   1   central
  19   2   centro
  11   4   cerca
@@ -277,7 +277,7 @@
  10   0   conozco
  11   5   conserje
   6   4   consulado
-  9   2   contemporáneo
+ 10   3   contemporáneo
   2   0   contento
   4   2   contestar
  10   1   continuo
@@ -305,7 +305,7 @@
   4   0   cuelgo
   6   4   cuello
  12   6   cuidar
-  4   1   cuidar a los niños
+  5   1   cuidar a los niños
   4   0   cultura
  11   4   cumpleaños
   7   2   curso
@@ -320,9 +320,9 @@
  12   3   de nada
  12   9   deberes
   6   0   decimos
-  9   0   decir
+ 10   0   decir
   6   0   decís
-  9   7   dejar
+ 10   8   dejar
   3   4   delgado
   7   3   demasiado
   1   0   den
@@ -331,8 +331,8 @@
   9   5   dependiente
  11   3   deprisa
  17   7   derecho
-  4   3   desayunar
- 10   4   desayuno
+  5   3   desayunar
+ 11   4   desayuno
  10   3   desde
  19   4   desordenada
  19   0   desordenado
@@ -340,7 +340,7 @@
  11   6   después
   5   1   después de
   6   0   devolvemos
-  9   4   devolver
+ 10   4   devolver
   6   0   devolvéis
   6   1   devuelve
   6   0   devuelven
@@ -382,9 +382,9 @@
   7   1   décimo
  11   1   día
  19   3   dónde
-  4   3   echar la siesta
+  5   3   echar la siesta
   4   3   edificio
-  9   6   efectivamente
+ 10   6   efectivamente
   4   3   ejercicio
  20   0   el
   7   0   el aula
@@ -455,11 +455,11 @@
   9   3   escrito
  28   5   escuela
  19   7   ese
-  9   0   eso
+ 10   0   eso
  20   5   esos
  29   0   español
  28   1   española
-  6   5   espejo
+  7   5   espejo
  10   8   esperar
  13   2   esposa
  13   4   esposo
@@ -537,7 +537,7 @@
   8   0   hacen
   8   0   hacer
   9   5   hacer compras
-  4   7   hacer excurisión
+  5   8   hacer excurisión
   8   0   haces
   3   1   hacia
   8   0   hacéis
@@ -562,7 +562,7 @@
  28   3   idioma
   6   1   importante
  11   8   impresionante
-  9   1   incluso
+ 10   1   incluso
   3   2   ingeniera
   3   2   ingeniero
  19   1   inglesa
@@ -575,7 +575,7 @@
   8   2   invierno
  11   2   invitar
  11   0   ir
-  4   1   ir a conciertos
+  5   1   ir a conciertos
   7   2   ir conmigo
   7   0   ir contigo
   6   2   ir de vacaciones
@@ -598,16 +598,16 @@
  22   2   jóvenes
  33   0   la
   9   2   la Ciudad de México
-  6   1   la música clásica
-  6   2   la música pop
+  7   1   la música clásica
+  7   3   la música pop
   6   2   labio
  10   1   lado
   3   0   largo
   5   0   las
-  4   6   las afueras de la ciudad
+  5   8   las afueras de la ciudad
   7   2   lavabo
-  4   3   lavar la ropa
-  9   4   lavarse
+  5   3   lavar la ropa
+ 10   5   lavarse
   3   0   le
  11   2   leche
   6   0   lee
@@ -622,11 +622,11 @@
  11   4   lento
   6   0   leo
   3   0   les
-  9   2   levantado
-  9   0   levantarse
+ 10   2   levantado
+ 10   0   levantarse
   6   2   leéis
-  9   2   leída
-  9   1   leído
+ 10   3   leída
+ 10   1   leído
  12   3   libre
   7   2   librería
  13   1   libro
@@ -639,7 +639,7 @@
   4   1   llamar a la puerta
  10   2   llave
   9   5   llegar a
-  9   7   llevar
+ 10   9   llevar
   3   3   llevar barba
   3   8   llevar bigote
   3   1   llorar
@@ -684,7 +684,7 @@
   7   1   metro
  23   0   mi
   2   0   miedo
-  9   0   minuto
+ 10   0   minuto
  10   1   mirar
  11   4   miércoles
   9   2   moda
@@ -712,7 +712,7 @@
  10   0   mía
  10   0   mío
   6   1   móvil
-  9   0   nacional
+ 10   0   nacional
  10   1   nada
   6   3   nariz
  11   9   necesariamente
@@ -723,14 +723,14 @@
   8   6   nieva
  12   4   nivel
  30   0   no
-  9   0   no...hasta...
-  9   0   no...sino...
+ 10   0   no...hasta...
+ 10   0   no...sino...
  10   1   normal
   7   0   nos
   6   0   nos acostamos
   4   1   nosotras
   4   0   nosotros
-  9   0   novela
+ 10   0   novela
   7   4   noveno
  11   3   noventa
  20   3   novia
@@ -743,7 +743,7 @@
  13   1   nueve
  13   2   nuevo
   9   3   numeración
-  4   4   nunca
+  5   4   nunca
  11   1   ochenta
  13   0   ocho
   7   8   octavo
@@ -755,7 +755,7 @@
  11   1   once
  11   7   oportunidad
  13   1   ordenado
-  6   0   ordenador
+  7   0   ordenador
  11   0   ordenar
   6   2   oreja
   7   3   os
@@ -778,7 +778,7 @@
   6   0   parece
   6   0   parecemos
   6   0   parecen
-  9   6   parecer
+ 10   6   parecer
   6   1   pareces
   6   1   parecéis
   6   0   parezco
@@ -791,7 +791,7 @@
   8   5   país
   6   2   pecho
   6   1   pedimos
-  9   0   pedir
+ 10   3   pedir
   6   0   pedís
   6   0   pelo
   3   1   pelo corto
@@ -825,7 +825,7 @@
   6   2   pierna
  11   4   piscina
  11   1   piso
-  9   3   planchar
+ 10   4   planchar
  19   9   planta
   7   2   plato
  11   3   pobre
@@ -844,7 +844,7 @@
  10   2   pongo
  10   1   ponéis
   7   3   por ejemplo
-  9   1   por favor
+ 10   1   por favor
  16   0   por la mañana
  11   3   por la noche
  16   2   por la tarde
@@ -862,8 +862,8 @@
   8   0   prefiero
   4   6   preguntar
   2   1   preocupado
-  9   3   preparar
-  9   5   prestar
+ 10   3   preparar
+ 10   6   prestar
  12   2   prima
   8   2   primavera
  10   1   primero
@@ -890,7 +890,7 @@
  11   2   puntual
  11   4   página
  13  12   quedar
-  9   5   quejarse
+ 10   5   quejarse
   9   1   queremos
  10   0   querer
   9   0   queréis
@@ -919,7 +919,7 @@
  19   1   resfriado
   6   4   resguardo
   6   2   respuesta
-  4   1   restaurante
+  5   2   restaurante
   6   2   resultado
  11   1   reunión
  13   3   revista
@@ -927,7 +927,7 @@
   3   1   rojo
   3   2   rosado
  19   1   rubio
-  9   2   rápido
+ 10   2   rápido
  10   1   sabe
  10   0   sabemos
  10   1   saben
@@ -946,7 +946,7 @@
   6   0   salgo
   4   1   salida
   6   0   salimos
-  6   0   salir
+  7   0   salir
   6   0   salís
   3   0   saque
   3   0   saquen
@@ -1025,7 +1025,7 @@
   3   0   tenga
   3   0   tengan
   7   0   tengo
-  6   0   tenis
+  7   0   tenis
   7   2   tenéis
  17   8   tercero
  12   1   terminar
@@ -1041,7 +1041,7 @@
  14   1   todos los días
   3   0   toma
  14   4   tomar
-  4   0   tomar un té
+  5   0   tomar un té
   3   0   tome
   3   0   tomen
   3   1   tonto
@@ -1169,12 +1169,12 @@
  14   0   ¿Quién eres?
  13   1   ¿Quién es usted?
   7   0   ¿Qué día es hoy?
-  6   1   ¿Qué edad tienes?
+  7   1   ¿Qué edad tienes?
  13   1   ¿Qué es él?
   5   1   ¿Qué haces?
   7   1   ¿Qué hora es?
  19   2   ¿Qué tal?
-  6   1   ¿Qué te parezco?
+  7   1   ¿Qué te parezco?
   8   2   ¿Qué tiempo hace?
   5   3   ¿Tienes algún libro interesante?
   5   4   ¿Tienes el periódico de hoy?
