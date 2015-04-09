@@ -86,10 +86,10 @@
  10   2   abierto
  19   5   abogada
  19   4   abogado
-  5   3   abrigo
+  6   3   abrigo
  11   1   abril
  12   4   abrir
-  5   2   absorbente
+  6   2   absorbente
  12   3   abuela
  12   0   abuelo
   4   1   aceptable
@@ -115,7 +115,7 @@
  28   2   alemana
  16   0   alemanes
  28   1   alemán
-  5   0   algo
+  6   0   algo
   6   7   alguiler
  10   2   alguno
  10   6   almacenes
@@ -123,7 +123,7 @@
  11   2   almuerzo
   5   1   alquiler
  19   1   alto
-  5   0   alumno
+  6   0   alumno
  12   3   ama de casa
  12   2   amable
   3   6   amarillo
@@ -135,8 +135,8 @@
  10   0   antes
  10   2   antes de
  11   2   aparte
-  5   2   apetito
-  5   1   aprender
+  6   2   apetito
+  6   1   aprender
  10   4   aprovechar
   3   2   apático
  28   2   aquel
@@ -151,8 +151,8 @@
   7   2   asado
  11   1   ascensor
  10   1   asistir
-  5   1   aspirina
-  5   3   asunto
+  6   1   aspirina
+  6   4   asunto
  19   5   así
   6   1   atendemos
  10   0   atender
@@ -162,7 +162,7 @@
   6   1   atiendes
   6   0   atiendo
  12   3   aula
-  5   6   auscultar
+  6   6   auscultar
   7   1   autobús
  10   3   avión
   3   0   ayer
@@ -198,7 +198,7 @@
  11   1   bueno
  11   1   buenísimo
  10   5   buscar
- 12   4   cabeza
+ 13   5   cabeza
   7   1   cabina de teléfono
  22   0   café
   9   1   caja
@@ -208,7 +208,7 @@
   3   4   calcetín
  11   0   caliente
  11   0   calle
-  5   4   calmante
+  6   5   calmante
   8   1   calor
  19   1   cama
  28   1   camarera
@@ -276,7 +276,7 @@
   5   0   compañero de trabajo
   7   2   compañía
  11   2   comprar
-  5   1   comprender
+  6   2   comprender
   7   5   comprobante
  12   0   con
  11   0   concierto
@@ -288,7 +288,7 @@
  10   2   conoces
  10   1   conocéis
  10   0   conozco
-  5   3   conseguir
+  6   4   conseguir
  11   5   conserje
   7   4   consulado
  10   3   contemporáneo
@@ -305,7 +305,7 @@
  11   3   costar
  10   1   costumbre
   7   4   creer
-  5   1   cruzar
+  6   1   cruzar
   5   4   cualquiera
  12   4   cuando
  11   2   cuarenta
@@ -323,8 +323,8 @@
   5   1   cuidar a los niños
   4   0   cultura
  11   4   cumpleaños
-  5   1   cumplir
- 12   2   curso
+  6   1   cumplir
+ 13   2   curso
  10   1   cuál
  10   6   cuándo
  19   2   cómo
@@ -349,7 +349,7 @@
  17   7   derecho
   5   3   desayunar
  11   4   desayuno
-  5   5   descansar
+  6   6   descansar
  10   3   desde
  19   4   desordenada
  19   0   desordenado
@@ -386,16 +386,18 @@
   7   4   dinero
  11   5   dinámico
   7   3   directamente
-  5   5   divertirse
+  6   6   divertirse
  11   2   doce
-  5   0   doctor
-  5   2   doler
-  5   2   dolor de muelas
+  6   0   doctor
+  6   2   doler
+  6   3   dolor de muelas
  11   3   domingo
-  5   2   dormir
+  6   2   dormir
  13   3   dormitorio
  19   0   dos
   4   1   doscientos
+  1   1   duele
+  1   1   duelen
   4   4   dueño
   7   6   dulce
  12   3   durante
@@ -425,16 +427,19 @@
  12   3   empiezas
  12   1   empiezo
   7   0   empleado
+  1   2   empleo
  12   1   empresa
  28   3   empresaria
  28   5   empresario
  19   0   en
+  1   0   en el futuro
  11   3   en punto
+  1   1   en realidad
  12   1   encima
  12   1   encima de
   9   2   encontramos
  10   2   encontrar
-  5   0   encontrarse
+  6   0   encontrarse
   9   1   encontráis
  13   2   encuentra
   9   3   encuentran
@@ -506,22 +511,22 @@
  13   2   estáis
  13   3   están
  13   4   estás
-  5   4   estómago
+  6   6   estómago
   9   0   euro
-  5   1   examen
+  6   1   examen
  10   2   excepto
   7   2   experiencia
   3   2   explicar
   7   4   extranjero
   7   5   facultad
  12   0   familia
- 12   3   farmacia
+ 13   3   farmacia
  11   7   febrero
  12   1   felicidad
   4   0   felicísimo
  12   2   feliz
   3   0   feo
-  5   5   fiebre
+  6   6   fiebre
  11   1   fiesta
  11   0   fijo
   7   3   filete
@@ -539,11 +544,12 @@
   8   2   frío
  19   2   funcionaria
  19   2   funcionario
-  5   1   futuro
+  6   1   futuro
   3   2   fácil
  12   3   fútbol
-  5   4   garganta
+  6   4   garganta
  11   0   gas
+  1   1   gastar
  10   1   generalmente
  11   0   gente
  19   4   gerente
@@ -551,8 +557,8 @@
  19   3   gracias
   3   2   gracioso
  19   5   grande
-  5   1   grave
-  5   1   gripe
+  6   1   grave
+  6   1   gripe
   3   0   gris
   5   2   guapa e inteligente
  19   2   guapo
@@ -578,7 +584,7 @@
  14   2   hago
  10   0   hall
  10   1   hambre
-  5   3   harto
+  6   3   harto
  10   2   hasta
   4   0   haz
   7   3   helado
@@ -699,9 +705,9 @@
   7   3   maleta
  12   0   mamá
   7   5   manejar
-  5   1   manera
+  6   1   manera
  10   0   mano
-  5   0   mapa
+  6   0   mapa
  20   4   marido
   9   2   marrón
  11   5   martes
@@ -715,8 +721,8 @@
  22   2   me
   6   1   me acuesto
  11   0   media
-  5   5   medicamento
-  5   2   medicina
+  6   5   medicamento
+  6   4   medicina
  22   4   mejor
   3   2   menor
   3   0   menos...que...
@@ -729,7 +735,7 @@
   3   0   miedo
  10   0   minuto
  10   1   mirar
-  5   0   mismo
+  6   0   mismo
  11   4   miércoles
   9   2   moda
  10   0   modificar
@@ -758,7 +764,7 @@
   7   1   móvil
  10   0   nacional
  10   1   nada
- 12   4   nariz
+ 13   4   nariz
  11   9   necesariamente
  12   0   necesitar
   9   0   negro
@@ -787,17 +793,17 @@
  13   1   nueve
  13   2   nuevo
   9   3   numeración
- 10   5   nunca
+ 11   5   nunca
  11   1   ochenta
  13   0   ocho
   7   8   octavo
  11   2   octubre
  11   2   ocupado
-  5   2   oferta
+  6   2   oferta
  11   2   oficina
   7   0   ojo
   3   1   ojos
-  5   2   olvidar
+  6   3   olvidar
  11   1   once
  11   7   oportunidad
  13   1   ordenado
@@ -810,10 +816,11 @@
  11   0   otro
  12   1   padre
   4   0   paga
-  5   1   pagado
+  6   1   pagado
   9   1   pagar
   1   1   pague
   1   0   paguen
+  1   1   palabra
   7   1   palillo
   3   5   pantalón
   3   0   papel
@@ -833,8 +840,8 @@
   6   0   parezco
  10   3   parque industrial
   7   1   pasaporte
- 14   3   pasar
-  5   3   pastilla
+ 15   3   pasar
+  6   3   pastilla
   7   1   patata
   4   3   patio
  11   7   paupérrimo
@@ -919,7 +926,7 @@
   8   0   prefiero
   4   6   preguntar
   3   1   preocupado
-  5   2   preocuparse
+  6   3   preocuparse
  10   3   preparar
  10   6   prestar
  12   2   prima
@@ -947,7 +954,7 @@
   4   0   puerta
  11   2   puntual
  11   4   página
-  5   3   píldora
+  6   4   píldora
   4   3   pónganse
   4   1   póngase
  13  12   quedar
@@ -964,11 +971,12 @@
   4   4   quinientos
   7   0   quinto
   7   8   quiosco
-  5   2   quitarse
+  6   4   quitarse
  32   0   quién
  28   1   qué
+  1   0   realidad
  10   5   recepcionista
-  5   3   receta
+  6   3   receta
   2   0   recoge
   7   2   recoger
   2   2   recoja
@@ -1022,11 +1030,11 @@
  28   2   secretario
  12   1   secundario
   7   1   sed
-  5   0   seguimos
-  5   0   seguir
+  6   0   seguimos
+  6   0   seguir
   7   1   segundo
  11   6   seguramente
-  5   0   seguís
+  6   0   seguís
  13   3   seis
   4   4   sencillo
  11   6   septiembre
@@ -1041,10 +1049,10 @@
  28   1   señorita
  19   5   siempre
  13   3   siete
-  5   0   sigo
-  5   1   sigue
-  5   1   siguen
-  5   2   sigues
+  6   0   sigo
+  6   1   sigue
+  6   1   siguen
+  6   3   sigues
  13   5   silla
  12   1   simpático
  10   6   sin embargo
@@ -1083,7 +1091,8 @@
  11   2   tampoco
   3   1   tan...como...
   8   4   tanto
-  5   4   tapado
+  6   5   tapado
+  1   1   tapar
  22   1   tarde
  11   1   tardísimo
   7   0   tarjeta
@@ -1104,6 +1113,7 @@
   7   0   tengo
   7   0   tenis
   7   2   tenéis
+  1   0   tercer curso
  17   8   tercero
  12   1   terminar
   7   3   ternera
@@ -1119,16 +1129,16 @@
   4   0   toma
   4   0   tomad
  14   4   tomar
-  5   2   tomar asiento
+  6   2   tomar asiento
   5   0   tomar un té
   4   0   tome
   4   0   tomemos
   4   1   tomen
   3   1   tonto
-  5   2   tos
+  6   2   tos
  11   0   trabajar
  22   1   trabajo
-  5   0   traer
+  6   0   traer
  12   0   tranquilo
  11   1   trece
  11   1   treinta
@@ -1196,6 +1206,7 @@
   3   1   verde
   9   3   verdura
  10   0   ves
+  1   2   vestido
  12   1   vez
  12   3   viajar
  12   3   viaje
@@ -1233,6 +1244,7 @@
   7   0   yogur
   9   7   zapatería
   9   2   zapato
+  1   1   zona
   3   0   ¡Bravo!
   5   1   ¡Buena idea!
   5   2   ¡Dios mío!
@@ -1266,6 +1278,7 @@
   7   1   ¿Qué hora es?
  19   2   ¿Qué tal?
   7   1   ¿Qué te parezco?
+  1   1   ¿Qué te pasa?
   8   2   ¿Qué tiempo hace?
   5   3   ¿Tienes algún libro interesante?
   5   4   ¿Tienes el periódico de hoy?
