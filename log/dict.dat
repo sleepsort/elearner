@@ -262,10 +262,10 @@
   7   2   collar
   9   0   color
   4   0   coma
-  3   0   comamos
+  4   0   comamos
   4   1   coman
   4   0   come
-  3   0   comed
+  4   0   comed
   7   6   comedor
   7   3   comercial
   3   1   comercio
@@ -563,7 +563,7 @@
   7   0   hablar de
   7   1   hablar en
   8   0   hace
-  3   0   haced
+  4   0   haced
   8   1   hacemos
   8   0   hacen
   8   0   hacer
@@ -573,7 +573,7 @@
   3   1   hacia
   8   0   hacéis
   4   0   haga
-  3   0   hagamos
+  4   0   hagamos
   4   1   hagan
  14   2   hago
  10   0   hall
@@ -591,7 +591,7 @@
  10   3   horario
  19   2   hoy
  11   2   humo
-  3   0   id
+  4   0   id
  10   0   idea
  28   3   idioma
   7   1   importante
@@ -657,12 +657,12 @@
   6   0   leo
   3   0   les
  10   2   levantado
-  3   3   levantaos
+  4   4   levantaos
  10   0   levantarse
-  3   2   levantémonos
-  3   3   levántate
-  3   2   levántense
-  3   0   levántese
+  4   2   levantémonos
+  4   4   levántate
+  4   2   levántense
+  4   0   levántese
   6   2   leéis
  10   3   leída
  10   1   leído
@@ -840,7 +840,7 @@
  11   7   paupérrimo
   8   5   país
   7   2   pecho
-  3   0   pedid
+  4   0   pedid
   6   1   pedimos
  10   3   pedir
   6   0   pedís
@@ -864,7 +864,7 @@
   7   7   pescado
   7   7   pestaña
   7   7   picante
-  3   0   pidamos
+  4   1   pidamos
   6   1   pide
   6   2   piden
   6   3   pides
@@ -887,18 +887,18 @@
   7   1   pollo
   4   0   pon
  10   0   pone
-  3   0   poned
+  4   0   poned
  10   0   ponemos
  10   1   ponen
-  3   2   poneos
+  4   3   poneos
  12   2   poner
  10   1   pones
   4   1   ponga
-  3   1   pongamos
+  4   1   pongamos
   4   0   pongan
  10   2   pongo
-  3   0   pongámonos
-  3   1   ponte
+  4   0   pongámonos
+  4   2   ponte
  10   1   ponéis
   7   3   por ejemplo
  10   1   por favor
@@ -948,8 +948,8 @@
  11   2   puntual
  11   4   página
   5   3   píldora
-  3   1   pónganse
-  3   1   póngase
+  4   3   pónganse
+  4   1   póngase
  13  12   quedar
  10   5   quejarse
   9   1   queremos
@@ -1016,12 +1016,12 @@
   6   3   se acuesta
   6   1   se acuestan
   2   0   sea
-  3   0   seamos
+  4   0   seamos
   2   0   sean
  28   0   secretaria
  28   2   secretario
  12   1   secundario
-  6   1   sed
+  7   1   sed
   5   0   seguimos
   5   0   seguir
   7   1   segundo
@@ -1032,7 +1032,7 @@
  11   6   septiembre
   3   0   serio
   3   0   servir
-  3   1   servíos
+  4   1   servíos
  11   2   sesenta
  11   1   setenta
   7   1   sexto
@@ -1052,7 +1052,7 @@
   2   0   sirva
   2   0   sirvan
   2   0   sirve
-  3   1   sirvámonos
+  4   1   sirvámonos
  10   3   sobre
  13   1   sofá
  15   3   sois
@@ -1075,9 +1075,9 @@
  14   0   sé
   7   2   séptimo
  30   1   sí
-  3   3   sírvanse
-  3   2   sírvase
-  3   0   sírvete
+  4   3   sírvanse
+  4   2   sírvase
+  4   0   sírvete
  19   7   sólo
  28   3   también
  11   2   tampoco
@@ -1117,12 +1117,12 @@
  23   1   todo
  14   1   todos los días
   4   0   toma
-  3   0   tomad
+  4   0   tomad
  14   4   tomar
   5   2   tomar asiento
   5   0   tomar un té
   4   0   tome
-  3   0   tomemos
+  4   0   tomemos
   4   1   tomen
   3   1   tonto
   5   2   tos
@@ -1160,7 +1160,7 @@
  11   0   van
  11   0   vas
   2   0   vaya
-  3   0   vayamos
+  4   0   vayamos
   2   0   vayan
  14   1   ve
  11   2   veinte
@@ -1181,10 +1181,10 @@
  13   2   venezolana
  13   2   venezolano
   4   0   venga
-  3   0   vengamos
+  4   0   vengamos
   4   0   vengan
  11   1   vengo
-  3   0   venid
+  4   0   venid
  12   3   venimos
  12   1   venir
   4   3   ventana
@@ -1208,8 +1208,10 @@
   7   0   vino
   7   2   visado
  11   0   vista
-  3   0   vivamos
-  3   0   vivid
+  4   0   vivamos
+  4   0   vivid
+  1   0   volvamos
+  1   0   volved
   4   0   volvemos
  11   1   volver a
   4   0   volvéis
@@ -1217,7 +1219,9 @@
   4   3   vosotros
  11   1   voy
   7   2   vuelo
-  4   0   vuelve
+  1   0   vuelva
+  1   0   vuelvan
+  5   1   vuelve
   4   0   vuelven
   4   1   vuelves
   4   0   vuelvo
