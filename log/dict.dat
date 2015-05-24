@@ -10,13 +10,13 @@
  20   0   Buenos Aires
  31   2   Buenos días.
   8   3   Cada vez te pareces más a tu mamá.
-  4   2   Camilo José Cela
+  5   2   Camilo José Cela
  19   3   Caracas
  19   1   Cecilia
  19   1   China
  28   0   Daniel
  28   1   David
-  4   0   Egipto
+  5   0   Egipto
   8   3   El enfermo no puede levantarse.
  30   0   Elena
  30   1   Ema
@@ -35,7 +35,7 @@
  12   1   Hasta luego.
  11   1   Hasta mañana.
   6   0   Hay una lámpara en la mesa.
-  4   2   Hispanoamérica
+  5   2   Hispanoamérica
   6   2   Hoy voy a trabajar todo el día.
   8   4   Inglaterra
   5   2   Japón
@@ -49,7 +49,7 @@
  20   3   Londres
  19   2   Lucía
  19   0   Madrid
-  4   4   Mallorca
+  5   4   Mallorca
  30   0   Manolo
  28   0   Manuel
  19   1   Marcos
@@ -62,17 +62,17 @@
   5   0   No sé.
  14   2   No sólo ahora. ¡Siempre es así!
   6   0   No tengo hambre.
-  4   0   Nobel
+  5   0   Nobel
   8   0   Noreste
   8   2   Noroeste
   8   0   Norte
   8   1   Oeste
  12   1   Oiga.
  31   0   Paco
-  4   1   Padrón
+  5   2   Padrón
   8   4   Pareces estar enfermo.
  19   1   París
-  4   3   Pascual Duarte
+  5   3   Pascual Duarte
  30   0   Pepe
   8   0   Puerta del Sol
  19   0   Roma
@@ -90,15 +90,15 @@
   4   0   Vamos allí pronto.
  19   2   Venezuela
  11   0   a
-  4   1   a cambio de
-  4   0   a finales de
-  4   1   a la izquierda de
+  5   1   a cambio de
+  5   0   a finales de
+  5   1   a la izquierda de
   5   2   a las cuatro de la tarde
   6   3   a menudo
-  4   0   a pie
+  5   0   a pie
  13   8   a propósito
   8   4   a veces
-  4   1   abandonar
+  5   1   abandonar
  11   7   abierta
  11   2   abierto
  19   5   abogada
@@ -110,9 +110,9 @@
  12   3   abuela
  12   0   abuelo
   7   2   académico
-  2   1   accidente
+  3   1   accidente
   5   2   aceptable
-  4   2   acercarse
+  5   2   acercarse
  11   0   acostarse
   7   1   acostándose
   8   2   además
@@ -146,9 +146,9 @@
  11   6   almacenes
   6   6   almorzar
  13   2   almuerzo
-  4   5   alojarse
+  5   5   alojarse
   6   2   alquiler
-  4   6   alrededor
+  5   6   alrededor
  19   1   alto
   8   0   alumno
  13   3   ama de casa
@@ -162,15 +162,15 @@
   7   4   anciano
   8   3   andar
  13   1   anillo
-  4   0   anoche
+  5   0   anoche
  11   0   antes
  11   2   antes de
   5   2   antiguo
-  4   4   aparcar
+  5   5   aparcar
  12   2   aparte
-  4   1   apasionante
-  4   4   apellido
-  4   2   aperitivo
+  5   1   apasionante
+  5   4   apellido
+  5   2   aperitivo
   8   2   apetito
   8   1   aprender
  11   5   aprovechar
@@ -203,11 +203,11 @@
   8   6   auscultar
   8   1   autobús
   7   3   autopista
-  4   6   averiarse
+  5   6   averiarse
  11   3   avión
   4   0   ayer
  10   3   ayudar
- 12   3   azafata
+ 13   3   azafata
   8   4   año
   8   6   bailar
   8   5   bajar
@@ -215,13 +215,13 @@
  11   1   banco
   9   0   bar
  12   6   barato
-  4   1   barra
+  5   1   barra
  15   4   barrio
  20   7   bastante
   8   0   beber
  11   6   bebida
   8   1   beca
-  4   2   bello
+  5   2   bello
  11   3   biblioteca
  11   3   bibliotecaria
  11   4   bibliotecario
@@ -240,13 +240,13 @@
   8   2   brazo
  11   1   bueno
  12   1   buenísimo
-  4   2   buscamos
+  5   2   buscamos
  11   5   buscar
-  4   0   buscaron
-  4   0   buscaste
-  4   1   buscasteis
-  4   4   buscó
-  4   0   busqué
+  5   0   buscaron
+  5   0   buscaste
+  5   1   buscasteis
+  5   4   buscó
+  5   0   busqué
  16   5   cabeza
   8   1   cabina de teléfono
  23   0   café
@@ -264,7 +264,7 @@
  28   1   camarera
  28   1   camarero
  10   7   cambio
-  4   5   caminar
+  5   5   caminar
  11   1   camisa
   9   2   campo
   8   5   cansado
@@ -273,7 +273,7 @@
   9   1   capital
   8   2   carne
  10   6   caro
-  4   7   carretera
+  5   8   carretera
  11   2   carta
  19   2   casa
  13   3   casada
@@ -285,7 +285,7 @@
  16   3   cenar
  12   1   central
  19   2   centro
-  4   4   cepillarse
+  5   4   cepillarse
  12   4   cerca
  12   1   cerca de
  12   7   cerquísima
@@ -294,7 +294,7 @@
  10   0   cerráis
   9   4   cerveza
   8   1   champán
-  4   1   chaqueta
+  5   1   chaqueta
  12   2   charlar
  12   2   chica
  12   1   chico
@@ -315,7 +315,7 @@
  10   2   clienta
  10   5   cliente
   8   1   clima
-  9   2   coche
+ 10   2   coche
  13   9   cocina
  13   4   cocinar
   7   1   coge
@@ -325,7 +325,7 @@
   7   0   coges
   7   1   cogéis
   7   0   cojo
-  4   5   colegio
+  5   5   colegio
   4   0   colgamos
  12   2   colgar
   4   0   colgáis
@@ -343,11 +343,11 @@
   8   3   comercial
  11   2   comercio
  12   4   comida
-  4   0   comieron
-  4   0   comimos
-  4   0   comiste
-  4   1   comisteis
-  4   0   comió
+  5   0   comieron
+  5   0   comimos
+  5   0   comiste
+  5   1   comisteis
+  5   0   comió
  11   0   compañera
  11   1   compañero
   6   0   compañero de clase
@@ -357,17 +357,17 @@
   8   2   comprender
   8   6   comprobante
   5   3   compromiso
-  4   0   comunicar
-  4   1   comí
+  5   0   comunicar
+  5   1   comí
  12   0   con
  12   0   concierto
-  4   0   conduce
-  4   0   conducen
-  4   2   conduces
-  4   1   conducimos
-  4   1   conducir
-  4   1   conducís
-  4   1   conduzco
+  5   0   conduce
+  5   0   conducen
+  5   2   conduces
+  5   1   conducimos
+  5   1   conducir
+  5   1   conducís
+  5   1   conduzco
  11   1   congreso
  10   0   conoce
  10   2   conocemos
@@ -384,8 +384,8 @@
   9   1   contar
  11   6   contemporáneo
   4   0   contento
-  4   1   contento con
-  4   1   contento de
+  5   1   contento con
+  5   1   contento de
   5   2   contestar
   5   2   continuamos
   5   0   continuar
@@ -405,7 +405,7 @@
  11   0   cosa
  21   6   costar
  12   1   costumbre
-  4   1   creativo
+  5   1   creativo
   8   4   creer
   8   2   cruzar
   9   1   cuadro
@@ -425,7 +425,7 @@
   4   0   cuelgas
   4   0   cuelgo
   8   5   cuello
-  4   3   cuenta
+  5   3   cuenta
   9   0   cuesta
   9   0   cuestan
  12   6   cuidar
@@ -450,13 +450,13 @@
   6   0   decimos
  11   0   decir
   6   0   decís
-  4   0   dedicamos
-  4   1   dedicaron
-  4   1   dedicarse
-  4   1   dedicaste
-  4   1   dedicasteis
-  4   2   dedicó
-  4   1   dediqué
+  5   0   dedicamos
+  5   1   dedicaron
+  5   1   dedicarse
+  5   1   dedicaste
+  5   1   dedicasteis
+  5   2   dedicó
+  5   2   dediqué
  11   9   dejar
   7   4   delante
   4   5   delgado
@@ -468,14 +468,14 @@
  10   5   dependiente
  11   3   deprisa
  19   7   derecho
- 10   3   desayunar
+ 11   3   desayunar
  13   4   desayuno
   8   6   descansar
  11   3   desde
  19   4   desordenada
  19   0   desordenado
-  4   6   despacio
-  4   2   despedirse
+  5   6   despacio
+  5   2   despedirse
  11   2   despistado
  11   6   después
   6   1   después de
@@ -488,7 +488,7 @@
   6   0   devuelven
   6   1   devuelves
   6   0   devuelvo
-  8   0   di
+  9   0   di
   5   1   diariamente
   4   4   diccionario
   6   0   dice
@@ -499,8 +499,8 @@
  11   2   dieciocho
  11   3   diecisiete
  11   3   dieciséis
- 12   1   diente
-  4   0   dieron
+ 13   1   diente
+  5   0   dieron
  13   0   diez
   5   5   diferente
  12   3   dificilísimo
@@ -510,47 +510,47 @@
   4   0   digan
   8   5   digestión
   6   0   digo
-  4   3   dije
-  4   2   dijeron
-  4   1   dijimos
-  4   1   dijiste
-  4   0   dijisteis
-  4   1   dijo
-  4   0   dimos
+  5   3   dije
+  5   3   dijeron
+  5   1   dijimos
+  5   1   dijiste
+  5   0   dijisteis
+  5   1   dijo
+  5   0   dimos
   8   4   dinero
  12   5   dinámico
-  4   3   dio
-  4   4   dirección
+  5   3   dio
+  5   4   dirección
   8   3   directamente
-  4   1   diseño
-  4   0   diste
-  4   1   disteis
-  4   1   distinto
+  5   1   diseño
+  5   0   diste
+  5   1   disteis
+  5   1   distinto
  16   6   divertirse
  11   2   doce
   9   1   docena
   8   0   doctor
-  4   2   doctorando
+  5   2   doctorando
   8   2   doler
   8   4   dolor de muelas
  11   3   domingo
-  4   1   dormimos
+  5   1   dormimos
   8   2   dormir
-  4   0   dormiste
-  4   0   dormisteis
+  5   0   dormiste
+  5   0   dormisteis
  13   3   dormitorio
-  4   0   dormí
+  5   0   dormí
  19   0   dos
  10   1   doscientos
-  6   1   ducharse
-  4   1   duda
+  7   1   ducharse
+  5   1   duda
   3   2   duele
   3   1   duelen
   5   4   dueño
   8   6   dulce
  12   3   durante
-  4   1   durmieron
-  4   0   durmió
+  5   1   durmieron
+  5   0   durmió
  12   0   duro
   2   1   dé
   9   4   débil
@@ -562,7 +562,7 @@
   7   0   educación
  11   6   efectivamente
   5   4   ejercicio
-  4   4   ejército
+  5   4   ejército
  20   0   el
   7   0   el aula
   5   3   elaborar
@@ -571,7 +571,7 @@
  30   0   ella
  31   0   ellas
  30   0   ellos
-  4   0   embajada
+  5   1   embajada
   8   2   embarque
  12   0   empezamos
  12   1   empezar
@@ -589,7 +589,7 @@
  28   5   empresario
  19   0   en
   3   1   en el futuro
-  4   0   en fin
+  5   0   en fin
  11   3   en punto
   3   1   en realidad
   2   1   en voz baja
@@ -611,7 +611,7 @@
  28   3   enfermera
  28   5   enfermero
  19   7   enfermo
-  4   2   enorme
+  5   2   enorme
   8   3   ensalada
   8   4   enseñar
   4   0   entendemos
@@ -651,9 +651,9 @@
  20   5   esos
  29   0   español
  28   1   española
- 12   9   espejo
+ 13   9   espejo
  11   8   esperar
-  4   3   esplendor
+  5   3   esplendor
  13   2   esposa
  13   4   esposo
  17   8   espárrago
@@ -687,18 +687,18 @@
   7   3   etcétera
  10   0   euro
   7   2   exactamente
-  4   6   exagerar
+  5   6   exagerar
   8   1   examen
  11   2   excepto
   7   1   excursión
   8   2   experiencia
   4   3   explicar
   5   1   exportar
-  4   3   exposición
-  4   5   exquisito
+  5   4   exposición
+  5   5   exquisito
   8   5   extranjero
   8   5   facultad
-  4   0   falta
+  5   0   falta
  12   0   familia
   7   1   famoso
  15   3   farmacia
@@ -733,7 +733,7 @@
   7   0   fuimos
   7   0   fuiste
   7   3   fuisteis
-  4   1   fumar
+  5   1   fumar
  19   2   funcionaria
  19   2   funcionario
   8   1   futuro
@@ -757,7 +757,7 @@
   5   0   grupo
   5   2   guapa e inteligente
  19   2   guapo
-  4   5   guerra civil
+  5   5   guerra civil
  10   5   gustar
  13   3   haber
  20   5   habitación
@@ -799,10 +799,10 @@
  12   2   hombre
  11   1   hora
  11   3   horario
-  4   0   hotel
+  5   0   hotel
  19   2   hoy
   9   4   huevo
-  4   0   humano
+  5   0   humano
  12   2   humo
   4   0   id
  11   0   idea
@@ -811,14 +811,14 @@
   8   1   importante
  12   8   impresionante
  11   1   incluso
-  4   1   incorporación
+  5   1   incorporación
   5   2   inflamar
   7   4   informática
   4   4   ingeniera
   4   3   ingeniero
  19   1   inglesa
  19   3   inglés
-  4   4   ingresar
+  5   4   ingresar
   9   1   inteligente
  13   3   interesante
  12   0   interesantísimo
@@ -833,11 +833,11 @@
   7   2   ir de vacaciones
  19   1   italiana
  19   2   italiano
- 12   7   izquierdo
+ 13   7   izquierdo
  13   3   jardín
   9   5   jengibre
  32   1   joven
-  4   5   jubilarse
+  5   5   jubilarse
  10   0   juega
  10   1   juegan
  10   2   juegas
@@ -888,16 +888,16 @@
   4   4   levántate
   4   2   levántense
   4   0   levántese
-  2   0   leyendo
-  4   0   leyeron
-  4   1   leyó
+  3   0   leyendo
+  5   0   leyeron
+  5   1   leyó
   6   2   leéis
-  4   0   leí
+  5   0   leí
  11   3   leída
  11   1   leído
-  4   0   leímos
-  4   1   leíste
-  4   1   leísteis
+  5   0   leímos
+  5   1   leíste
+  5   1   leísteis
  13   3   libre
   8   3   librería
  13   1   libro
@@ -908,7 +908,7 @@
  13   1   limpio
  12   0   limpísimo
   8   1   limón
-  4   3   literatura
+  5   3   literatura
   9   1   litro
   5   1   llamar a la puerta
  11   2   llave
@@ -940,17 +940,17 @@
   8   5   manejar
   8   1   manera
  11   0   mano
-  4   0   manual
+  5   0   manual
   9   4   manzana
   8   0   mapa
-  4   4   maquillarse
+  5   4   maquillarse
   7   2   maravilla
  20   4   marido
  10   2   marrón
  11   5   martes
  11   1   marzo
   8   3   matricularse
-  4   5   matrimonio
+  5   6   matrimonio
   8   2   matrícula
  11   0   mayo
   8   5   mayonesa
@@ -974,7 +974,7 @@
   8   1   metro
  23   0   mi
   4   0   miedo
-  4   6   mientras
+  5   7   mientras
   5   0   mil
  11   0   minuto
  11   1   mirar
@@ -985,11 +985,11 @@
  11   0   modificar
  11   0   momento
  12   1   moreno
-  4   0   morimos
-  4   1   morir
-  4   1   moriste
-  4   1   moristeis
-  4   0   morí
+  5   0   morimos
+  5   1   morir
+  5   1   moriste
+  5   1   moristeis
+  5   0   morí
   8   4   mostrador
   7   0   mostramos
   8   3   mostrar
@@ -1002,16 +1002,16 @@
   7   0   muestras
   7   0   muestro
  12   1   mujer
-  4   4   multa
+  5   4   multa
   5   0   mundo
-  4   3   muralla
-  2   0   muriendo
-  4   1   murieron
-  4   0   murió
+  5   4   muralla
+  3   0   muriendo
+  5   1   murieron
+  5   0   murió
   5   1   murmurar
  13   4   museo
  19   1   muy
-  4   2   máquina
+  5   2   máquina
   5   3   mármol
   8   2   más
   4   0   más...que...
@@ -1020,10 +1020,10 @@
  11   0   mía
  11   0   mío
   8   3   móvil
-  4   1   nacer
+  5   1   nacer
  11   0   nacional
  11   2   nada
-  4   0   nadie
+  5   0   nadie
   9   3   naranja
  15   4   nariz
  12   9   necesariamente
@@ -1038,15 +1038,15 @@
  11   0   no...hasta...
   5   3   no...más que...
  11   0   no...sino...
-  4   0   nombre
+  5   0   nombre
  11   1   normal
   9   0   nos
   6   0   nos acostamos
   9   0   nos divertimos
   4   1   nosotras
   4   0   nosotros
-  4   0   nota
-  4   1   notar
+  5   0   nota
+  5   1   notar
   5   2   novecientos
  11   0   novela
   8   5   noveno
@@ -1062,9 +1062,9 @@
  13   2   nuevo
  10   3   numeración
  14   5   nunca
- 11   2   obra
-  4   5   obrero
-  4   2   obtener
+ 12   2   obra
+  5   5   obrero
+  5   4   obtener
  11   1   ochenta
  13   0   ocho
   5   1   ochocientos
@@ -1076,7 +1076,7 @@
   5   1   oigo
   8   0   ojo
   4   1   ojos
- 12   4   olvidar
+ 13   4   olvidar
  11   1   once
  12   7   oportunidad
  13   1   ordenado
@@ -1091,22 +1091,22 @@
   5   0   oye
   5   0   oyen
   5   3   oyente
-  4   0   oyeron
+  5   0   oyeron
   5   0   oyes
-  4   2   oyó
-  4   0   oí
-  9   3   oímos
+  5   2   oyó
+  5   0   oí
+ 10   3   oímos
   5   0   oír
   5   0   oís
-  4   0   oíste
-  4   1   oísteis
+  5   0   oíste
+  5   1   oísteis
  12   1   padre
   4   0   paga
   8   1   pagado
  10   1   pagar
   1   1   pague
   1   0   paguen
-  4   3   paisaje
+  5   3   paisaje
   3   1   palabra
   8   2   palillo
   9   1   pan
@@ -1120,7 +1120,7 @@
  11   1   para
   8   6   parada
   7   1   parar
-  4   3   pararse
+  5   5   pararse
   6   0   parece
   6   0   parecemos
   6   0   parecen
@@ -1130,10 +1130,10 @@
   6   0   parezco
  11   3   parque industrial
   7   1   pasado
-  4   1   pasado mañana
+  5   1   pasado mañana
   8   1   pasaporte
  18   3   pasar
-  4   3   pasear
+  5   4   pasear
   8   3   pastilla
   8   1   patata
   5   3   patio
@@ -1141,13 +1141,13 @@
   8   5   país
   8   2   pecho
   4   0   pedid
- 10   3   pedimos
+ 11   3   pedimos
  11   3   pedir
-  4   3   pediste
-  4   0   pedisteis
-  4   2   pedí
+  5   3   pediste
+  5   0   pedisteis
+  5   2   pedí
   6   0   pedís
- 12   0   pelo
+ 13   0   pelo
   4   1   pelo corto
   4   0   pelo largo
   4   3   pelo liso
@@ -1173,9 +1173,9 @@
   6   1   pide
   6   2   piden
   6   3   pides
-  2   2   pidiendo
-  4   2   pidieron
-  4   6   pidió
+  3   2   pidiendo
+  5   2   pidieron
+  5   7   pidió
   6   2   pido
  13   0   pie
   8   0   piensa
@@ -1185,20 +1185,20 @@
   8   2   pierna
   5   5   pieza
   7   3   pintura
-  4   4   pirámide
+  5   4   pirámide
  12   4   piscina
  12   1   piso
  11   5   planchar
  19   9   planta
   8   2   plato
- 11   1   playa
-  4   0   plaza
+ 12   1   playa
+  5   0   plaza
  12   3   pobre
  11   4   podemos
  11   0   poder
  11   3   podéis
-  6   3   poesía
-  4   1   policía
+  7   3   poesía
+  5   1   policía
   7   4   politécnica
   8   1   pollo
   9   2   político
@@ -1238,12 +1238,12 @@
   8   1   prefieres
   8   0   prefiero
   5   8   preguntar
-  4   1   premio
+  5   1   premio
   7   2   prensa
   4   1   preocupado
   8   3   preocuparse
  11   3   preparar
-  4   1   presidente
+  5   1   presidente
  11   6   prestar
  12   2   prima
   8   2   primavera
@@ -1256,7 +1256,7 @@
  10  10   probarse
   5   1   problema
   8   0   probáis
-  4   5   procedimiento
+  5   5   procedimiento
   5   1   producir
   5   0   producto
   7   1   profesional
@@ -1269,27 +1269,27 @@
   8   0   pruebo
  11   1   próximo
   7   1   psicología
-  4   0   pude
-  2   0   pudiendo
-  4   2   pudieron
-  4   1   pudimos
-  4   0   pudiste
-  4   1   pudisteis
-  4   3   pudo
+  5   3   pude
+  3   0   pudiendo
+  5   2   pudieron
+  5   1   pudimos
+  5   0   pudiste
+  5   1   pudisteis
+  5   3   pudo
  13   6   pueblo
  11   2   puede
  11   2   pueden
  11   1   puedes
  11   1   puedo
   5   0   puerta
-  4   1   pues
+  5   1   pues
  11   2   puntual
-  4   0   puse
-  4   0   pusieron
-  4   1   pusimos
-  4   0   pusiste
-  4   1   pusisteis
-  4   1   puso
+  5   0   puse
+  5   0   pusieron
+  5   1   pusimos
+  5   0   pusiste
+  5   1   pusisteis
+  5   1   puso
  12   4   página
   8   5   píldora
   4   3   pónganse
@@ -1304,33 +1304,33 @@
   9   0   quieren
   9   0   quieres
   9   0   quiero
- 15   4   quince
+ 16   4   quince
  10   6   quinientos
   8   0   quinto
   8   9   quiosco
-  4   2   quise
-  4   0   quisieron
-  4   0   quisimos
-  4   1   quisiste
-  4   2   quisisteis
-  4   2   quiso
+  5   2   quise
+  5   0   quisieron
+  5   0   quisimos
+  5   1   quisiste
+  5   2   quisisteis
+  5   2   quiso
   8   4   quitarse
  32   0   quién
  28   1   qué
-  7   1   realidad
+  8   1   realidad
   7   1   realmente
   5   3   recado
  11   5   recepcionista
   8   4   receta
   2   0   recoge
- 12   4   recoger
+ 13   4   recoger
   2   2   recoja
   2   0   recojan
   7   3   recorrido
  12   4   recreo
  13   2   regalo
- 11   4   regresar
-  4   3   regreso
+ 12   4   regresar
+  5   3   regreso
   8   1   relación
  11   0   reloj
  11   3   repartir
@@ -1368,7 +1368,7 @@
   5   2   salida
   7   0   salimos
   8   0   salir
-  4   2   saludar
+  5   2   saludar
   7   0   salís
   4   0   saque
   4   0   saquen
@@ -1385,7 +1385,7 @@
   8   1   sed
   8   0   seguimos
   8   0   seguir
- 12   1   segundo
+ 13   1   segundo
  12   6   seguramente
   9   0   seguro
   8   0   seguís
@@ -1394,12 +1394,12 @@
   9   0   sello
   7   4   semestre
   5   4   sencillo
-  4   0   sentimos
-  4   3   sentir
-  4   0   sentís
+  5   0   sentimos
+  5   3   sentir
+  5   0   sentís
  11   6   septiembre
   4   0   serio
-  4   5   servilleta
+  5   5   servilleta
   9   1   servir
   5   3   servir de
   4   1   servíos
@@ -1414,10 +1414,10 @@
  28   1   señorita
   7   0   sida
  19   5   siempre
-  4   1   siente
-  4   0   sienten
-  4   0   sientes
-  4   0   siento
+  5   1   siente
+  5   0   sienten
+  5   0   sientes
+  5   0   siento
  13   3   siete
   9   0   sigo
   8   2   sigue
@@ -1432,8 +1432,8 @@
   2   0   sirvan
   2   0   sirve
   4   1   sirvámonos
-  4   1   sistema
-  4   2   sitio
+  5   1   sistema
+  5   2   sitio
   7   3   situado
  16   3   sobre
  13   1   sofá
@@ -1453,13 +1453,13 @@
   5   0   su
   8   3   suave
   5   0   subir
-  4   2   sucio
+  5   2   sucio
   4   0   suelo
-  4   2   suerte
+  5   2   suerte
   8   2   sueño
   8   2   suficiente
  11   2   supermercado
- 15   7   sábado
+ 16   7   sábado
  14   0   sé
   8   2   séptimo
  30   1   sí
@@ -1503,13 +1503,13 @@
  19   8   tercero
  12   1   terminar
   8   3   ternera
-  4   0   tesis
+  5   0   tesis
  11   5   tiempo
  11   4   tienda
  17   5   tiene
   7   2   tienen
   7   2   tienes
-  4   2   tirar
+  5   2   tirar
   4   0   tocar
  11   9   todavía
  24   1   todo
@@ -1525,7 +1525,7 @@
   4   1   tomen
   4   2   tonto
   8   2   tos
-  4   2   tostada
+  5   2   tostada
   5   2   trabajador
   7   1   trabajamos
   7   0   trabajando
@@ -1536,17 +1536,17 @@
  23   1   trabajo
   7   1   trabajé
   7   1   trabajó
-  4   8   traducido
+  5   8   traducido
   8   0   traer
-  4   4   traje
-  4   1   trajeron
-  4   0   trajimos
-  4   1   trajiste
-  4   1   trajisteis
-  4   0   trajo
+  5   4   traje
+  5   1   trajeron
+  5   0   trajimos
+  5   1   trajiste
+  5   1   trajisteis
+  5   0   trajo
  13   2   tranquilo
-  4   6   trapo
-  4   6   trasladarse
+  5   6   trapo
+  5   8   trasladarse
  11   1   trece
  11   1   treinta
  11   3   treinta y dos
@@ -1554,17 +1554,17 @@
  11   3   treinta y uno
  14   0   tres
   5   0   trescientos
-  8   1   triste
+  9   1   triste
  13   3   trozo
   9   5   tráfico
  14   0   tu
  11   5   turismo
-  4   0   tuve
-  4   2   tuvieron
-  4   1   tuvimos
-  4   1   tuviste
-  4   0   tuvisteis
-  4   1   tuvo
+  5   0   tuve
+  5   3   tuvieron
+  5   1   tuvimos
+  5   1   tuviste
+  5   0   tuvisteis
+  5   1   tuvo
  11   0   tuya
  11   0   tuyo
   9   0   té
@@ -1584,7 +1584,7 @@
   8   1   vacaciones de verano
  13   4   vacación
  11   3   vais
-  4   0   valer
+  5   1   valer
  11   1   vamos
  11   0   van
   9   3   variado
@@ -1628,7 +1628,7 @@
  10   3   verdura
  10   0   ves
   3   3   vestido
-  4   3   vestirse
+  5   3   vestirse
  13   1   vez
  13   3   viajar
  13   3   viaje
@@ -1642,20 +1642,20 @@
   8   0   vino
   8   3   visado
   7   0   visitando
-  4   1   visitar
+  5   1   visitar
  12   0   vista
   4   0   vivamos
   4   0   vivid
-  4   0   vivieron
-  4   0   vivimos
-  4   0   viviste
-  4   0   vivisteis
-  4   1   vivió
-  4   1   viví
+  5   0   vivieron
+  5   0   vivimos
+  5   0   viviste
+  5   0   vivisteis
+  5   1   vivió
+  5   1   viví
   1   0   volvamos
   1   0   volved
   4   0   volvemos
-  4   1   volver
+  5   1   volver
  12   1   volver a
   7   2   volviendo
   4   0   volvéis
@@ -1674,7 +1674,7 @@
   5   0   vuestro
  30   0   y
  13   2   ya
-  2   0   yendo
+  3   0   yendo
  19   2   yo
   8   0   yogur
  10   7   zapatería
@@ -1720,9 +1720,9 @@
   6   3   ¿Tienes algún libro interesante?
   6   4   ¿Tienes el periódico de hoy?
   7   3   ¿Ya terminas de estudiar?
-  4   3   árbol
+  5   3   árbol
  30   0   él
-  4   2   época
+  5   2   época
  13   5   ése
  28   2   ésta
  19   2   éste
